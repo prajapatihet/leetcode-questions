@@ -5,7 +5,7 @@
     "Acceptance": "61.5%",
     "Difficulty": "Medium",
     "Frequency": 0.1257140692,
-    "Leetcode Question Link": " https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses"
+    "Leetcode Question Link": "https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses"
   },
   {
     "ID": 301,
@@ -13,7 +13,7 @@
     "Acceptance": "43.3%",
     "Difficulty": "Hard",
     "Frequency": 0.0871631566,
-    "Leetcode Question Link": " https://leetcode.com/problems/remove-invalid-parentheses"
+    "Leetcode Question Link": "https://leetcode.com/problems/remove-invalid-parentheses"
   },
   {
     "ID": 759,
@@ -21,7 +21,7 @@
     "Acceptance": "66.3%",
     "Difficulty": "Hard",
     "Frequency": 0.0486122441,
-    "Leetcode Question Link": " https://leetcode.com/problems/employee-free-time"
+    "Leetcode Question Link": "https://leetcode.com/problems/employee-free-time"
   },
   {
     "ID": 56,
@@ -29,7 +29,7 @@
     "Acceptance": "39.3%",
     "Difficulty": "Medium",
     "Frequency": 0.0215099061,
-    "Leetcode Question Link": " https://leetcode.com/problems/merge-intervals"
+    "Leetcode Question Link": "https://leetcode.com/problems/merge-intervals"
   },
   {
     "ID": 253,
@@ -37,7 +37,7 @@
     "Acceptance": "45.7%",
     "Difficulty": "Medium",
     "Frequency": 0.0180873098,
-    "Leetcode Question Link": " https://leetcode.com/problems/meeting-rooms-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/meeting-rooms-ii"
   },
   {
     "ID": 227,
@@ -45,7 +45,7 @@
     "Acceptance": "36.9%",
     "Difficulty": "Medium",
     "Frequency": 0.0123994149,
-    "Leetcode Question Link": " https://leetcode.com/problems/basic-calculator-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/basic-calculator-ii"
   },
   {
     "ID": 55,
@@ -53,7 +53,7 @@
     "Acceptance": "34.6%",
     "Difficulty": "Medium",
     "Frequency": 0.0112656092,
-    "Leetcode Question Link": " https://leetcode.com/problems/jump-game"
+    "Leetcode Question Link": "https://leetcode.com/problems/jump-game"
   },
   {
     "ID": 20,
@@ -61,7 +61,7 @@
     "Acceptance": "39.0%",
     "Difficulty": "Easy",
     "Frequency": 0.0023005704,
-    "Leetcode Question Link": " https://leetcode.com/problems/valid-parentheses"
+    "Leetcode Question Link": "https://leetcode.com/problems/valid-parentheses"
   },
   {
     "ID": 15,
@@ -69,6 +69,6 @@
     "Acceptance": "26.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0021990113,
-    "Leetcode Question Link": " https://leetcode.com/problems/3sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/3sum"
   }
 ]

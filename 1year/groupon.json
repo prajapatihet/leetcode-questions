@@ -5,7 +5,7 @@
     "Acceptance": "44.5%",
     "Difficulty": "Easy",
     "Frequency": 0.0038394278,
-    "Leetcode Question Link": " https://leetcode.com/problems/min-stack"
+    "Leetcode Question Link": "https://leetcode.com/problems/min-stack"
   },
   {
     "ID": 146,
@@ -13,7 +13,7 @@
     "Acceptance": "33.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0036908702,
-    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+    "Leetcode Question Link": "https://leetcode.com/problems/lru-cache"
   },
   {
     "ID": 1,
@@ -21,6 +21,6 @@
     "Acceptance": "45.6%",
     "Difficulty": "Easy",
     "Frequency": 0.0018454351,
-    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/two-sum"
   }
 ]

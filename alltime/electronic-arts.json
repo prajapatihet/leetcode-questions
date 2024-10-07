@@ -5,7 +5,7 @@
     "Acceptance": "48.9%",
     "Difficulty": "Hard",
     "Frequency": 0.0149290659,
-    "Leetcode Question Link": " https://leetcode.com/problems/trapping-rain-water"
+    "Leetcode Question Link": "https://leetcode.com/problems/trapping-rain-water"
   },
   {
     "ID": 49,
@@ -13,7 +13,7 @@
     "Acceptance": "56.9%",
     "Difficulty": "Medium",
     "Frequency": 0.0127691268,
-    "Leetcode Question Link": " https://leetcode.com/problems/group-anagrams"
+    "Leetcode Question Link": "https://leetcode.com/problems/group-anagrams"
   },
   {
     "ID": 200,
@@ -21,7 +21,7 @@
     "Acceptance": "46.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0091480769,
-    "Leetcode Question Link": " https://leetcode.com/problems/number-of-islands"
+    "Leetcode Question Link": "https://leetcode.com/problems/number-of-islands"
   },
   {
     "ID": 206,
@@ -29,7 +29,7 @@
     "Acceptance": "62.5%",
     "Difficulty": "Easy",
     "Frequency": 0.0052570215,
-    "Leetcode Question Link": " https://leetcode.com/problems/reverse-linked-list"
+    "Leetcode Question Link": "https://leetcode.com/problems/reverse-linked-list"
   },
   {
     "ID": 977,
@@ -37,6 +37,6 @@
     "Acceptance": "72.1%",
     "Difficulty": "Easy",
     "Frequency": 0.0038910555,
-    "Leetcode Question Link": " https://leetcode.com/problems/squares-of-a-sorted-array"
+    "Leetcode Question Link": "https://leetcode.com/problems/squares-of-a-sorted-array"
   }
 ]

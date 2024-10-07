@@ -5,7 +5,7 @@
     "Acceptance": "34.1%",
     "Difficulty": "Hard",
     "Frequency": 0.1058443509,
-    "Leetcode Question Link": " https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed"
+    "Leetcode Question Link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed"
   },
   {
     "ID": 380,
@@ -13,7 +13,7 @@
     "Acceptance": "47.5%",
     "Difficulty": "Medium",
     "Frequency": 0.0570019805,
-    "Leetcode Question Link": " https://leetcode.com/problems/insert-delete-getrandom-o1"
+    "Leetcode Question Link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
   },
   {
     "ID": 49,
@@ -21,7 +21,7 @@
     "Acceptance": "56.9%",
     "Difficulty": "Medium",
     "Frequency": 0.0081596101,
-    "Leetcode Question Link": " https://leetcode.com/problems/group-anagrams"
+    "Leetcode Question Link": "https://leetcode.com/problems/group-anagrams"
   },
   {
     "ID": 42,
@@ -29,7 +29,7 @@
     "Acceptance": "48.9%",
     "Difficulty": "Hard",
     "Frequency": 0.0041194703,
-    "Leetcode Question Link": " https://leetcode.com/problems/trapping-rain-water"
+    "Leetcode Question Link": "https://leetcode.com/problems/trapping-rain-water"
   },
   {
     "ID": 322,
@@ -37,6 +37,6 @@
     "Acceptance": "35.5%",
     "Difficulty": "Medium",
     "Frequency": 0.0038632461,
-    "Leetcode Question Link": " https://leetcode.com/problems/coin-change"
+    "Leetcode Question Link": "https://leetcode.com/problems/coin-change"
   }
 ]

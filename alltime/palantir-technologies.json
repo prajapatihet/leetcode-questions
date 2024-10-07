@@ -5,7 +5,7 @@
     "Acceptance": "37.5%",
     "Difficulty": "Medium",
     "Frequency": 5.3395425315,
-    "Leetcode Question Link": " https://leetcode.com/problems/utf-8-validation"
+    "Leetcode Question Link": "https://leetcode.com/problems/utf-8-validation"
   },
   {
     "ID": 539,
@@ -13,7 +13,7 @@
     "Acceptance": "51.5%",
     "Difficulty": "Medium",
     "Frequency": 4.5282542855,
-    "Leetcode Question Link": " https://leetcode.com/problems/minimum-time-difference"
+    "Leetcode Question Link": "https://leetcode.com/problems/minimum-time-difference"
   },
   {
     "ID": 56,
@@ -21,7 +21,7 @@
     "Acceptance": "39.3%",
     "Difficulty": "Medium",
     "Frequency": 2.7963305586,
-    "Leetcode Question Link": " https://leetcode.com/problems/merge-intervals"
+    "Leetcode Question Link": "https://leetcode.com/problems/merge-intervals"
   },
   {
     "ID": 273,
@@ -29,7 +29,7 @@
     "Acceptance": "27.1%",
     "Difficulty": "Hard",
     "Frequency": 1.0644068318,
-    "Leetcode Question Link": " https://leetcode.com/problems/integer-to-english-words"
+    "Leetcode Question Link": "https://leetcode.com/problems/integer-to-english-words"
   },
   {
     "ID": 146,
@@ -37,7 +37,7 @@
     "Acceptance": "33.2%",
     "Difficulty": "Medium",
     "Frequency": 1.012805321,
-    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+    "Leetcode Question Link": "https://leetcode.com/problems/lru-cache"
   },
   {
     "ID": 200,
@@ -45,7 +45,7 @@
     "Acceptance": "46.8%",
     "Difficulty": "Medium",
     "Frequency": 0.4752711668,
-    "Leetcode Question Link": " https://leetcode.com/problems/number-of-islands"
+    "Leetcode Question Link": "https://leetcode.com/problems/number-of-islands"
   },
   {
     "ID": 277,
@@ -53,7 +53,7 @@
     "Acceptance": "41.8%",
     "Difficulty": "Medium",
     "Frequency": 0.3142660341,
-    "Leetcode Question Link": " https://leetcode.com/problems/find-the-celebrity"
+    "Leetcode Question Link": "https://leetcode.com/problems/find-the-celebrity"
   },
   {
     "ID": 733,
@@ -61,7 +61,7 @@
     "Acceptance": "55.3%",
     "Difficulty": "Easy",
     "Frequency": 0.2057339974,
-    "Leetcode Question Link": " https://leetcode.com/problems/flood-fill"
+    "Leetcode Question Link": "https://leetcode.com/problems/flood-fill"
   },
   {
     "ID": 220,
@@ -69,7 +69,7 @@
     "Acceptance": "20.9%",
     "Difficulty": "Medium",
     "Frequency": 0.2043278424,
-    "Leetcode Question Link": " https://leetcode.com/problems/contains-duplicate-iii"
+    "Leetcode Question Link": "https://leetcode.com/problems/contains-duplicate-iii"
   },
   {
     "ID": 285,
@@ -77,7 +77,7 @@
     "Acceptance": "40.4%",
     "Difficulty": "Medium",
     "Frequency": 0.1320480796,
-    "Leetcode Question Link": " https://leetcode.com/problems/inorder-successor-in-bst"
+    "Leetcode Question Link": "https://leetcode.com/problems/inorder-successor-in-bst"
   },
   {
     "ID": 42,
@@ -85,7 +85,7 @@
     "Acceptance": "48.9%",
     "Difficulty": "Hard",
     "Frequency": 0.1238927638,
-    "Leetcode Question Link": " https://leetcode.com/problems/trapping-rain-water"
+    "Leetcode Question Link": "https://leetcode.com/problems/trapping-rain-water"
   },
   {
     "ID": 10,
@@ -93,7 +93,7 @@
     "Acceptance": "26.8%",
     "Difficulty": "Hard",
     "Frequency": 0.0284413056,
-    "Leetcode Question Link": " https://leetcode.com/problems/regular-expression-matching"
+    "Leetcode Question Link": "https://leetcode.com/problems/regular-expression-matching"
   },
   {
     "ID": 53,
@@ -101,7 +101,7 @@
     "Acceptance": "46.5%",
     "Difficulty": "Easy",
     "Frequency": 0.0134678543,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximum-subarray"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximum-subarray"
   },
   {
     "ID": 219,
@@ -109,7 +109,7 @@
     "Acceptance": "37.7%",
     "Difficulty": "Easy",
     "Frequency": 0.0127674891,
-    "Leetcode Question Link": " https://leetcode.com/problems/contains-duplicate-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/contains-duplicate-ii"
   },
   {
     "ID": 695,
@@ -117,7 +117,7 @@
     "Acceptance": "62.7%",
     "Difficulty": "Medium",
     "Frequency": 0.0126865006,
-    "Leetcode Question Link": " https://leetcode.com/problems/max-area-of-island"
+    "Leetcode Question Link": "https://leetcode.com/problems/max-area-of-island"
   },
   {
     "ID": 48,
@@ -125,7 +125,7 @@
     "Acceptance": "56.7%",
     "Difficulty": "Medium",
     "Frequency": 0.0114286958,
-    "Leetcode Question Link": " https://leetcode.com/problems/rotate-image"
+    "Leetcode Question Link": "https://leetcode.com/problems/rotate-image"
   },
   {
     "ID": 217,
@@ -133,7 +133,7 @@
     "Acceptance": "56.0%",
     "Difficulty": "Easy",
     "Frequency": 0.0085252008,
-    "Leetcode Question Link": " https://leetcode.com/problems/contains-duplicate"
+    "Leetcode Question Link": "https://leetcode.com/problems/contains-duplicate"
   },
   {
     "ID": 136,
@@ -141,7 +141,7 @@
     "Acceptance": "65.5%",
     "Difficulty": "Easy",
     "Frequency": 0.006445167,
-    "Leetcode Question Link": " https://leetcode.com/problems/single-number"
+    "Leetcode Question Link": "https://leetcode.com/problems/single-number"
   },
   {
     "ID": 303,
@@ -149,7 +149,7 @@
     "Acceptance": "44.7%",
     "Difficulty": "Easy",
     "Frequency": 0.0,
-    "Leetcode Question Link": " https://leetcode.com/problems/range-sum-query-immutable"
+    "Leetcode Question Link": "https://leetcode.com/problems/range-sum-query-immutable"
   },
   {
     "ID": 325,
@@ -157,6 +157,6 @@
     "Acceptance": "46.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximum-size-subarray-sum-equals-k"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximum-size-subarray-sum-equals-k"
   }
 ]

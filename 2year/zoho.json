@@ -5,7 +5,7 @@
     "Acceptance": "33.9%",
     "Difficulty": "Medium",
     "Frequency": 0.0045738143,
-    "Leetcode Question Link": " https://leetcode.com/problems/add-two-numbers"
+    "Leetcode Question Link": "https://leetcode.com/problems/add-two-numbers"
   },
   {
     "ID": 3,
@@ -13,7 +13,7 @@
     "Acceptance": "30.4%",
     "Difficulty": "Medium",
     "Frequency": 0.0040444465,
-    "Leetcode Question Link": " https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    "Leetcode Question Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
   },
   {
     "ID": 15,
@@ -21,7 +21,7 @@
     "Acceptance": "26.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0021990113,
-    "Leetcode Question Link": " https://leetcode.com/problems/3sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/3sum"
   },
   {
     "ID": 1,
@@ -29,6 +29,6 @@
     "Acceptance": "45.6%",
     "Difficulty": "Easy",
     "Frequency": 0.0018454351,
-    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/two-sum"
   }
 ]

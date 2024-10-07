@@ -5,7 +5,7 @@
     "Acceptance": "60.1%",
     "Difficulty": "Medium",
     "Frequency": 0.1924592954,
-    "Leetcode Question Link": " https://leetcode.com/problems/product-of-array-except-self"
+    "Leetcode Question Link": "https://leetcode.com/problems/product-of-array-except-self"
   },
   {
     "ID": 273,
@@ -13,7 +13,7 @@
     "Acceptance": "27.1%",
     "Difficulty": "Hard",
     "Frequency": 0.1453851138,
-    "Leetcode Question Link": " https://leetcode.com/problems/integer-to-english-words"
+    "Leetcode Question Link": "https://leetcode.com/problems/integer-to-english-words"
   },
   {
     "ID": 51,
@@ -21,7 +21,7 @@
     "Acceptance": "46.6%",
     "Difficulty": "Hard",
     "Frequency": 0.0983109322,
-    "Leetcode Question Link": " https://leetcode.com/problems/n-queens"
+    "Leetcode Question Link": "https://leetcode.com/problems/n-queens"
   },
   {
     "ID": 218,
@@ -29,7 +29,7 @@
     "Acceptance": "34.6%",
     "Difficulty": "Hard",
     "Frequency": 0.0982384396,
-    "Leetcode Question Link": " https://leetcode.com/problems/the-skyline-problem"
+    "Leetcode Question Link": "https://leetcode.com/problems/the-skyline-problem"
   },
   {
     "ID": 706,
@@ -37,7 +37,7 @@
     "Acceptance": "61.3%",
     "Difficulty": "Easy",
     "Frequency": 0.0683442674,
-    "Leetcode Question Link": " https://leetcode.com/problems/design-hashmap"
+    "Leetcode Question Link": "https://leetcode.com/problems/design-hashmap"
   },
   {
     "ID": 297,
@@ -45,7 +45,7 @@
     "Acceptance": "47.5%",
     "Difficulty": "Hard",
     "Frequency": 0.0619606274,
-    "Leetcode Question Link": " https://leetcode.com/problems/serialize-and-deserialize-binary-tree"
+    "Leetcode Question Link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree"
   },
   {
     "ID": 227,
@@ -53,7 +53,7 @@
     "Acceptance": "36.9%",
     "Difficulty": "Medium",
     "Frequency": 0.0276855579,
-    "Leetcode Question Link": " https://leetcode.com/problems/basic-calculator-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/basic-calculator-ii"
   },
   {
     "ID": 200,
@@ -61,7 +61,7 @@
     "Acceptance": "46.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0257120292,
-    "Leetcode Question Link": " https://leetcode.com/problems/number-of-islands"
+    "Leetcode Question Link": "https://leetcode.com/problems/number-of-islands"
   },
   {
     "ID": 121,
@@ -69,7 +69,7 @@
     "Acceptance": "50.5%",
     "Difficulty": "Easy",
     "Frequency": 0.0189549191,
-    "Leetcode Question Link": " https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+    "Leetcode Question Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
   },
   {
     "ID": 23,
@@ -77,7 +77,7 @@
     "Acceptance": "40.2%",
     "Difficulty": "Hard",
     "Frequency": 0.0161082714,
-    "Leetcode Question Link": " https://leetcode.com/problems/merge-k-sorted-lists"
+    "Leetcode Question Link": "https://leetcode.com/problems/merge-k-sorted-lists"
   },
   {
     "ID": 57,
@@ -85,7 +85,7 @@
     "Acceptance": "33.5%",
     "Difficulty": "Hard",
     "Frequency": 0.0131192436,
-    "Leetcode Question Link": " https://leetcode.com/problems/insert-interval"
+    "Leetcode Question Link": "https://leetcode.com/problems/insert-interval"
   },
   {
     "ID": 1,
@@ -93,7 +93,7 @@
     "Acceptance": "45.6%",
     "Difficulty": "Easy",
     "Frequency": 0.0130496918,
-    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/two-sum"
   },
   {
     "ID": 42,
@@ -101,7 +101,7 @@
     "Acceptance": "48.9%",
     "Difficulty": "Hard",
     "Frequency": 0.0043506703,
-    "Leetcode Question Link": " https://leetcode.com/problems/trapping-rain-water"
+    "Leetcode Question Link": "https://leetcode.com/problems/trapping-rain-water"
   },
   {
     "ID": 88,
@@ -109,6 +109,6 @@
     "Acceptance": "39.4%",
     "Difficulty": "Easy",
     "Frequency": 0.0030102371,
-    "Leetcode Question Link": " https://leetcode.com/problems/merge-sorted-array"
+    "Leetcode Question Link": "https://leetcode.com/problems/merge-sorted-array"
   }
 ]

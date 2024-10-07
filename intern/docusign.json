@@ -5,7 +5,7 @@
     "Acceptance": "38.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0094298693,
-    "Leetcode Question Link": " https://leetcode.com/problems/reverse-linked-list-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/reverse-linked-list-ii"
   },
   {
     "ID": 73,
@@ -13,7 +13,7 @@
     "Acceptance": "43.1%",
     "Difficulty": "Medium",
     "Frequency": 0.0070151112,
-    "Leetcode Question Link": " https://leetcode.com/problems/set-matrix-zeroes"
+    "Leetcode Question Link": "https://leetcode.com/problems/set-matrix-zeroes"
   },
   {
     "ID": 146,
@@ -21,7 +21,7 @@
     "Acceptance": "33.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0046003531,
-    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+    "Leetcode Question Link": "https://leetcode.com/problems/lru-cache"
   },
   {
     "ID": 242,
@@ -29,7 +29,7 @@
     "Acceptance": "56.9%",
     "Difficulty": "Easy",
     "Frequency": 0.0041541237,
-    "Leetcode Question Link": " https://leetcode.com/problems/valid-anagram"
+    "Leetcode Question Link": "https://leetcode.com/problems/valid-anagram"
   },
   {
     "ID": 49,
@@ -37,7 +37,7 @@
     "Acceptance": "56.9%",
     "Difficulty": "Medium",
     "Frequency": 0.003804094,
-    "Leetcode Question Link": " https://leetcode.com/problems/group-anagrams"
+    "Leetcode Question Link": "https://leetcode.com/problems/group-anagrams"
   },
   {
     "ID": 2,
@@ -45,7 +45,7 @@
     "Acceptance": "33.9%",
     "Difficulty": "Medium",
     "Frequency": 0.0037953911,
-    "Leetcode Question Link": " https://leetcode.com/problems/add-two-numbers"
+    "Leetcode Question Link": "https://leetcode.com/problems/add-two-numbers"
   },
   {
     "ID": 79,
@@ -53,6 +53,6 @@
     "Acceptance": "35.6%",
     "Difficulty": "Medium",
     "Frequency": 0.0016647249,
-    "Leetcode Question Link": " https://leetcode.com/problems/word-search"
+    "Leetcode Question Link": "https://leetcode.com/problems/word-search"
   }
 ]

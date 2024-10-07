@@ -5,7 +5,7 @@
     "Acceptance": "63.5%",
     "Difficulty": "Medium",
     "Frequency": 0.0006322826,
-    "Leetcode Question Link": " https://leetcode.com/problems/permutations"
+    "Leetcode Question Link": "https://leetcode.com/problems/permutations"
   },
   {
     "ID": 4,
@@ -13,7 +13,7 @@
     "Acceptance": "29.6%",
     "Difficulty": "Hard",
     "Frequency": 0.0003161413,
-    "Leetcode Question Link": " https://leetcode.com/problems/median-of-two-sorted-arrays"
+    "Leetcode Question Link": "https://leetcode.com/problems/median-of-two-sorted-arrays"
   },
   {
     "ID": 810,
@@ -21,6 +21,6 @@
     "Acceptance": "48.2%",
     "Difficulty": "Hard",
     "Frequency": 0.0,
-    "Leetcode Question Link": " https://leetcode.com/problems/chalkboard-xor-game"
+    "Leetcode Question Link": "https://leetcode.com/problems/chalkboard-xor-game"
   }
 ]

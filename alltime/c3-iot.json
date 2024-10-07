@@ -5,7 +5,7 @@
     "Acceptance": "43.2%",
     "Difficulty": "Medium",
     "Frequency": 0,
-    "Leetcode Question Link": " https://leetcode.com/problems/binary-subarrays-with-sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/binary-subarrays-with-sum"
   },
   {
     "ID": 976,
@@ -13,6 +13,6 @@
     "Acceptance": "57.6%",
     "Difficulty": "Easy",
     "Frequency": 0,
-    "Leetcode Question Link": " https://leetcode.com/problems/largest-perimeter-triangle"
+    "Leetcode Question Link": "https://leetcode.com/problems/largest-perimeter-triangle"
   }
 ]

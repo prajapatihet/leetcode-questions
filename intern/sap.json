@@ -5,7 +5,7 @@
     "Acceptance": "42.0%",
     "Difficulty": "Hard",
     "Frequency": 0.0796624661,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximum-students-taking-exam"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximum-students-taking-exam"
   },
   {
     "ID": 1283,
@@ -13,7 +13,7 @@
     "Acceptance": "47.6%",
     "Difficulty": "Medium",
     "Frequency": 0.0477988237,
-    "Leetcode Question Link": " https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold"
+    "Leetcode Question Link": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold"
   },
   {
     "ID": 509,
@@ -21,7 +21,7 @@
     "Acceptance": "67.2%",
     "Difficulty": "Easy",
     "Frequency": 0.0159351814,
-    "Leetcode Question Link": " https://leetcode.com/problems/fibonacci-number"
+    "Leetcode Question Link": "https://leetcode.com/problems/fibonacci-number"
   },
   {
     "ID": 322,
@@ -29,7 +29,7 @@
     "Acceptance": "35.5%",
     "Difficulty": "Medium",
     "Frequency": 0.0040298261,
-    "Leetcode Question Link": " https://leetcode.com/problems/coin-change"
+    "Leetcode Question Link": "https://leetcode.com/problems/coin-change"
   },
   {
     "ID": 1,
@@ -37,6 +37,6 @@
     "Acceptance": "45.6%",
     "Difficulty": "Easy",
     "Frequency": 0.0008206139,
-    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/two-sum"
   }
 ]

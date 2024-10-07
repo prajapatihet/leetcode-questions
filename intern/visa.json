@@ -5,7 +5,7 @@
     "Acceptance": "30.5%",
     "Difficulty": "Medium",
     "Frequency": 0.0064738325,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended"
   },
   {
     "ID": 42,
@@ -13,7 +13,7 @@
     "Acceptance": "48.9%",
     "Difficulty": "Hard",
     "Frequency": 0.0043506703,
-    "Leetcode Question Link": " https://leetcode.com/problems/trapping-rain-water"
+    "Leetcode Question Link": "https://leetcode.com/problems/trapping-rain-water"
   },
   {
     "ID": 98,
@@ -21,7 +21,7 @@
     "Acceptance": "27.8%",
     "Difficulty": "Medium",
     "Frequency": 0.002943776,
-    "Leetcode Question Link": " https://leetcode.com/problems/validate-binary-search-tree"
+    "Leetcode Question Link": "https://leetcode.com/problems/validate-binary-search-tree"
   },
   {
     "ID": 1,
@@ -29,6 +29,6 @@
     "Acceptance": "45.6%",
     "Difficulty": "Easy",
     "Frequency": 0.0008206139,
-    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/two-sum"
   }
 ]

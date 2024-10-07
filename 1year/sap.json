@@ -5,7 +5,7 @@
     "Acceptance": "42.0%",
     "Difficulty": "Hard",
     "Frequency": 0.1217942496,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximum-students-taking-exam"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximum-students-taking-exam"
   },
   {
     "ID": 738,
@@ -13,7 +13,7 @@
     "Acceptance": "44.3%",
     "Difficulty": "Medium",
     "Frequency": 0.0847965367,
-    "Leetcode Question Link": " https://leetcode.com/problems/monotone-increasing-digits"
+    "Leetcode Question Link": "https://leetcode.com/problems/monotone-increasing-digits"
   },
   {
     "ID": 1283,
@@ -21,7 +21,7 @@
     "Acceptance": "47.6%",
     "Difficulty": "Medium",
     "Frequency": 0.0477988237,
-    "Leetcode Question Link": " https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold"
+    "Leetcode Question Link": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold"
   },
   {
     "ID": 1048,
@@ -29,7 +29,7 @@
     "Acceptance": "54.7%",
     "Difficulty": "Medium",
     "Frequency": 0.019361689,
-    "Leetcode Question Link": " https://leetcode.com/problems/longest-string-chain"
+    "Leetcode Question Link": "https://leetcode.com/problems/longest-string-chain"
   },
   {
     "ID": 509,
@@ -37,7 +37,7 @@
     "Acceptance": "67.2%",
     "Difficulty": "Easy",
     "Frequency": 0.0159351814,
-    "Leetcode Question Link": " https://leetcode.com/problems/fibonacci-number"
+    "Leetcode Question Link": "https://leetcode.com/problems/fibonacci-number"
   },
   {
     "ID": 8,
@@ -45,7 +45,7 @@
     "Acceptance": "15.4%",
     "Difficulty": "Medium",
     "Frequency": 0.0085131048,
-    "Leetcode Question Link": " https://leetcode.com/problems/string-to-integer-atoi"
+    "Leetcode Question Link": "https://leetcode.com/problems/string-to-integer-atoi"
   },
   {
     "ID": 209,
@@ -53,7 +53,7 @@
     "Acceptance": "38.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0084140168,
-    "Leetcode Question Link": " https://leetcode.com/problems/minimum-size-subarray-sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/minimum-size-subarray-sum"
   },
   {
     "ID": 322,
@@ -61,7 +61,7 @@
     "Acceptance": "35.5%",
     "Difficulty": "Medium",
     "Frequency": 0.0040298261,
-    "Leetcode Question Link": " https://leetcode.com/problems/coin-change"
+    "Leetcode Question Link": "https://leetcode.com/problems/coin-change"
   },
   {
     "ID": 1,
@@ -69,7 +69,7 @@
     "Acceptance": "45.6%",
     "Difficulty": "Easy",
     "Frequency": 0.0032784227,
-    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/two-sum"
   },
   {
     "ID": 5,
@@ -77,7 +77,7 @@
     "Acceptance": "29.5%",
     "Difficulty": "Medium",
     "Frequency": 0.0022793331,
-    "Leetcode Question Link": " https://leetcode.com/problems/longest-palindromic-substring"
+    "Leetcode Question Link": "https://leetcode.com/problems/longest-palindromic-substring"
   },
   {
     "ID": 121,
@@ -85,6 +85,6 @@
     "Acceptance": "50.5%",
     "Difficulty": "Easy",
     "Frequency": 0.0021239322,
-    "Leetcode Question Link": " https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+    "Leetcode Question Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
   }
 ]

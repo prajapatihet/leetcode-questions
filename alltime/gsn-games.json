@@ -5,7 +5,7 @@
     "Acceptance": "80.8%",
     "Difficulty": "Easy",
     "Frequency": 0,
-    "Leetcode Question Link": " https://leetcode.com/problems/game-play-analysis-i"
+    "Leetcode Question Link": "https://leetcode.com/problems/game-play-analysis-i"
   },
   {
     "ID": 512,
@@ -13,7 +13,7 @@
     "Acceptance": "55.5%",
     "Difficulty": "Easy",
     "Frequency": 0,
-    "Leetcode Question Link": " https://leetcode.com/problems/game-play-analysis-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/game-play-analysis-ii"
   },
   {
     "ID": 534,
@@ -21,7 +21,7 @@
     "Acceptance": "76.0%",
     "Difficulty": "Medium",
     "Frequency": 0,
-    "Leetcode Question Link": " https://leetcode.com/problems/game-play-analysis-iii"
+    "Leetcode Question Link": "https://leetcode.com/problems/game-play-analysis-iii"
   },
   {
     "ID": 550,
@@ -29,7 +29,7 @@
     "Acceptance": "45.3%",
     "Difficulty": "Medium",
     "Frequency": 0,
-    "Leetcode Question Link": " https://leetcode.com/problems/game-play-analysis-iv"
+    "Leetcode Question Link": "https://leetcode.com/problems/game-play-analysis-iv"
   },
   {
     "ID": 1097,
@@ -37,6 +37,6 @@
     "Acceptance": "54.5%",
     "Difficulty": "Hard",
     "Frequency": 0,
-    "Leetcode Question Link": " https://leetcode.com/problems/game-play-analysis-v"
+    "Leetcode Question Link": "https://leetcode.com/problems/game-play-analysis-v"
   }
 ]

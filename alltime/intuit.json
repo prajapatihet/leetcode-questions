@@ -5,7 +5,7 @@
     "Acceptance": "69.9%",
     "Difficulty": "Easy",
     "Frequency": 3.0230924504,
-    "Leetcode Question Link": " https://leetcode.com/problems/subdomain-visit-count"
+    "Leetcode Question Link": "https://leetcode.com/problems/subdomain-visit-count"
   },
   {
     "ID": 770,
@@ -13,7 +13,7 @@
     "Acceptance": "48.1%",
     "Difficulty": "Hard",
     "Frequency": 2.277267285,
-    "Leetcode Question Link": " https://leetcode.com/problems/basic-calculator-iv"
+    "Leetcode Question Link": "https://leetcode.com/problems/basic-calculator-iv"
   },
   {
     "ID": 68,
@@ -21,7 +21,7 @@
     "Acceptance": "27.7%",
     "Difficulty": "Hard",
     "Frequency": 1.8708853641,
-    "Leetcode Question Link": " https://leetcode.com/problems/text-justification"
+    "Leetcode Question Link": "https://leetcode.com/problems/text-justification"
   },
   {
     "ID": 224,
@@ -29,7 +29,7 @@
     "Acceptance": "36.8%",
     "Difficulty": "Hard",
     "Frequency": 1.204714055,
-    "Leetcode Question Link": " https://leetcode.com/problems/basic-calculator"
+    "Leetcode Question Link": "https://leetcode.com/problems/basic-calculator"
   },
   {
     "ID": 718,
@@ -37,7 +37,7 @@
     "Acceptance": "49.4%",
     "Difficulty": "Medium",
     "Frequency": 0.4588888896,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximum-length-of-repeated-subarray"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximum-length-of-repeated-subarray"
   },
   {
     "ID": 729,
@@ -45,7 +45,7 @@
     "Acceptance": "51.8%",
     "Difficulty": "Medium",
     "Frequency": 0.3746934494,
-    "Leetcode Question Link": " https://leetcode.com/problems/my-calendar-i"
+    "Leetcode Question Link": "https://leetcode.com/problems/my-calendar-i"
   },
   {
     "ID": 146,
@@ -53,7 +53,7 @@
     "Acceptance": "33.2%",
     "Difficulty": "Medium",
     "Frequency": 0.3479336801,
-    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+    "Leetcode Question Link": "https://leetcode.com/problems/lru-cache"
   },
   {
     "ID": 207,
@@ -61,7 +61,7 @@
     "Acceptance": "43.1%",
     "Difficulty": "Medium",
     "Frequency": 0.276485008,
-    "Leetcode Question Link": " https://leetcode.com/problems/course-schedule"
+    "Leetcode Question Link": "https://leetcode.com/problems/course-schedule"
   },
   {
     "ID": 227,
@@ -69,7 +69,7 @@
     "Acceptance": "36.9%",
     "Difficulty": "Medium",
     "Frequency": 0.182009593,
-    "Leetcode Question Link": " https://leetcode.com/problems/basic-calculator-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/basic-calculator-ii"
   },
   {
     "ID": 759,
@@ -77,7 +77,7 @@
     "Acceptance": "66.3%",
     "Difficulty": "Hard",
     "Frequency": 0.1816986979,
-    "Leetcode Question Link": " https://leetcode.com/problems/employee-free-time"
+    "Leetcode Question Link": "https://leetcode.com/problems/employee-free-time"
   },
   {
     "ID": 79,
@@ -85,7 +85,7 @@
     "Acceptance": "35.6%",
     "Difficulty": "Medium",
     "Frequency": 0.1686356391,
-    "Leetcode Question Link": " https://leetcode.com/problems/word-search"
+    "Leetcode Question Link": "https://leetcode.com/problems/word-search"
   },
   {
     "ID": 409,
@@ -93,7 +93,7 @@
     "Acceptance": "50.3%",
     "Difficulty": "Easy",
     "Frequency": 0.1461170581,
-    "Leetcode Question Link": " https://leetcode.com/problems/longest-palindrome"
+    "Leetcode Question Link": "https://leetcode.com/problems/longest-palindrome"
   },
   {
     "ID": 1,
@@ -101,7 +101,7 @@
     "Acceptance": "45.6%",
     "Difficulty": "Easy",
     "Frequency": 0.1030715504,
-    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/two-sum"
   },
   {
     "ID": 56,
@@ -109,7 +109,7 @@
     "Acceptance": "39.3%",
     "Difficulty": "Medium",
     "Frequency": 0.0833955243,
-    "Leetcode Question Link": " https://leetcode.com/problems/merge-intervals"
+    "Leetcode Question Link": "https://leetcode.com/problems/merge-intervals"
   },
   {
     "ID": 210,
@@ -117,7 +117,7 @@
     "Acceptance": "40.7%",
     "Difficulty": "Medium",
     "Frequency": 0.0776259548,
-    "Leetcode Question Link": " https://leetcode.com/problems/course-schedule-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/course-schedule-ii"
   },
   {
     "ID": 124,
@@ -125,7 +125,7 @@
     "Acceptance": "34.3%",
     "Difficulty": "Hard",
     "Frequency": 0.0657425526,
-    "Leetcode Question Link": " https://leetcode.com/problems/binary-tree-maximum-path-sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/binary-tree-maximum-path-sum"
   },
   {
     "ID": 695,
@@ -133,7 +133,7 @@
     "Acceptance": "62.7%",
     "Difficulty": "Medium",
     "Frequency": 0.0498079914,
-    "Leetcode Question Link": " https://leetcode.com/problems/max-area-of-island"
+    "Leetcode Question Link": "https://leetcode.com/problems/max-area-of-island"
   },
   {
     "ID": 20,
@@ -141,7 +141,7 @@
     "Acceptance": "39.0%",
     "Difficulty": "Easy",
     "Frequency": 0.0278237345,
-    "Leetcode Question Link": " https://leetcode.com/problems/valid-parentheses"
+    "Leetcode Question Link": "https://leetcode.com/problems/valid-parentheses"
   },
   {
     "ID": 236,
@@ -149,7 +149,7 @@
     "Acceptance": "45.7%",
     "Difficulty": "Medium",
     "Frequency": 0.0187249473,
-    "Leetcode Question Link": " https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree"
+    "Leetcode Question Link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree"
   },
   {
     "ID": 155,
@@ -157,7 +157,7 @@
     "Acceptance": "44.5%",
     "Difficulty": "Easy",
     "Frequency": 0.0106535099,
-    "Leetcode Question Link": " https://leetcode.com/problems/min-stack"
+    "Leetcode Question Link": "https://leetcode.com/problems/min-stack"
   },
   {
     "ID": 72,
@@ -165,7 +165,7 @@
     "Acceptance": "44.8%",
     "Difficulty": "Hard",
     "Frequency": 0.0100176145,
-    "Leetcode Question Link": " https://leetcode.com/problems/edit-distance"
+    "Leetcode Question Link": "https://leetcode.com/problems/edit-distance"
   },
   {
     "ID": 287,
@@ -173,7 +173,7 @@
     "Acceptance": "55.5%",
     "Difficulty": "Medium",
     "Frequency": 0.0055013204,
-    "Leetcode Question Link": " https://leetcode.com/problems/find-the-duplicate-number"
+    "Leetcode Question Link": "https://leetcode.com/problems/find-the-duplicate-number"
   },
   {
     "ID": 49,
@@ -181,7 +181,7 @@
     "Acceptance": "56.9%",
     "Difficulty": "Medium",
     "Frequency": 0.003804094,
-    "Leetcode Question Link": " https://leetcode.com/problems/group-anagrams"
+    "Leetcode Question Link": "https://leetcode.com/problems/group-anagrams"
   },
   {
     "ID": 628,
@@ -189,6 +189,6 @@
     "Acceptance": "47.1%",
     "Difficulty": "Easy",
     "Frequency": 0.0,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximum-product-of-three-numbers"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximum-product-of-three-numbers"
   }
 ]

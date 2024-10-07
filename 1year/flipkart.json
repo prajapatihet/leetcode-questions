@@ -5,7 +5,7 @@
     "Acceptance": "33.9%",
     "Difficulty": "Hard",
     "Frequency": 0.0245913357,
-    "Leetcode Question Link": " https://leetcode.com/problems/cherry-pickup"
+    "Leetcode Question Link": "https://leetcode.com/problems/cherry-pickup"
   },
   {
     "ID": 84,
@@ -13,7 +13,7 @@
     "Acceptance": "35.2%",
     "Difficulty": "Hard",
     "Frequency": 0.0186611262,
-    "Leetcode Question Link": " https://leetcode.com/problems/largest-rectangle-in-histogram"
+    "Leetcode Question Link": "https://leetcode.com/problems/largest-rectangle-in-histogram"
   },
   {
     "ID": 269,
@@ -21,7 +21,7 @@
     "Acceptance": "33.3%",
     "Difficulty": "Hard",
     "Frequency": 0.0127309167,
-    "Leetcode Question Link": " https://leetcode.com/problems/alien-dictionary"
+    "Leetcode Question Link": "https://leetcode.com/problems/alien-dictionary"
   },
   {
     "ID": 994,
@@ -29,7 +29,7 @@
     "Acceptance": "49.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0076307123,
-    "Leetcode Question Link": " https://leetcode.com/problems/rotting-oranges"
+    "Leetcode Question Link": "https://leetcode.com/problems/rotting-oranges"
   },
   {
     "ID": 155,
@@ -37,6 +37,6 @@
     "Acceptance": "44.5%",
     "Difficulty": "Easy",
     "Frequency": 0.0047489107,
-    "Leetcode Question Link": " https://leetcode.com/problems/min-stack"
+    "Leetcode Question Link": "https://leetcode.com/problems/min-stack"
   }
 ]

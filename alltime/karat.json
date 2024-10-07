@@ -5,7 +5,7 @@
     "Acceptance": "69.9%",
     "Difficulty": "Easy",
     "Frequency": 1.0710122881,
-    "Leetcode Question Link": " https://leetcode.com/problems/subdomain-visit-count"
+    "Leetcode Question Link": "https://leetcode.com/problems/subdomain-visit-count"
   },
   {
     "ID": 224,
@@ -13,7 +13,7 @@
     "Acceptance": "36.8%",
     "Difficulty": "Hard",
     "Frequency": 0.5668534552,
-    "Leetcode Question Link": " https://leetcode.com/problems/basic-calculator"
+    "Leetcode Question Link": "https://leetcode.com/problems/basic-calculator"
   },
   {
     "ID": 718,
@@ -21,7 +21,7 @@
     "Acceptance": "49.4%",
     "Difficulty": "Medium",
     "Frequency": 0.0626946223,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximum-length-of-repeated-subarray"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximum-length-of-repeated-subarray"
   },
   {
     "ID": 85,
@@ -29,6 +29,6 @@
     "Acceptance": "37.7%",
     "Difficulty": "Hard",
     "Frequency": 0.0133335309,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximal-rectangle"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximal-rectangle"
   }
 ]

@@ -5,7 +5,7 @@
     "Acceptance": "35.4%",
     "Difficulty": "Hard",
     "Frequency": 0,
-    "Leetcode Question Link": " https://leetcode.com/problems/escape-a-large-maze"
+    "Leetcode Question Link": "https://leetcode.com/problems/escape-a-large-maze"
   },
   {
     "ID": 1162,
@@ -13,6 +13,6 @@
     "Acceptance": "43.5%",
     "Difficulty": "Medium",
     "Frequency": 0,
-    "Leetcode Question Link": " https://leetcode.com/problems/as-far-from-land-as-possible"
+    "Leetcode Question Link": "https://leetcode.com/problems/as-far-from-land-as-possible"
   }
 ]

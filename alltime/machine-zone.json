@@ -5,7 +5,7 @@
     "Acceptance": "38.5%",
     "Difficulty": "Hard",
     "Frequency": 0.3364722366,
-    "Leetcode Question Link": " https://leetcode.com/problems/range-module"
+    "Leetcode Question Link": "https://leetcode.com/problems/range-module"
   },
   {
     "ID": 1336,
@@ -13,6 +13,6 @@
     "Acceptance": "43.7%",
     "Difficulty": "Hard",
     "Frequency": 0.0,
-    "Leetcode Question Link": " https://leetcode.com/problems/number-of-transactions-per-visit"
+    "Leetcode Question Link": "https://leetcode.com/problems/number-of-transactions-per-visit"
   }
 ]

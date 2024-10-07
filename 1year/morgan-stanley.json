@@ -5,7 +5,7 @@
     "Acceptance": "50.5%",
     "Difficulty": "Easy",
     "Frequency": 0.0075023716,
-    "Leetcode Question Link": " https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+    "Leetcode Question Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
   },
   {
     "ID": 41,
@@ -13,7 +13,7 @@
     "Acceptance": "32.0%",
     "Difficulty": "Hard",
     "Frequency": 0.0054448818,
-    "Leetcode Question Link": " https://leetcode.com/problems/first-missing-positive"
+    "Leetcode Question Link": "https://leetcode.com/problems/first-missing-positive"
   },
   {
     "ID": 160,
@@ -21,7 +21,7 @@
     "Acceptance": "40.6%",
     "Difficulty": "Easy",
     "Frequency": 0.0039349459,
-    "Leetcode Question Link": " https://leetcode.com/problems/intersection-of-two-linked-lists"
+    "Leetcode Question Link": "https://leetcode.com/problems/intersection-of-two-linked-lists"
   },
   {
     "ID": 53,
@@ -29,7 +29,7 @@
     "Acceptance": "46.5%",
     "Difficulty": "Easy",
     "Frequency": 0.003902925,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximum-subarray"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximum-subarray"
   },
   {
     "ID": 1,
@@ -37,6 +37,6 @@
     "Acceptance": "45.6%",
     "Difficulty": "Easy",
     "Frequency": 0.0018454351,
-    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/two-sum"
   }
 ]

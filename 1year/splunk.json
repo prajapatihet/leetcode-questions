@@ -5,7 +5,7 @@
     "Acceptance": "48.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0466170663,
-    "Leetcode Question Link": " https://leetcode.com/problems/diagonal-traverse"
+    "Leetcode Question Link": "https://leetcode.com/problems/diagonal-traverse"
   },
   {
     "ID": 130,
@@ -13,7 +13,7 @@
     "Acceptance": "28.1%",
     "Difficulty": "Medium",
     "Frequency": 0.025562312,
-    "Leetcode Question Link": " https://leetcode.com/problems/surrounded-regions"
+    "Leetcode Question Link": "https://leetcode.com/problems/surrounded-regions"
   },
   {
     "ID": 236,
@@ -21,7 +21,7 @@
     "Acceptance": "45.7%",
     "Difficulty": "Medium",
     "Frequency": 0.0045075578,
-    "Leetcode Question Link": " https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree"
+    "Leetcode Question Link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree"
   },
   {
     "ID": 146,
@@ -29,7 +29,7 @@
     "Acceptance": "33.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0043706363,
-    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+    "Leetcode Question Link": "https://leetcode.com/problems/lru-cache"
   },
   {
     "ID": 238,
@@ -37,7 +37,7 @@
     "Acceptance": "60.1%",
     "Difficulty": "Medium",
     "Frequency": 0.0037572841,
-    "Leetcode Question Link": " https://leetcode.com/problems/product-of-array-except-self"
+    "Leetcode Question Link": "https://leetcode.com/problems/product-of-array-except-self"
   },
   {
     "ID": 977,
@@ -45,7 +45,7 @@
     "Acceptance": "72.1%",
     "Difficulty": "Easy",
     "Frequency": 0.0037330888,
-    "Leetcode Question Link": " https://leetcode.com/problems/squares-of-a-sorted-array"
+    "Leetcode Question Link": "https://leetcode.com/problems/squares-of-a-sorted-array"
   },
   {
     "ID": 1,
@@ -53,7 +53,7 @@
     "Acceptance": "45.6%",
     "Difficulty": "Easy",
     "Frequency": 0.0031395968,
-    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/two-sum"
   },
   {
     "ID": 20,
@@ -61,6 +61,6 @@
     "Acceptance": "39.0%",
     "Difficulty": "Easy",
     "Frequency": 0.0021976823,
-    "Leetcode Question Link": " https://leetcode.com/problems/valid-parentheses"
+    "Leetcode Question Link": "https://leetcode.com/problems/valid-parentheses"
   }
 ]

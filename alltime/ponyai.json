@@ -5,7 +5,7 @@
     "Acceptance": "43.4%",
     "Difficulty": "Hard",
     "Frequency": 0.4894087826,
-    "Leetcode Question Link": " https://leetcode.com/problems/word-pattern-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/word-pattern-ii"
   },
   {
     "ID": 786,
@@ -13,7 +13,7 @@
     "Acceptance": "41.0%",
     "Difficulty": "Hard",
     "Frequency": 0.2608348224,
-    "Leetcode Question Link": " https://leetcode.com/problems/k-th-smallest-prime-fraction"
+    "Leetcode Question Link": "https://leetcode.com/problems/k-th-smallest-prime-fraction"
   },
   {
     "ID": 301,
@@ -21,7 +21,7 @@
     "Acceptance": "43.3%",
     "Difficulty": "Hard",
     "Frequency": 0.0322608622,
-    "Leetcode Question Link": " https://leetcode.com/problems/remove-invalid-parentheses"
+    "Leetcode Question Link": "https://leetcode.com/problems/remove-invalid-parentheses"
   },
   {
     "ID": 1235,
@@ -29,6 +29,6 @@
     "Acceptance": "44.0%",
     "Difficulty": "Hard",
     "Frequency": 0.0,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximum-profit-in-job-scheduling"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling"
   }
 ]

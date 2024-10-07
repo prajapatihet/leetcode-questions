@@ -5,7 +5,7 @@
     "Acceptance": "42.9%",
     "Difficulty": "Hard",
     "Frequency": 0.0248587024,
-    "Leetcode Question Link": " https://leetcode.com/problems/stickers-to-spell-word"
+    "Leetcode Question Link": "https://leetcode.com/problems/stickers-to-spell-word"
   },
   {
     "ID": 166,
@@ -13,7 +13,7 @@
     "Acceptance": "21.6%",
     "Difficulty": "Medium",
     "Frequency": 0.0145943254,
-    "Leetcode Question Link": " https://leetcode.com/problems/fraction-to-recurring-decimal"
+    "Leetcode Question Link": "https://leetcode.com/problems/fraction-to-recurring-decimal"
   },
   {
     "ID": 234,
@@ -21,6 +21,6 @@
     "Acceptance": "39.3%",
     "Difficulty": "Easy",
     "Frequency": 0.0043299483,
-    "Leetcode Question Link": " https://leetcode.com/problems/palindrome-linked-list"
+    "Leetcode Question Link": "https://leetcode.com/problems/palindrome-linked-list"
   }
 ]

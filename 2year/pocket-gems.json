@@ -5,7 +5,7 @@
     "Acceptance": "48.6%",
     "Difficulty": "Medium",
     "Frequency": 0.350869403,
-    "Leetcode Question Link": " https://leetcode.com/problems/delete-and-earn"
+    "Leetcode Question Link": "https://leetcode.com/problems/delete-and-earn"
   },
   {
     "ID": 547,
@@ -13,7 +13,7 @@
     "Acceptance": "58.6%",
     "Difficulty": "Medium",
     "Frequency": 0.214114875,
-    "Leetcode Question Link": " https://leetcode.com/problems/friend-circles"
+    "Leetcode Question Link": "https://leetcode.com/problems/friend-circles"
   },
   {
     "ID": 1010,
@@ -21,7 +21,7 @@
     "Acceptance": "47.4%",
     "Difficulty": "Easy",
     "Frequency": 0.1664637662,
-    "Leetcode Question Link": " https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60"
+    "Leetcode Question Link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60"
   },
   {
     "ID": 366,
@@ -29,7 +29,7 @@
     "Acceptance": "70.6%",
     "Difficulty": "Medium",
     "Frequency": 0.1541361939,
-    "Leetcode Question Link": " https://leetcode.com/problems/find-leaves-of-binary-tree"
+    "Leetcode Question Link": "https://leetcode.com/problems/find-leaves-of-binary-tree"
   },
   {
     "ID": 133,
@@ -37,7 +37,7 @@
     "Acceptance": "34.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0173816659,
-    "Leetcode Question Link": " https://leetcode.com/problems/clone-graph"
+    "Leetcode Question Link": "https://leetcode.com/problems/clone-graph"
   },
   {
     "ID": 10,
@@ -45,7 +45,7 @@
     "Acceptance": "26.8%",
     "Difficulty": "Hard",
     "Frequency": 0.0154271143,
-    "Leetcode Question Link": " https://leetcode.com/problems/regular-expression-matching"
+    "Leetcode Question Link": "https://leetcode.com/problems/regular-expression-matching"
   },
   {
     "ID": 41,
@@ -53,6 +53,6 @@
     "Acceptance": "32.0%",
     "Difficulty": "Hard",
     "Frequency": 0.0061633477,
-    "Leetcode Question Link": " https://leetcode.com/problems/first-missing-positive"
+    "Leetcode Question Link": "https://leetcode.com/problems/first-missing-positive"
   }
 ]

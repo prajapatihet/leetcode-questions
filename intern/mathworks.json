@@ -5,7 +5,7 @@
     "Acceptance": "66.1%",
     "Difficulty": "Medium",
     "Frequency": 0.202241562,
-    "Leetcode Question Link": " https://leetcode.com/problems/minimum-cost-tree-from-leaf-values"
+    "Leetcode Question Link": "https://leetcode.com/problems/minimum-cost-tree-from-leaf-values"
   },
   {
     "ID": 1163,
@@ -13,7 +13,7 @@
     "Acceptance": "33.9%",
     "Difficulty": "Hard",
     "Frequency": 0.1347650222,
-    "Leetcode Question Link": " https://leetcode.com/problems/last-substring-in-lexicographical-order"
+    "Leetcode Question Link": "https://leetcode.com/problems/last-substring-in-lexicographical-order"
   },
   {
     "ID": 526,
@@ -21,7 +21,7 @@
     "Acceptance": "57.8%",
     "Difficulty": "Medium",
     "Frequency": 0.1169916043,
-    "Leetcode Question Link": " https://leetcode.com/problems/beautiful-arrangement"
+    "Leetcode Question Link": "https://leetcode.com/problems/beautiful-arrangement"
   },
   {
     "ID": 259,
@@ -29,7 +29,7 @@
     "Acceptance": "47.6%",
     "Difficulty": "Medium",
     "Frequency": 0.0495150645,
-    "Leetcode Question Link": " https://leetcode.com/problems/3sum-smaller"
+    "Leetcode Question Link": "https://leetcode.com/problems/3sum-smaller"
   },
   {
     "ID": 1319,
@@ -37,7 +37,7 @@
     "Acceptance": "53.1%",
     "Difficulty": "Medium",
     "Frequency": 0.0458796058,
-    "Leetcode Question Link": " https://leetcode.com/problems/number-of-operations-to-make-network-connected"
+    "Leetcode Question Link": "https://leetcode.com/problems/number-of-operations-to-make-network-connected"
   },
   {
     "ID": 115,
@@ -45,7 +45,7 @@
     "Acceptance": "38.3%",
     "Difficulty": "Hard",
     "Frequency": 0.0277988714,
-    "Leetcode Question Link": " https://leetcode.com/problems/distinct-subsequences"
+    "Leetcode Question Link": "https://leetcode.com/problems/distinct-subsequences"
   },
   {
     "ID": 338,
@@ -53,7 +53,7 @@
     "Acceptance": "69.5%",
     "Difficulty": "Medium",
     "Frequency": 0.0108844612,
-    "Leetcode Question Link": " https://leetcode.com/problems/counting-bits"
+    "Leetcode Question Link": "https://leetcode.com/problems/counting-bits"
   },
   {
     "ID": 647,
@@ -61,7 +61,7 @@
     "Acceptance": "60.6%",
     "Difficulty": "Medium",
     "Frequency": 0.0104005098,
-    "Leetcode Question Link": " https://leetcode.com/problems/palindromic-substrings"
+    "Leetcode Question Link": "https://leetcode.com/problems/palindromic-substrings"
   },
   {
     "ID": 25,
@@ -69,7 +69,7 @@
     "Acceptance": "42.1%",
     "Difficulty": "Hard",
     "Frequency": 0.0102119856,
-    "Leetcode Question Link": " https://leetcode.com/problems/reverse-nodes-in-k-group"
+    "Leetcode Question Link": "https://leetcode.com/problems/reverse-nodes-in-k-group"
   },
   {
     "ID": 206,
@@ -77,6 +77,6 @@
     "Acceptance": "62.5%",
     "Difficulty": "Easy",
     "Frequency": 0.0093267945,
-    "Leetcode Question Link": " https://leetcode.com/problems/reverse-linked-list"
+    "Leetcode Question Link": "https://leetcode.com/problems/reverse-linked-list"
   }
 ]

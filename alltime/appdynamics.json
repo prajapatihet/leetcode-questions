@@ -5,7 +5,7 @@
     "Acceptance": "50.0%",
     "Difficulty": "Medium",
     "Frequency": 0.06713783,
-    "Leetcode Question Link": " https://leetcode.com/problems/decode-string"
+    "Leetcode Question Link": "https://leetcode.com/problems/decode-string"
   },
   {
     "ID": 346,
@@ -13,7 +13,7 @@
     "Acceptance": "70.9%",
     "Difficulty": "Easy",
     "Frequency": 0.0393235462,
-    "Leetcode Question Link": " https://leetcode.com/problems/moving-average-from-data-stream"
+    "Leetcode Question Link": "https://leetcode.com/problems/moving-average-from-data-stream"
   },
   {
     "ID": 200,
@@ -21,7 +21,7 @@
     "Acceptance": "46.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0115092624,
-    "Leetcode Question Link": " https://leetcode.com/problems/number-of-islands"
+    "Leetcode Question Link": "https://leetcode.com/problems/number-of-islands"
   },
   {
     "ID": 221,
@@ -29,7 +29,7 @@
     "Acceptance": "37.7%",
     "Difficulty": "Medium",
     "Frequency": 0.009886388,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximal-square"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximal-square"
   },
   {
     "ID": 380,
@@ -37,7 +37,7 @@
     "Acceptance": "47.5%",
     "Difficulty": "Medium",
     "Frequency": 0.0098208499,
-    "Leetcode Question Link": " https://leetcode.com/problems/insert-delete-getrandom-o1"
+    "Leetcode Question Link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
   },
   {
     "ID": 124,
@@ -45,7 +45,7 @@
     "Acceptance": "34.3%",
     "Difficulty": "Hard",
     "Frequency": 0.0055317525,
-    "Leetcode Question Link": " https://leetcode.com/problems/binary-tree-maximum-path-sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/binary-tree-maximum-path-sum"
   },
   {
     "ID": 5,
@@ -53,7 +53,7 @@
     "Acceptance": "29.5%",
     "Difficulty": "Medium",
     "Frequency": 0.0022793331,
-    "Leetcode Question Link": " https://leetcode.com/problems/longest-palindromic-substring"
+    "Leetcode Question Link": "https://leetcode.com/problems/longest-palindromic-substring"
   },
   {
     "ID": 340,
@@ -61,6 +61,6 @@
     "Acceptance": "44.1%",
     "Difficulty": "Hard",
     "Frequency": 0.0,
-    "Leetcode Question Link": " https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters"
+    "Leetcode Question Link": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters"
   }
 ]

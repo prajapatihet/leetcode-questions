@@ -5,7 +5,7 @@
     "Acceptance": "68.2%",
     "Difficulty": "Easy",
     "Frequency": 0,
-    "Leetcode Question Link": " https://leetcode.com/problems/employee-bonus"
+    "Leetcode Question Link": "https://leetcode.com/problems/employee-bonus"
   },
   {
     "ID": 1491,
@@ -13,6 +13,6 @@
     "Acceptance": "70.3%",
     "Difficulty": "Easy",
     "Frequency": 0,
-    "Leetcode Question Link": " https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary"
+    "Leetcode Question Link": "https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary"
   }
 ]

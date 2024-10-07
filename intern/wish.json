@@ -5,7 +5,7 @@
     "Acceptance": "43.1%",
     "Difficulty": "Medium",
     "Frequency": 0.0275898213,
-    "Leetcode Question Link": " https://leetcode.com/problems/add-bold-tag-in-string"
+    "Leetcode Question Link": "https://leetcode.com/problems/add-bold-tag-in-string"
   },
   {
     "ID": 314,
@@ -13,7 +13,7 @@
     "Acceptance": "45.3%",
     "Difficulty": "Medium",
     "Frequency": 0.0180103923,
-    "Leetcode Question Link": " https://leetcode.com/problems/binary-tree-vertical-order-traversal"
+    "Leetcode Question Link": "https://leetcode.com/problems/binary-tree-vertical-order-traversal"
   },
   {
     "ID": 153,
@@ -21,7 +21,7 @@
     "Acceptance": "45.1%",
     "Difficulty": "Medium",
     "Frequency": 0.0084309633,
-    "Leetcode Question Link": " https://leetcode.com/problems/find-minimum-in-rotated-sorted-array"
+    "Leetcode Question Link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array"
   },
   {
     "ID": 207,
@@ -29,7 +29,7 @@
     "Acceptance": "43.1%",
     "Difficulty": "Medium",
     "Frequency": 0.0049640211,
-    "Leetcode Question Link": " https://leetcode.com/problems/course-schedule"
+    "Leetcode Question Link": "https://leetcode.com/problems/course-schedule"
   },
   {
     "ID": 200,
@@ -37,6 +37,6 @@
     "Acceptance": "46.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0028897578,
-    "Leetcode Question Link": " https://leetcode.com/problems/number-of-islands"
+    "Leetcode Question Link": "https://leetcode.com/problems/number-of-islands"
   }
 ]

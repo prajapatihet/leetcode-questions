@@ -5,7 +5,7 @@
     "Acceptance": "66.3%",
     "Difficulty": "Hard",
     "Frequency": 0.0385429822,
-    "Leetcode Question Link": " https://leetcode.com/problems/employee-free-time"
+    "Leetcode Question Link": "https://leetcode.com/problems/employee-free-time"
   },
   {
     "ID": 1296,
@@ -13,7 +13,7 @@
     "Acceptance": "53.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0238329506,
-    "Leetcode Question Link": " https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers"
+    "Leetcode Question Link": "https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers"
   },
   {
     "ID": 114,
@@ -21,7 +21,7 @@
     "Acceptance": "49.3%",
     "Difficulty": "Medium",
     "Frequency": 0.0183985604,
-    "Leetcode Question Link": " https://leetcode.com/problems/flatten-binary-tree-to-linked-list"
+    "Leetcode Question Link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list"
   },
   {
     "ID": 79,
@@ -29,7 +29,7 @@
     "Acceptance": "35.6%",
     "Difficulty": "Medium",
     "Frequency": 0.0036885288,
-    "Leetcode Question Link": " https://leetcode.com/problems/word-search"
+    "Leetcode Question Link": "https://leetcode.com/problems/word-search"
   },
   {
     "ID": 56,
@@ -37,7 +37,7 @@
     "Acceptance": "39.3%",
     "Difficulty": "Medium",
     "Frequency": 0.0033129068,
-    "Leetcode Question Link": " https://leetcode.com/problems/merge-intervals"
+    "Leetcode Question Link": "https://leetcode.com/problems/merge-intervals"
   },
   {
     "ID": 3,
@@ -45,6 +45,6 @@
     "Acceptance": "30.4%",
     "Difficulty": "Medium",
     "Frequency": 0.0014852223,
-    "Leetcode Question Link": " https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    "Leetcode Question Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
   }
 ]

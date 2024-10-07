@@ -5,7 +5,7 @@
     "Acceptance": "50.4%",
     "Difficulty": "Easy",
     "Frequency": 2.6221547902,
-    "Leetcode Question Link": " https://leetcode.com/problems/happy-number"
+    "Leetcode Question Link": "https://leetcode.com/problems/happy-number"
   },
   {
     "ID": 20,
@@ -13,7 +13,7 @@
     "Acceptance": "39.0%",
     "Difficulty": "Easy",
     "Frequency": 1.3406280912,
-    "Leetcode Question Link": " https://leetcode.com/problems/valid-parentheses"
+    "Leetcode Question Link": "https://leetcode.com/problems/valid-parentheses"
   },
   {
     "ID": 1328,
@@ -21,7 +21,7 @@
     "Acceptance": "43.3%",
     "Difficulty": "Medium",
     "Frequency": 0.0591013923,
-    "Leetcode Question Link": " https://leetcode.com/problems/break-a-palindrome"
+    "Leetcode Question Link": "https://leetcode.com/problems/break-a-palindrome"
   },
   {
     "ID": 121,
@@ -29,7 +29,7 @@
     "Acceptance": "50.5%",
     "Difficulty": "Easy",
     "Frequency": 0.0084687957,
-    "Leetcode Question Link": " https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+    "Leetcode Question Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
   },
   {
     "ID": 200,
@@ -37,7 +37,7 @@
     "Acceptance": "46.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0064902514,
-    "Leetcode Question Link": " https://leetcode.com/problems/number-of-islands"
+    "Leetcode Question Link": "https://leetcode.com/problems/number-of-islands"
   },
   {
     "ID": 31,
@@ -45,7 +45,7 @@
     "Acceptance": "32.6%",
     "Difficulty": "Medium",
     "Frequency": 0.0059898352,
-    "Leetcode Question Link": " https://leetcode.com/problems/next-permutation"
+    "Leetcode Question Link": "https://leetcode.com/problems/next-permutation"
   },
   {
     "ID": 215,
@@ -53,7 +53,7 @@
     "Acceptance": "55.4%",
     "Difficulty": "Medium",
     "Frequency": 0.003902444,
-    "Leetcode Question Link": " https://leetcode.com/problems/kth-largest-element-in-an-array"
+    "Leetcode Question Link": "https://leetcode.com/problems/kth-largest-element-in-an-array"
   },
   {
     "ID": 53,
@@ -61,6 +61,6 @@
     "Acceptance": "46.5%",
     "Difficulty": "Easy",
     "Frequency": 0.0021670829,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximum-subarray"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximum-subarray"
   }
 ]

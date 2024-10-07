@@ -5,7 +5,7 @@
     "Acceptance": "56.6%",
     "Difficulty": "Medium",
     "Frequency": 0.1374539674,
-    "Leetcode Question Link": " https://leetcode.com/problems/binary-search-tree-iterator"
+    "Leetcode Question Link": "https://leetcode.com/problems/binary-search-tree-iterator"
   },
   {
     "ID": 622,
@@ -13,7 +13,7 @@
     "Acceptance": "43.7%",
     "Difficulty": "Medium",
     "Frequency": 0.110951517,
-    "Leetcode Question Link": " https://leetcode.com/problems/design-circular-queue"
+    "Leetcode Question Link": "https://leetcode.com/problems/design-circular-queue"
   },
   {
     "ID": 1188,
@@ -21,7 +21,7 @@
     "Acceptance": "70.5%",
     "Difficulty": "Medium",
     "Frequency": 0.0885057777,
-    "Leetcode Question Link": " https://leetcode.com/problems/design-bounded-blocking-queue"
+    "Leetcode Question Link": "https://leetcode.com/problems/design-bounded-blocking-queue"
   },
   {
     "ID": 476,
@@ -29,7 +29,7 @@
     "Acceptance": "64.8%",
     "Difficulty": "Easy",
     "Frequency": 0.0620033273,
-    "Leetcode Question Link": " https://leetcode.com/problems/number-complement"
+    "Leetcode Question Link": "https://leetcode.com/problems/number-complement"
   },
   {
     "ID": 146,
@@ -37,7 +37,7 @@
     "Acceptance": "33.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0406605982,
-    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+    "Leetcode Question Link": "https://leetcode.com/problems/lru-cache"
   },
   {
     "ID": 339,
@@ -45,7 +45,7 @@
     "Acceptance": "74.0%",
     "Difficulty": "Easy",
     "Frequency": 0.0296098612,
-    "Leetcode Question Link": " https://leetcode.com/problems/nested-list-weight-sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/nested-list-weight-sum"
   },
   {
     "ID": 1,
@@ -53,7 +53,7 @@
     "Acceptance": "45.6%",
     "Difficulty": "Easy",
     "Frequency": 0.0032784227,
-    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/two-sum"
   },
   {
     "ID": 1009,
@@ -61,6 +61,6 @@
     "Acceptance": "59.6%",
     "Difficulty": "Easy",
     "Frequency": 0.0,
-    "Leetcode Question Link": " https://leetcode.com/problems/complement-of-base-10-integer"
+    "Leetcode Question Link": "https://leetcode.com/problems/complement-of-base-10-integer"
   }
 ]

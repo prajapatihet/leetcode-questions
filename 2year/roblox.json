@@ -5,7 +5,7 @@
     "Acceptance": "69.9%",
     "Difficulty": "Easy",
     "Frequency": 1.2193668099,
-    "Leetcode Question Link": " https://leetcode.com/problems/subdomain-visit-count"
+    "Leetcode Question Link": "https://leetcode.com/problems/subdomain-visit-count"
   },
   {
     "ID": 829,
@@ -13,7 +13,7 @@
     "Acceptance": "37.5%",
     "Difficulty": "Hard",
     "Frequency": 0.936910604,
-    "Leetcode Question Link": " https://leetcode.com/problems/consecutive-numbers-sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/consecutive-numbers-sum"
   },
   {
     "ID": 770,
@@ -21,7 +21,7 @@
     "Acceptance": "48.1%",
     "Difficulty": "Hard",
     "Frequency": 0.6957297564,
-    "Leetcode Question Link": " https://leetcode.com/problems/basic-calculator-iv"
+    "Leetcode Question Link": "https://leetcode.com/problems/basic-calculator-iv"
   },
   {
     "ID": 1163,
@@ -29,7 +29,7 @@
     "Acceptance": "33.9%",
     "Difficulty": "Hard",
     "Frequency": 0.4636668008,
-    "Leetcode Question Link": " https://leetcode.com/problems/last-substring-in-lexicographical-order"
+    "Leetcode Question Link": "https://leetcode.com/problems/last-substring-in-lexicographical-order"
   },
   {
     "ID": 224,
@@ -37,7 +37,7 @@
     "Acceptance": "36.8%",
     "Difficulty": "Hard",
     "Frequency": 0.4495102905,
-    "Leetcode Question Link": " https://leetcode.com/problems/basic-calculator"
+    "Leetcode Question Link": "https://leetcode.com/problems/basic-calculator"
   },
   {
     "ID": 1297,
@@ -45,7 +45,7 @@
     "Acceptance": "47.3%",
     "Difficulty": "Medium",
     "Frequency": 0.1670540847,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring"
   },
   {
     "ID": 1328,
@@ -53,7 +53,7 @@
     "Acceptance": "43.3%",
     "Difficulty": "Medium",
     "Frequency": 0.1283811666,
-    "Leetcode Question Link": " https://leetcode.com/problems/break-a-palindrome"
+    "Leetcode Question Link": "https://leetcode.com/problems/break-a-palindrome"
   },
   {
     "ID": 1248,
@@ -61,7 +61,7 @@
     "Acceptance": "56.4%",
     "Difficulty": "Medium",
     "Frequency": 0.100531011,
-    "Leetcode Question Link": " https://leetcode.com/problems/count-number-of-nice-subarrays"
+    "Leetcode Question Link": "https://leetcode.com/problems/count-number-of-nice-subarrays"
   },
   {
     "ID": 146,
@@ -69,7 +69,7 @@
     "Acceptance": "33.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0549465555,
-    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+    "Leetcode Question Link": "https://leetcode.com/problems/lru-cache"
   },
   {
     "ID": 239,
@@ -77,7 +77,7 @@
     "Acceptance": "43.0%",
     "Difficulty": "Hard",
     "Frequency": 0.0483746857,
-    "Leetcode Question Link": " https://leetcode.com/problems/sliding-window-maximum"
+    "Leetcode Question Link": "https://leetcode.com/problems/sliding-window-maximum"
   },
   {
     "ID": 1290,
@@ -85,7 +85,7 @@
     "Acceptance": "80.4%",
     "Difficulty": "Easy",
     "Frequency": 0.04161849,
-    "Leetcode Question Link": " https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer"
+    "Leetcode Question Link": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer"
   },
   {
     "ID": 37,
@@ -93,7 +93,7 @@
     "Acceptance": "43.6%",
     "Difficulty": "Hard",
     "Frequency": 0.0182154399,
-    "Leetcode Question Link": " https://leetcode.com/problems/sudoku-solver"
+    "Leetcode Question Link": "https://leetcode.com/problems/sudoku-solver"
   },
   {
     "ID": 17,
@@ -101,7 +101,7 @@
     "Acceptance": "46.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0174925199,
-    "Leetcode Question Link": " https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+    "Leetcode Question Link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
   },
   {
     "ID": 36,
@@ -109,7 +109,7 @@
     "Acceptance": "48.7%",
     "Difficulty": "Medium",
     "Frequency": 0.0162575835,
-    "Leetcode Question Link": " https://leetcode.com/problems/valid-sudoku"
+    "Leetcode Question Link": "https://leetcode.com/problems/valid-sudoku"
   },
   {
     "ID": 647,
@@ -117,7 +117,7 @@
     "Acceptance": "60.6%",
     "Difficulty": "Medium",
     "Frequency": 0.0104005098,
-    "Leetcode Question Link": " https://leetcode.com/problems/palindromic-substrings"
+    "Leetcode Question Link": "https://leetcode.com/problems/palindromic-substrings"
   },
   {
     "ID": 212,
@@ -125,7 +125,7 @@
     "Acceptance": "34.9%",
     "Difficulty": "Hard",
     "Frequency": 0.0098450217,
-    "Leetcode Question Link": " https://leetcode.com/problems/word-search-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/word-search-ii"
   },
   {
     "ID": 5,
@@ -133,7 +133,7 @@
     "Acceptance": "29.5%",
     "Difficulty": "Medium",
     "Frequency": 0.0090863252,
-    "Leetcode Question Link": " https://leetcode.com/problems/longest-palindromic-substring"
+    "Leetcode Question Link": "https://leetcode.com/problems/longest-palindromic-substring"
   },
   {
     "ID": 200,
@@ -141,7 +141,7 @@
     "Acceptance": "46.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0028897578,
-    "Leetcode Question Link": " https://leetcode.com/problems/number-of-islands"
+    "Leetcode Question Link": "https://leetcode.com/problems/number-of-islands"
   },
   {
     "ID": 1,
@@ -149,6 +149,6 @@
     "Acceptance": "45.6%",
     "Difficulty": "Easy",
     "Frequency": 0.0008206139,
-    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/two-sum"
   }
 ]

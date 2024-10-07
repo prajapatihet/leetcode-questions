@@ -5,7 +5,7 @@
     "Acceptance": "29.4%",
     "Difficulty": "Hard",
     "Frequency": 0.0873233203,
-    "Leetcode Question Link": " https://leetcode.com/problems/reaching-points"
+    "Leetcode Question Link": "https://leetcode.com/problems/reaching-points"
   },
   {
     "ID": 57,
@@ -13,7 +13,7 @@
     "Acceptance": "33.5%",
     "Difficulty": "Hard",
     "Frequency": 0.0542918449,
-    "Leetcode Question Link": " https://leetcode.com/problems/insert-interval"
+    "Leetcode Question Link": "https://leetcode.com/problems/insert-interval"
   },
   {
     "ID": 1326,
@@ -21,7 +21,7 @@
     "Acceptance": "43.6%",
     "Difficulty": "Hard",
     "Frequency": 0.0522443623,
-    "Leetcode Question Link": " https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden"
+    "Leetcode Question Link": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden"
   },
   {
     "ID": 540,
@@ -29,7 +29,7 @@
     "Acceptance": "57.9%",
     "Difficulty": "Medium",
     "Frequency": 0.0192128869,
-    "Leetcode Question Link": " https://leetcode.com/problems/single-element-in-a-sorted-array"
+    "Leetcode Question Link": "https://leetcode.com/problems/single-element-in-a-sorted-array"
   },
   {
     "ID": 706,
@@ -37,7 +37,7 @@
     "Acceptance": "61.3%",
     "Difficulty": "Easy",
     "Frequency": 0.0175289326,
-    "Leetcode Question Link": " https://leetcode.com/problems/design-hashmap"
+    "Leetcode Question Link": "https://leetcode.com/problems/design-hashmap"
   },
   {
     "ID": 269,
@@ -45,7 +45,7 @@
     "Acceptance": "33.3%",
     "Difficulty": "Hard",
     "Frequency": 0.0127309167,
-    "Leetcode Question Link": " https://leetcode.com/problems/alien-dictionary"
+    "Leetcode Question Link": "https://leetcode.com/problems/alien-dictionary"
   },
   {
     "ID": 547,
@@ -53,7 +53,7 @@
     "Acceptance": "58.6%",
     "Difficulty": "Medium",
     "Frequency": 0.0122288286,
-    "Leetcode Question Link": " https://leetcode.com/problems/friend-circles"
+    "Leetcode Question Link": "https://leetcode.com/problems/friend-circles"
   },
   {
     "ID": 139,
@@ -61,6 +61,6 @@
     "Acceptance": "40.1%",
     "Difficulty": "Medium",
     "Frequency": 0.0038944651,
-    "Leetcode Question Link": " https://leetcode.com/problems/word-break"
+    "Leetcode Question Link": "https://leetcode.com/problems/word-break"
   }
 ]

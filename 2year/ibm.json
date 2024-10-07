@@ -5,7 +5,7 @@
     "Acceptance": "38.5%",
     "Difficulty": "Medium",
     "Frequency": 0.0296476811,
-    "Leetcode Question Link": " https://leetcode.com/problems/gas-station"
+    "Leetcode Question Link": "https://leetcode.com/problems/gas-station"
   },
   {
     "ID": 259,
@@ -13,7 +13,7 @@
     "Acceptance": "47.6%",
     "Difficulty": "Medium",
     "Frequency": 0.0261174968,
-    "Leetcode Question Link": " https://leetcode.com/problems/3sum-smaller"
+    "Leetcode Question Link": "https://leetcode.com/problems/3sum-smaller"
   },
   {
     "ID": 700,
@@ -21,7 +21,7 @@
     "Acceptance": "73.1%",
     "Difficulty": "Easy",
     "Frequency": 0.0190522274,
-    "Leetcode Question Link": " https://leetcode.com/problems/search-in-a-binary-search-tree"
+    "Leetcode Question Link": "https://leetcode.com/problems/search-in-a-binary-search-tree"
   },
   {
     "ID": 88,
@@ -29,7 +29,7 @@
     "Acceptance": "39.4%",
     "Difficulty": "Easy",
     "Frequency": 0.011986958,
-    "Leetcode Question Link": " https://leetcode.com/problems/merge-sorted-array"
+    "Leetcode Question Link": "https://leetcode.com/problems/merge-sorted-array"
   },
   {
     "ID": 20,
@@ -37,7 +37,7 @@
     "Acceptance": "39.0%",
     "Difficulty": "Easy",
     "Frequency": 0.0091706953,
-    "Leetcode Question Link": " https://leetcode.com/problems/valid-parentheses"
+    "Leetcode Question Link": "https://leetcode.com/problems/valid-parentheses"
   },
   {
     "ID": 15,
@@ -45,7 +45,7 @@
     "Acceptance": "26.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0049409928,
-    "Leetcode Question Link": " https://leetcode.com/problems/3sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/3sum"
   },
   {
     "ID": 268,
@@ -53,7 +53,7 @@
     "Acceptance": "51.7%",
     "Difficulty": "Easy",
     "Frequency": 0.0048804392,
-    "Leetcode Question Link": " https://leetcode.com/problems/missing-number"
+    "Leetcode Question Link": "https://leetcode.com/problems/missing-number"
   },
   {
     "ID": 2,
@@ -61,7 +61,7 @@
     "Acceptance": "33.9%",
     "Difficulty": "Medium",
     "Frequency": 0.0037953911,
-    "Leetcode Question Link": " https://leetcode.com/problems/add-two-numbers"
+    "Leetcode Question Link": "https://leetcode.com/problems/add-two-numbers"
   },
   {
     "ID": 14,
@@ -69,7 +69,7 @@
     "Acceptance": "35.4%",
     "Difficulty": "Easy",
     "Frequency": 0.0033203318,
-    "Leetcode Question Link": " https://leetcode.com/problems/longest-common-prefix"
+    "Leetcode Question Link": "https://leetcode.com/problems/longest-common-prefix"
   },
   {
     "ID": 1,
@@ -77,7 +77,7 @@
     "Acceptance": "45.6%",
     "Difficulty": "Easy",
     "Frequency": 0.0032784227,
-    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/two-sum"
   },
   {
     "ID": 53,
@@ -85,6 +85,6 @@
     "Acceptance": "46.5%",
     "Difficulty": "Easy",
     "Frequency": 0.0021670829,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximum-subarray"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximum-subarray"
   }
 ]

@@ -5,7 +5,7 @@
     "Acceptance": "37.3%",
     "Difficulty": "Easy",
     "Frequency": 0.4449565941,
-    "Leetcode Question Link": " https://leetcode.com/problems/magic-squares-in-grid"
+    "Leetcode Question Link": "https://leetcode.com/problems/magic-squares-in-grid"
   },
   {
     "ID": 811,
@@ -13,7 +13,7 @@
     "Acceptance": "69.9%",
     "Difficulty": "Easy",
     "Frequency": 0.2818511521,
-    "Leetcode Question Link": " https://leetcode.com/problems/subdomain-visit-count"
+    "Leetcode Question Link": "https://leetcode.com/problems/subdomain-visit-count"
   },
   {
     "ID": 1189,
@@ -21,7 +21,7 @@
     "Acceptance": "61.2%",
     "Difficulty": "Easy",
     "Frequency": 0.1187457102,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximum-number-of-balloons"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximum-number-of-balloons"
   },
   {
     "ID": 759,
@@ -29,7 +29,7 @@
     "Acceptance": "66.3%",
     "Difficulty": "Hard",
     "Frequency": 0.1014382428,
-    "Leetcode Question Link": " https://leetcode.com/problems/employee-free-time"
+    "Leetcode Question Link": "https://leetcode.com/problems/employee-free-time"
   },
   {
     "ID": 1204,
@@ -37,7 +37,7 @@
     "Acceptance": "69.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0851578083,
-    "Leetcode Question Link": " https://leetcode.com/problems/last-person-to-fit-in-the-elevator"
+    "Leetcode Question Link": "https://leetcode.com/problems/last-person-to-fit-in-the-elevator"
   },
   {
     "ID": 1212,
@@ -45,7 +45,7 @@
     "Acceptance": "55.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0786259424,
-    "Leetcode Question Link": " https://leetcode.com/problems/team-scores-in-football-tournament"
+    "Leetcode Question Link": "https://leetcode.com/problems/team-scores-in-football-tournament"
   },
   {
     "ID": 85,
@@ -53,7 +53,7 @@
     "Acceptance": "37.7%",
     "Difficulty": "Hard",
     "Frequency": 0.0285100083,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximal-rectangle"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximal-rectangle"
   },
   {
     "ID": 718,
@@ -61,7 +61,7 @@
     "Acceptance": "49.4%",
     "Difficulty": "Medium",
     "Frequency": 0.026992192,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximum-length-of-repeated-subarray"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximum-length-of-repeated-subarray"
   },
   {
     "ID": 56,
@@ -69,7 +69,7 @@
     "Acceptance": "39.3%",
     "Difficulty": "Medium",
     "Frequency": 0.0074386656,
-    "Leetcode Question Link": " https://leetcode.com/problems/merge-intervals"
+    "Leetcode Question Link": "https://leetcode.com/problems/merge-intervals"
   },
   {
     "ID": 412,
@@ -77,7 +77,7 @@
     "Acceptance": "62.3%",
     "Difficulty": "Easy",
     "Frequency": 0.0068575616,
-    "Leetcode Question Link": " https://leetcode.com/problems/fizz-buzz"
+    "Leetcode Question Link": "https://leetcode.com/problems/fizz-buzz"
   },
   {
     "ID": 69,
@@ -85,7 +85,7 @@
     "Acceptance": "33.9%",
     "Difficulty": "Easy",
     "Frequency": 0.0048810347,
-    "Leetcode Question Link": " https://leetcode.com/problems/sqrtx"
+    "Leetcode Question Link": "https://leetcode.com/problems/sqrtx"
   },
   {
     "ID": 125,
@@ -93,7 +93,7 @@
     "Acceptance": "36.7%",
     "Difficulty": "Easy",
     "Frequency": 0.0037979537,
-    "Leetcode Question Link": " https://leetcode.com/problems/valid-palindrome"
+    "Leetcode Question Link": "https://leetcode.com/problems/valid-palindrome"
   },
   {
     "ID": 5,
@@ -101,7 +101,7 @@
     "Acceptance": "29.5%",
     "Difficulty": "Medium",
     "Frequency": 0.0021771086,
-    "Leetcode Question Link": " https://leetcode.com/problems/longest-palindromic-substring"
+    "Leetcode Question Link": "https://leetcode.com/problems/longest-palindromic-substring"
   },
   {
     "ID": 210,
@@ -109,6 +109,6 @@
     "Acceptance": "40.7%",
     "Difficulty": "Medium",
     "Frequency": 0.0018850147,
-    "Leetcode Question Link": " https://leetcode.com/problems/course-schedule-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/course-schedule-ii"
   }
 ]

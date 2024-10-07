@@ -5,7 +5,7 @@
     "Acceptance": "47.6%",
     "Difficulty": "Medium",
     "Frequency": 0.1369289189,
-    "Leetcode Question Link": " https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold"
+    "Leetcode Question Link": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold"
   },
   {
     "ID": 443,
@@ -13,7 +13,7 @@
     "Acceptance": "41.3%",
     "Difficulty": "Easy",
     "Frequency": 0.0839136802,
-    "Leetcode Question Link": " https://leetcode.com/problems/string-compression"
+    "Leetcode Question Link": "https://leetcode.com/problems/string-compression"
   },
   {
     "ID": 724,
@@ -21,7 +21,7 @@
     "Acceptance": "44.0%",
     "Difficulty": "Easy",
     "Frequency": 0.0308984416,
-    "Leetcode Question Link": " https://leetcode.com/problems/find-pivot-index"
+    "Leetcode Question Link": "https://leetcode.com/problems/find-pivot-index"
   },
   {
     "ID": 33,
@@ -29,7 +29,7 @@
     "Acceptance": "34.5%",
     "Difficulty": "Medium",
     "Frequency": 0.0287009496,
-    "Leetcode Question Link": " https://leetcode.com/problems/search-in-rotated-sorted-array"
+    "Leetcode Question Link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
   },
   {
     "ID": 146,
@@ -37,7 +37,7 @@
     "Acceptance": "33.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0182757799,
-    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+    "Leetcode Question Link": "https://leetcode.com/problems/lru-cache"
   },
   {
     "ID": 134,
@@ -45,7 +45,7 @@
     "Acceptance": "38.5%",
     "Difficulty": "Medium",
     "Frequency": 0.0135274298,
-    "Leetcode Question Link": " https://leetcode.com/problems/gas-station"
+    "Leetcode Question Link": "https://leetcode.com/problems/gas-station"
   },
   {
     "ID": 973,
@@ -53,7 +53,7 @@
     "Acceptance": "63.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0129442337,
-    "Leetcode Question Link": " https://leetcode.com/problems/k-closest-points-to-origin"
+    "Leetcode Question Link": "https://leetcode.com/problems/k-closest-points-to-origin"
   },
   {
     "ID": 739,
@@ -61,7 +61,7 @@
     "Acceptance": "63.3%",
     "Difficulty": "Medium",
     "Frequency": 0.0100326901,
-    "Leetcode Question Link": " https://leetcode.com/problems/daily-temperatures"
+    "Leetcode Question Link": "https://leetcode.com/problems/daily-temperatures"
   },
   {
     "ID": 198,
@@ -69,7 +69,7 @@
     "Acceptance": "42.0%",
     "Difficulty": "Easy",
     "Frequency": 0.0084349141,
-    "Leetcode Question Link": " https://leetcode.com/problems/house-robber"
+    "Leetcode Question Link": "https://leetcode.com/problems/house-robber"
   },
   {
     "ID": 200,
@@ -77,7 +77,7 @@
     "Acceptance": "46.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0064902514,
-    "Leetcode Question Link": " https://leetcode.com/problems/number-of-islands"
+    "Leetcode Question Link": "https://leetcode.com/problems/number-of-islands"
   },
   {
     "ID": 20,
@@ -85,7 +85,7 @@
     "Acceptance": "39.0%",
     "Difficulty": "Easy",
     "Frequency": 0.0051688606,
-    "Leetcode Question Link": " https://leetcode.com/problems/valid-parentheses"
+    "Leetcode Question Link": "https://leetcode.com/problems/valid-parentheses"
   },
   {
     "ID": 1,
@@ -93,7 +93,7 @@
     "Acceptance": "45.6%",
     "Difficulty": "Easy",
     "Frequency": 0.0051178232,
-    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/two-sum"
   },
   {
     "ID": 53,
@@ -101,7 +101,7 @@
     "Acceptance": "46.5%",
     "Difficulty": "Easy",
     "Frequency": 0.004869349,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximum-subarray"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximum-subarray"
   },
   {
     "ID": 121,
@@ -109,7 +109,7 @@
     "Acceptance": "50.5%",
     "Difficulty": "Easy",
     "Frequency": 0.0047725194,
-    "Leetcode Question Link": " https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+    "Leetcode Question Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
   },
   {
     "ID": 3,
@@ -117,6 +117,6 @@
     "Acceptance": "30.4%",
     "Difficulty": "Medium",
     "Frequency": 0.0015556337,
-    "Leetcode Question Link": " https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    "Leetcode Question Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
   }
 ]

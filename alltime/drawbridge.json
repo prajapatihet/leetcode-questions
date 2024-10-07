@@ -5,7 +5,7 @@
     "Acceptance": "40.1%",
     "Difficulty": "Hard",
     "Frequency": 0.4937546447,
-    "Leetcode Question Link": " https://leetcode.com/problems/set-intersection-size-at-least-two"
+    "Leetcode Question Link": "https://leetcode.com/problems/set-intersection-size-at-least-two"
   },
   {
     "ID": 453,
@@ -13,7 +13,7 @@
     "Acceptance": "50.2%",
     "Difficulty": "Easy",
     "Frequency": 0.2605310834,
-    "Leetcode Question Link": " https://leetcode.com/problems/minimum-moves-to-equal-array-elements"
+    "Leetcode Question Link": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements"
   },
   {
     "ID": 547,
@@ -21,7 +21,7 @@
     "Acceptance": "58.6%",
     "Difficulty": "Medium",
     "Frequency": 0.0273075221,
-    "Leetcode Question Link": " https://leetcode.com/problems/friend-circles"
+    "Leetcode Question Link": "https://leetcode.com/problems/friend-circles"
   },
   {
     "ID": 54,
@@ -29,7 +29,7 @@
     "Acceptance": "34.1%",
     "Difficulty": "Medium",
     "Frequency": 0.0147761677,
-    "Leetcode Question Link": " https://leetcode.com/problems/spiral-matrix"
+    "Leetcode Question Link": "https://leetcode.com/problems/spiral-matrix"
   },
   {
     "ID": 253,
@@ -37,7 +37,7 @@
     "Acceptance": "45.7%",
     "Difficulty": "Medium",
     "Frequency": 0.0080792199,
-    "Leetcode Question Link": " https://leetcode.com/problems/meeting-rooms-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/meeting-rooms-ii"
   },
   {
     "ID": 1,
@@ -45,6 +45,6 @@
     "Acceptance": "45.6%",
     "Difficulty": "Easy",
     "Frequency": 0.0008206139,
-    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/two-sum"
   }
 ]

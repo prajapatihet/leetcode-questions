@@ -5,7 +5,7 @@
     "Acceptance": "51.1%",
     "Difficulty": "Easy",
     "Frequency": 0.9978075895,
-    "Leetcode Question Link": " https://leetcode.com/problems/array-transformation"
+    "Leetcode Question Link": "https://leetcode.com/problems/array-transformation"
   },
   {
     "ID": 1271,
@@ -13,7 +13,7 @@
     "Acceptance": "54.2%",
     "Difficulty": "Easy",
     "Frequency": 0.7407752295,
-    "Leetcode Question Link": " https://leetcode.com/problems/hexspeak"
+    "Leetcode Question Link": "https://leetcode.com/problems/hexspeak"
   },
   {
     "ID": 1180,
@@ -21,7 +21,7 @@
     "Acceptance": "77.0%",
     "Difficulty": "Easy",
     "Frequency": 0.7095409903,
-    "Leetcode Question Link": " https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter"
+    "Leetcode Question Link": "https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter"
   },
   {
     "ID": 1196,
@@ -29,6 +29,6 @@
     "Acceptance": "67.9%",
     "Difficulty": "Easy",
     "Frequency": 0.668121813,
-    "Leetcode Question Link": " https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket"
+    "Leetcode Question Link": "https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket"
   }
 ]

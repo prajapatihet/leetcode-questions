@@ -5,7 +5,7 @@
     "Acceptance": "36.8%",
     "Difficulty": "Hard",
     "Frequency": 0.1864197911,
-    "Leetcode Question Link": " https://leetcode.com/problems/basic-calculator"
+    "Leetcode Question Link": "https://leetcode.com/problems/basic-calculator"
   },
   {
     "ID": 418,
@@ -13,7 +13,7 @@
     "Acceptance": "32.6%",
     "Difficulty": "Medium",
     "Frequency": 0.1508922348,
-    "Leetcode Question Link": " https://leetcode.com/problems/sentence-screen-fitting"
+    "Leetcode Question Link": "https://leetcode.com/problems/sentence-screen-fitting"
   },
   {
     "ID": 755,
@@ -21,7 +21,7 @@
     "Acceptance": "43.3%",
     "Difficulty": "Medium",
     "Frequency": 0.1420255248,
-    "Leetcode Question Link": " https://leetcode.com/problems/pour-water"
+    "Leetcode Question Link": "https://leetcode.com/problems/pour-water"
   },
   {
     "ID": 54,
@@ -29,7 +29,7 @@
     "Acceptance": "34.1%",
     "Difficulty": "Medium",
     "Frequency": 0.1006188916,
-    "Leetcode Question Link": " https://leetcode.com/problems/spiral-matrix"
+    "Leetcode Question Link": "https://leetcode.com/problems/spiral-matrix"
   },
   {
     "ID": 59,
@@ -37,7 +37,7 @@
     "Acceptance": "53.9%",
     "Difficulty": "Medium",
     "Frequency": 0.0948397874,
-    "Leetcode Question Link": " https://leetcode.com/problems/spiral-matrix-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/spiral-matrix-ii"
   },
   {
     "ID": 697,
@@ -45,7 +45,7 @@
     "Acceptance": "53.8%",
     "Difficulty": "Easy",
     "Frequency": 0.0711762785,
-    "Leetcode Question Link": " https://leetcode.com/problems/degree-of-an-array"
+    "Leetcode Question Link": "https://leetcode.com/problems/degree-of-an-array"
   },
   {
     "ID": 68,
@@ -53,7 +53,7 @@
     "Acceptance": "27.7%",
     "Difficulty": "Hard",
     "Frequency": 0.0611603619,
-    "Leetcode Question Link": " https://leetcode.com/problems/text-justification"
+    "Leetcode Question Link": "https://leetcode.com/problems/text-justification"
   },
   {
     "ID": 525,
@@ -61,7 +61,7 @@
     "Acceptance": "42.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0197537287,
-    "Leetcode Question Link": " https://leetcode.com/problems/contiguous-array"
+    "Leetcode Question Link": "https://leetcode.com/problems/contiguous-array"
   },
   {
     "ID": 438,
@@ -69,6 +69,6 @@
     "Acceptance": "43.3%",
     "Difficulty": "Medium",
     "Frequency": 0.0081268225,
-    "Leetcode Question Link": " https://leetcode.com/problems/find-all-anagrams-in-a-string"
+    "Leetcode Question Link": "https://leetcode.com/problems/find-all-anagrams-in-a-string"
   }
 ]

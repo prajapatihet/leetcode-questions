@@ -5,7 +5,7 @@
     "Acceptance": "70.5%",
     "Difficulty": "Medium",
     "Frequency": 0.0762908367,
-    "Leetcode Question Link": " https://leetcode.com/problems/design-bounded-blocking-queue"
+    "Leetcode Question Link": "https://leetcode.com/problems/design-bounded-blocking-queue"
   },
   {
     "ID": 622,
@@ -13,7 +13,7 @@
     "Acceptance": "43.7%",
     "Difficulty": "Medium",
     "Frequency": 0.0529503489,
-    "Leetcode Question Link": " https://leetcode.com/problems/design-circular-queue"
+    "Leetcode Question Link": "https://leetcode.com/problems/design-circular-queue"
   },
   {
     "ID": 339,
@@ -21,7 +21,7 @@
     "Acceptance": "74.0%",
     "Difficulty": "Easy",
     "Frequency": 0.0296098612,
-    "Leetcode Question Link": " https://leetcode.com/problems/nested-list-weight-sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/nested-list-weight-sum"
   },
   {
     "ID": 146,
@@ -29,7 +29,7 @@
     "Acceptance": "33.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0103211925,
-    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+    "Leetcode Question Link": "https://leetcode.com/problems/lru-cache"
   },
   {
     "ID": 173,
@@ -37,7 +37,7 @@
     "Acceptance": "56.6%",
     "Difficulty": "Medium",
     "Frequency": 0.0084890153,
-    "Leetcode Question Link": " https://leetcode.com/problems/binary-search-tree-iterator"
+    "Leetcode Question Link": "https://leetcode.com/problems/binary-search-tree-iterator"
   },
   {
     "ID": 1,
@@ -45,6 +45,6 @@
     "Acceptance": "45.6%",
     "Difficulty": "Easy",
     "Frequency": 0.0008206139,
-    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/two-sum"
   }
 ]

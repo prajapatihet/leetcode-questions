@@ -5,7 +5,7 @@
     "Acceptance": "48.9%",
     "Difficulty": "Medium",
     "Frequency": 0.2967998324,
-    "Leetcode Question Link": " https://leetcode.com/problems/subarray-sums-divisible-by-k"
+    "Leetcode Question Link": "https://leetcode.com/problems/subarray-sums-divisible-by-k"
   },
   {
     "ID": 146,
@@ -13,7 +13,7 @@
     "Acceptance": "33.2%",
     "Difficulty": "Medium",
     "Frequency": 0.2037051228,
-    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+    "Leetcode Question Link": "https://leetcode.com/problems/lru-cache"
   },
   {
     "ID": 68,
@@ -21,7 +21,7 @@
     "Acceptance": "27.7%",
     "Difficulty": "Hard",
     "Frequency": 0.1614321443,
-    "Leetcode Question Link": " https://leetcode.com/problems/text-justification"
+    "Leetcode Question Link": "https://leetcode.com/problems/text-justification"
   },
   {
     "ID": 332,
@@ -29,7 +29,7 @@
     "Acceptance": "36.7%",
     "Difficulty": "Medium",
     "Frequency": 0.1174752013,
-    "Leetcode Question Link": " https://leetcode.com/problems/reconstruct-itinerary"
+    "Leetcode Question Link": "https://leetcode.com/problems/reconstruct-itinerary"
   },
   {
     "ID": 935,
@@ -37,7 +37,7 @@
     "Acceptance": "45.2%",
     "Difficulty": "Medium",
     "Frequency": 0.097374164,
-    "Leetcode Question Link": " https://leetcode.com/problems/knight-dialer"
+    "Leetcode Question Link": "https://leetcode.com/problems/knight-dialer"
   },
   {
     "ID": 560,
@@ -45,7 +45,7 @@
     "Acceptance": "43.9%",
     "Difficulty": "Medium",
     "Frequency": 0.0042794545,
-    "Leetcode Question Link": " https://leetcode.com/problems/subarray-sum-equals-k"
+    "Leetcode Question Link": "https://leetcode.com/problems/subarray-sum-equals-k"
   },
   {
     "ID": 14,
@@ -53,6 +53,6 @@
     "Acceptance": "35.4%",
     "Difficulty": "Easy",
     "Frequency": 0.0033203318,
-    "Leetcode Question Link": " https://leetcode.com/problems/longest-common-prefix"
+    "Leetcode Question Link": "https://leetcode.com/problems/longest-common-prefix"
   }
 ]

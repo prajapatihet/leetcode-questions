@@ -5,7 +5,7 @@
     "Acceptance": "45.2%",
     "Difficulty": "Hard",
     "Frequency": 0.3034729502,
-    "Leetcode Question Link": " https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string"
+    "Leetcode Question Link": "https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string"
   },
   {
     "ID": 695,
@@ -13,7 +13,7 @@
     "Acceptance": "62.7%",
     "Difficulty": "Medium",
     "Frequency": 0.185879429,
-    "Leetcode Question Link": " https://leetcode.com/problems/max-area-of-island"
+    "Leetcode Question Link": "https://leetcode.com/problems/max-area-of-island"
   },
   {
     "ID": 723,
@@ -21,7 +21,7 @@
     "Acceptance": "69.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0682859079,
-    "Leetcode Question Link": " https://leetcode.com/problems/candy-crush"
+    "Leetcode Question Link": "https://leetcode.com/problems/candy-crush"
   },
   {
     "ID": 200,
@@ -29,7 +29,7 @@
     "Acceptance": "46.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0257120292,
-    "Leetcode Question Link": " https://leetcode.com/problems/number-of-islands"
+    "Leetcode Question Link": "https://leetcode.com/problems/number-of-islands"
   },
   {
     "ID": 977,
@@ -37,7 +37,7 @@
     "Acceptance": "72.1%",
     "Difficulty": "Easy",
     "Frequency": 0.0154741966,
-    "Leetcode Question Link": " https://leetcode.com/problems/squares-of-a-sorted-array"
+    "Leetcode Question Link": "https://leetcode.com/problems/squares-of-a-sorted-array"
   },
   {
     "ID": 56,
@@ -45,7 +45,7 @@
     "Acceptance": "39.3%",
     "Difficulty": "Medium",
     "Frequency": 0.0138195324,
-    "Leetcode Question Link": " https://leetcode.com/problems/merge-intervals"
+    "Leetcode Question Link": "https://leetcode.com/problems/merge-intervals"
   },
   {
     "ID": 767,
@@ -53,7 +53,7 @@
     "Acceptance": "48.7%",
     "Difficulty": "Medium",
     "Frequency": 0.0132980683,
-    "Leetcode Question Link": " https://leetcode.com/problems/reorganize-string"
+    "Leetcode Question Link": "https://leetcode.com/problems/reorganize-string"
   },
   {
     "ID": 41,
@@ -61,7 +61,7 @@
     "Acceptance": "32.0%",
     "Difficulty": "Hard",
     "Frequency": 0.0064113058,
-    "Leetcode Question Link": " https://leetcode.com/problems/first-missing-positive"
+    "Leetcode Question Link": "https://leetcode.com/problems/first-missing-positive"
   },
   {
     "ID": 146,
@@ -69,7 +69,7 @@
     "Acceptance": "33.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0046003531,
-    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+    "Leetcode Question Link": "https://leetcode.com/problems/lru-cache"
   },
   {
     "ID": 33,
@@ -77,7 +77,7 @@
     "Acceptance": "34.5%",
     "Difficulty": "Medium",
     "Frequency": 0.003229977,
-    "Leetcode Question Link": " https://leetcode.com/problems/search-in-rotated-sorted-array"
+    "Leetcode Question Link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
   },
   {
     "ID": 3,
@@ -85,6 +85,6 @@
     "Acceptance": "30.4%",
     "Difficulty": "Medium",
     "Frequency": 0.0015556337,
-    "Leetcode Question Link": " https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    "Leetcode Question Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
   }
 ]

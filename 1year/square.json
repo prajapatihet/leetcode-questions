@@ -5,7 +5,7 @@
     "Acceptance": "33.7%",
     "Difficulty": "Hard",
     "Frequency": 0.1050145876,
-    "Leetcode Question Link": " https://leetcode.com/problems/palindrome-pairs"
+    "Leetcode Question Link": "https://leetcode.com/problems/palindrome-pairs"
   },
   {
     "ID": 72,
@@ -13,7 +13,7 @@
     "Acceptance": "44.8%",
     "Difficulty": "Hard",
     "Frequency": 0.0867386659,
-    "Leetcode Question Link": " https://leetcode.com/problems/edit-distance"
+    "Leetcode Question Link": "https://leetcode.com/problems/edit-distance"
   },
   {
     "ID": 271,
@@ -21,7 +21,7 @@
     "Acceptance": "31.5%",
     "Difficulty": "Medium",
     "Frequency": 0.0719734996,
-    "Leetcode Question Link": " https://leetcode.com/problems/encode-and-decode-strings"
+    "Leetcode Question Link": "https://leetcode.com/problems/encode-and-decode-strings"
   },
   {
     "ID": 999,
@@ -29,7 +29,7 @@
     "Acceptance": "66.7%",
     "Difficulty": "Easy",
     "Frequency": 0.0673655318,
-    "Leetcode Question Link": " https://leetcode.com/problems/available-captures-for-rook"
+    "Leetcode Question Link": "https://leetcode.com/problems/available-captures-for-rook"
   },
   {
     "ID": 969,
@@ -37,7 +37,7 @@
     "Acceptance": "67.5%",
     "Difficulty": "Medium",
     "Frequency": 0.0490896102,
-    "Leetcode Question Link": " https://leetcode.com/problems/pancake-sorting"
+    "Leetcode Question Link": "https://leetcode.com/problems/pancake-sorting"
   },
   {
     "ID": 165,
@@ -45,7 +45,7 @@
     "Acceptance": "27.4%",
     "Difficulty": "Medium",
     "Frequency": 0.0351873675,
-    "Leetcode Question Link": " https://leetcode.com/problems/compare-version-numbers"
+    "Leetcode Question Link": "https://leetcode.com/problems/compare-version-numbers"
   },
   {
     "ID": 273,
@@ -53,7 +53,7 @@
     "Acceptance": "27.1%",
     "Difficulty": "Hard",
     "Frequency": 0.0269800538,
-    "Leetcode Question Link": " https://leetcode.com/problems/integer-to-english-words"
+    "Leetcode Question Link": "https://leetcode.com/problems/integer-to-english-words"
   },
   {
     "ID": 415,
@@ -61,7 +61,7 @@
     "Acceptance": "47.5%",
     "Difficulty": "Easy",
     "Frequency": 0.0169911582,
-    "Leetcode Question Link": " https://leetcode.com/problems/add-strings"
+    "Leetcode Question Link": "https://leetcode.com/problems/add-strings"
   },
   {
     "ID": 332,
@@ -69,7 +69,7 @@
     "Acceptance": "36.7%",
     "Difficulty": "Medium",
     "Frequency": 0.0137553751,
-    "Leetcode Question Link": " https://leetcode.com/problems/reconstruct-itinerary"
+    "Leetcode Question Link": "https://leetcode.com/problems/reconstruct-itinerary"
   },
   {
     "ID": 91,
@@ -77,7 +77,7 @@
     "Acceptance": "24.7%",
     "Difficulty": "Medium",
     "Frequency": 0.0133791203,
-    "Leetcode Question Link": " https://leetcode.com/problems/decode-ways"
+    "Leetcode Question Link": "https://leetcode.com/problems/decode-ways"
   },
   {
     "ID": 17,
@@ -85,6 +85,6 @@
     "Acceptance": "46.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0044018999,
-    "Leetcode Question Link": " https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+    "Leetcode Question Link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
   }
 ]

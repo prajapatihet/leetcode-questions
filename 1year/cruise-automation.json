@@ -5,7 +5,7 @@
     "Acceptance": "59.1%",
     "Difficulty": "Medium",
     "Frequency": 0.0348691851,
-    "Leetcode Question Link": " https://leetcode.com/problems/minesweeper"
+    "Leetcode Question Link": "https://leetcode.com/problems/minesweeper"
   },
   {
     "ID": 146,
@@ -13,7 +13,7 @@
     "Acceptance": "33.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0315108052,
-    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+    "Leetcode Question Link": "https://leetcode.com/problems/lru-cache"
   },
   {
     "ID": 304,
@@ -21,7 +21,7 @@
     "Acceptance": "38.6%",
     "Difficulty": "Medium",
     "Frequency": 0.0230093399,
-    "Leetcode Question Link": " https://leetcode.com/problems/range-sum-query-2d-immutable"
+    "Leetcode Question Link": "https://leetcode.com/problems/range-sum-query-2d-immutable"
   },
   {
     "ID": 695,
@@ -29,7 +29,7 @@
     "Acceptance": "62.7%",
     "Difficulty": "Medium",
     "Frequency": 0.0199399658,
-    "Leetcode Question Link": " https://leetcode.com/problems/max-area-of-island"
+    "Leetcode Question Link": "https://leetcode.com/problems/max-area-of-island"
   },
   {
     "ID": 986,
@@ -37,7 +37,7 @@
     "Acceptance": "67.3%",
     "Difficulty": "Medium",
     "Frequency": 0.0114385005,
-    "Leetcode Question Link": " https://leetcode.com/problems/interval-list-intersections"
+    "Leetcode Question Link": "https://leetcode.com/problems/interval-list-intersections"
   },
   {
     "ID": 200,
@@ -45,7 +45,7 @@
     "Acceptance": "46.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0110156019,
-    "Leetcode Question Link": " https://leetcode.com/problems/number-of-islands"
+    "Leetcode Question Link": "https://leetcode.com/problems/number-of-islands"
   },
   {
     "ID": 63,
@@ -53,7 +53,7 @@
     "Acceptance": "34.6%",
     "Difficulty": "Medium",
     "Frequency": 0.0083752583,
-    "Leetcode Question Link": " https://leetcode.com/problems/unique-paths-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/unique-paths-ii"
   },
   {
     "ID": 36,
@@ -61,7 +61,7 @@
     "Acceptance": "48.7%",
     "Difficulty": "Medium",
     "Frequency": 0.0069420619,
-    "Leetcode Question Link": " https://leetcode.com/problems/valid-sudoku"
+    "Leetcode Question Link": "https://leetcode.com/problems/valid-sudoku"
   },
   {
     "ID": 23,
@@ -69,7 +69,7 @@
     "Acceptance": "40.2%",
     "Difficulty": "Hard",
     "Frequency": 0.0038759738,
-    "Leetcode Question Link": " https://leetcode.com/problems/merge-k-sorted-lists"
+    "Leetcode Question Link": "https://leetcode.com/problems/merge-k-sorted-lists"
   },
   {
     "ID": 79,
@@ -77,6 +77,6 @@
     "Acceptance": "35.6%",
     "Difficulty": "Medium",
     "Frequency": 0.001641026,
-    "Leetcode Question Link": " https://leetcode.com/problems/word-search"
+    "Leetcode Question Link": "https://leetcode.com/problems/word-search"
   }
 ]

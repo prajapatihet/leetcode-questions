@@ -5,7 +5,7 @@
     "Acceptance": "48.9%",
     "Difficulty": "Medium",
     "Frequency": 0.5083214431,
-    "Leetcode Question Link": " https://leetcode.com/problems/subarray-sums-divisible-by-k"
+    "Leetcode Question Link": "https://leetcode.com/problems/subarray-sums-divisible-by-k"
   },
   {
     "ID": 146,
@@ -13,7 +13,7 @@
     "Acceptance": "33.2%",
     "Difficulty": "Medium",
     "Frequency": 0.3791862236,
-    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+    "Leetcode Question Link": "https://leetcode.com/problems/lru-cache"
   },
   {
     "ID": 935,
@@ -21,7 +21,7 @@
     "Acceptance": "45.2%",
     "Difficulty": "Medium",
     "Frequency": 0.2500510042,
-    "Leetcode Question Link": " https://leetcode.com/problems/knight-dialer"
+    "Leetcode Question Link": "https://leetcode.com/problems/knight-dialer"
   },
   {
     "ID": 68,
@@ -29,7 +29,7 @@
     "Acceptance": "27.7%",
     "Difficulty": "Hard",
     "Frequency": 0.1614321443,
-    "Leetcode Question Link": " https://leetcode.com/problems/text-justification"
+    "Leetcode Question Link": "https://leetcode.com/problems/text-justification"
   },
   {
     "ID": 332,
@@ -37,7 +37,7 @@
     "Acceptance": "36.7%",
     "Difficulty": "Medium",
     "Frequency": 0.1567195974,
-    "Leetcode Question Link": " https://leetcode.com/problems/reconstruct-itinerary"
+    "Leetcode Question Link": "https://leetcode.com/problems/reconstruct-itinerary"
   },
   {
     "ID": 225,
@@ -45,7 +45,7 @@
     "Acceptance": "45.1%",
     "Difficulty": "Easy",
     "Frequency": 0.0366192258,
-    "Leetcode Question Link": " https://leetcode.com/problems/implement-stack-using-queues"
+    "Leetcode Question Link": "https://leetcode.com/problems/implement-stack-using-queues"
   },
   {
     "ID": 560,
@@ -53,7 +53,7 @@
     "Acceptance": "43.9%",
     "Difficulty": "Medium",
     "Frequency": 0.0264509708,
-    "Leetcode Question Link": " https://leetcode.com/problems/subarray-sum-equals-k"
+    "Leetcode Question Link": "https://leetcode.com/problems/subarray-sum-equals-k"
   },
   {
     "ID": 532,
@@ -61,7 +61,7 @@
     "Acceptance": "31.6%",
     "Difficulty": "Easy",
     "Frequency": 0.0187359111,
-    "Leetcode Question Link": " https://leetcode.com/problems/k-diff-pairs-in-an-array"
+    "Leetcode Question Link": "https://leetcode.com/problems/k-diff-pairs-in-an-array"
   },
   {
     "ID": 139,
@@ -69,7 +69,7 @@
     "Acceptance": "40.1%",
     "Difficulty": "Medium",
     "Frequency": 0.0154876777,
-    "Leetcode Question Link": " https://leetcode.com/problems/word-break"
+    "Leetcode Question Link": "https://leetcode.com/problems/word-break"
   },
   {
     "ID": 380,
@@ -77,7 +77,7 @@
     "Acceptance": "47.5%",
     "Difficulty": "Medium",
     "Frequency": 0.0098208499,
-    "Leetcode Question Link": " https://leetcode.com/problems/insert-delete-getrandom-o1"
+    "Leetcode Question Link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
   },
   {
     "ID": 49,
@@ -85,7 +85,7 @@
     "Acceptance": "56.9%",
     "Difficulty": "Medium",
     "Frequency": 0.0085389513,
-    "Leetcode Question Link": " https://leetcode.com/problems/group-anagrams"
+    "Leetcode Question Link": "https://leetcode.com/problems/group-anagrams"
   },
   {
     "ID": 20,
@@ -93,7 +93,7 @@
     "Acceptance": "39.0%",
     "Difficulty": "Easy",
     "Frequency": 0.0051688606,
-    "Leetcode Question Link": " https://leetcode.com/problems/valid-parentheses"
+    "Leetcode Question Link": "https://leetcode.com/problems/valid-parentheses"
   },
   {
     "ID": 17,
@@ -101,7 +101,7 @@
     "Acceptance": "46.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0044018999,
-    "Leetcode Question Link": " https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+    "Leetcode Question Link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
   },
   {
     "ID": 14,
@@ -109,7 +109,7 @@
     "Acceptance": "35.4%",
     "Difficulty": "Easy",
     "Frequency": 0.0033203318,
-    "Leetcode Question Link": " https://leetcode.com/problems/longest-common-prefix"
+    "Leetcode Question Link": "https://leetcode.com/problems/longest-common-prefix"
   },
   {
     "ID": 1,
@@ -117,6 +117,6 @@
     "Acceptance": "45.6%",
     "Difficulty": "Easy",
     "Frequency": 0.0032784227,
-    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/two-sum"
   }
 ]

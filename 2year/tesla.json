@@ -5,7 +5,7 @@
     "Acceptance": "61.2%",
     "Difficulty": "Easy",
     "Frequency": 0.074417571,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximum-number-of-balloons"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximum-number-of-balloons"
   },
   {
     "ID": 146,
@@ -13,7 +13,7 @@
     "Acceptance": "33.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0549465555,
-    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+    "Leetcode Question Link": "https://leetcode.com/problems/lru-cache"
   },
   {
     "ID": 724,
@@ -21,7 +21,7 @@
     "Acceptance": "44.0%",
     "Difficulty": "Easy",
     "Frequency": 0.0542874128,
-    "Leetcode Question Link": " https://leetcode.com/problems/find-pivot-index"
+    "Leetcode Question Link": "https://leetcode.com/problems/find-pivot-index"
   },
   {
     "ID": 1239,
@@ -29,7 +29,7 @@
     "Acceptance": "47.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0348163973,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters"
   },
   {
     "ID": 728,
@@ -37,7 +37,7 @@
     "Acceptance": "74.3%",
     "Difficulty": "Easy",
     "Frequency": 0.0246621624,
-    "Leetcode Question Link": " https://leetcode.com/problems/self-dividing-numbers"
+    "Leetcode Question Link": "https://leetcode.com/problems/self-dividing-numbers"
   },
   {
     "ID": 41,
@@ -45,7 +45,7 @@
     "Acceptance": "32.0%",
     "Difficulty": "Hard",
     "Frequency": 0.0143680633,
-    "Leetcode Question Link": " https://leetcode.com/problems/first-missing-positive"
+    "Leetcode Question Link": "https://leetcode.com/problems/first-missing-positive"
   },
   {
     "ID": 767,
@@ -53,7 +53,7 @@
     "Acceptance": "48.7%",
     "Difficulty": "Medium",
     "Frequency": 0.0132980683,
-    "Leetcode Question Link": " https://leetcode.com/problems/reorganize-string"
+    "Leetcode Question Link": "https://leetcode.com/problems/reorganize-string"
   },
   {
     "ID": 273,
@@ -61,7 +61,7 @@
     "Acceptance": "27.1%",
     "Difficulty": "Hard",
     "Frequency": 0.0120810893,
-    "Leetcode Question Link": " https://leetcode.com/problems/integer-to-english-words"
+    "Leetcode Question Link": "https://leetcode.com/problems/integer-to-english-words"
   },
   {
     "ID": 127,
@@ -69,7 +69,7 @@
     "Acceptance": "29.6%",
     "Difficulty": "Medium",
     "Frequency": 0.0059790911,
-    "Leetcode Question Link": " https://leetcode.com/problems/word-ladder"
+    "Leetcode Question Link": "https://leetcode.com/problems/word-ladder"
   },
   {
     "ID": 20,
@@ -77,7 +77,7 @@
     "Acceptance": "39.0%",
     "Difficulty": "Easy",
     "Frequency": 0.0051688606,
-    "Leetcode Question Link": " https://leetcode.com/problems/valid-parentheses"
+    "Leetcode Question Link": "https://leetcode.com/problems/valid-parentheses"
   },
   {
     "ID": 49,
@@ -85,7 +85,7 @@
     "Acceptance": "56.9%",
     "Difficulty": "Medium",
     "Frequency": 0.003804094,
-    "Leetcode Question Link": " https://leetcode.com/problems/group-anagrams"
+    "Leetcode Question Link": "https://leetcode.com/problems/group-anagrams"
   },
   {
     "ID": 33,
@@ -93,7 +93,7 @@
     "Acceptance": "34.5%",
     "Difficulty": "Medium",
     "Frequency": 0.003229977,
-    "Leetcode Question Link": " https://leetcode.com/problems/search-in-rotated-sorted-array"
+    "Leetcode Question Link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
   },
   {
     "ID": 283,
@@ -101,6 +101,6 @@
     "Acceptance": "57.8%",
     "Difficulty": "Easy",
     "Frequency": 0.0028853803,
-    "Leetcode Question Link": " https://leetcode.com/problems/move-zeroes"
+    "Leetcode Question Link": "https://leetcode.com/problems/move-zeroes"
   }
 ]

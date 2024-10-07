@@ -5,7 +5,7 @@
     "Acceptance": "48.4%",
     "Difficulty": "Medium",
     "Frequency": 0.0336971842,
-    "Leetcode Question Link": " https://leetcode.com/problems/alphabet-board-path"
+    "Leetcode Question Link": "https://leetcode.com/problems/alphabet-board-path"
   },
   {
     "ID": 56,
@@ -13,7 +13,7 @@
     "Acceptance": "39.3%",
     "Difficulty": "Medium",
     "Frequency": 0.0215099061,
-    "Leetcode Question Link": " https://leetcode.com/problems/merge-intervals"
+    "Leetcode Question Link": "https://leetcode.com/problems/merge-intervals"
   },
   {
     "ID": 242,
@@ -21,7 +21,7 @@
     "Acceptance": "56.9%",
     "Difficulty": "Easy",
     "Frequency": 0.0093226281,
-    "Leetcode Question Link": " https://leetcode.com/problems/valid-anagram"
+    "Leetcode Question Link": "https://leetcode.com/problems/valid-anagram"
   },
   {
     "ID": 4,
@@ -29,6 +29,6 @@
     "Acceptance": "29.6%",
     "Difficulty": "Hard",
     "Frequency": 0.003900161,
-    "Leetcode Question Link": " https://leetcode.com/problems/median-of-two-sorted-arrays"
+    "Leetcode Question Link": "https://leetcode.com/problems/median-of-two-sorted-arrays"
   }
 ]

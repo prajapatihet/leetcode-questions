@@ -5,7 +5,7 @@
     "Acceptance": "54.3%",
     "Difficulty": "Medium",
     "Frequency": 0.0284006035,
-    "Leetcode Question Link": " https://leetcode.com/problems/design-tic-tac-toe"
+    "Leetcode Question Link": "https://leetcode.com/problems/design-tic-tac-toe"
   },
   {
     "ID": 230,
@@ -13,6 +13,6 @@
     "Acceptance": "60.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0142003017,
-    "Leetcode Question Link": " https://leetcode.com/problems/kth-smallest-element-in-a-bst"
+    "Leetcode Question Link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst"
   }
 ]

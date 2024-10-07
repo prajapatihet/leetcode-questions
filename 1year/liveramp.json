@@ -5,7 +5,7 @@
     "Acceptance": "59.1%",
     "Difficulty": "Medium",
     "Frequency": 0.0043953647,
-    "Leetcode Question Link": " https://leetcode.com/problems/minesweeper"
+    "Leetcode Question Link": "https://leetcode.com/problems/minesweeper"
   },
   {
     "ID": 20,
@@ -13,6 +13,6 @@
     "Acceptance": "39.0%",
     "Difficulty": "Easy",
     "Frequency": 0.0021976823,
-    "Leetcode Question Link": " https://leetcode.com/problems/valid-parentheses"
+    "Leetcode Question Link": "https://leetcode.com/problems/valid-parentheses"
   }
 ]

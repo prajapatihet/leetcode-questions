@@ -5,7 +5,7 @@
     "Acceptance": "39.5%",
     "Difficulty": "Medium",
     "Frequency": 0.162901551,
-    "Leetcode Question Link": " https://leetcode.com/problems/summary-ranges"
+    "Leetcode Question Link": "https://leetcode.com/problems/summary-ranges"
   },
   {
     "ID": 1071,
@@ -13,7 +13,7 @@
     "Acceptance": "52.9%",
     "Difficulty": "Easy",
     "Frequency": 0.1218234452,
-    "Leetcode Question Link": " https://leetcode.com/problems/greatest-common-divisor-of-strings"
+    "Leetcode Question Link": "https://leetcode.com/problems/greatest-common-divisor-of-strings"
   },
   {
     "ID": 290,
@@ -21,7 +21,7 @@
     "Acceptance": "37.0%",
     "Difficulty": "Easy",
     "Frequency": 0.1098074379,
-    "Leetcode Question Link": " https://leetcode.com/problems/word-pattern"
+    "Leetcode Question Link": "https://leetcode.com/problems/word-pattern"
   },
   {
     "ID": 814,
@@ -29,7 +29,7 @@
     "Acceptance": "74.5%",
     "Difficulty": "Medium",
     "Frequency": 0.0687293322,
-    "Leetcode Question Link": " https://leetcode.com/problems/binary-tree-pruning"
+    "Leetcode Question Link": "https://leetcode.com/problems/binary-tree-pruning"
   },
   {
     "ID": 328,
@@ -37,7 +37,7 @@
     "Acceptance": "55.7%",
     "Difficulty": "Medium",
     "Frequency": 0.0468425836,
-    "Leetcode Question Link": " https://leetcode.com/problems/odd-even-linked-list"
+    "Leetcode Question Link": "https://leetcode.com/problems/odd-even-linked-list"
   },
   {
     "ID": 204,
@@ -45,7 +45,7 @@
     "Acceptance": "31.5%",
     "Difficulty": "Easy",
     "Frequency": 0.0279934304,
-    "Leetcode Question Link": " https://leetcode.com/problems/count-primes"
+    "Leetcode Question Link": "https://leetcode.com/problems/count-primes"
   },
   {
     "ID": 138,
@@ -53,7 +53,7 @@
     "Acceptance": "36.4%",
     "Difficulty": "Medium",
     "Frequency": 0.0245373451,
-    "Leetcode Question Link": " https://leetcode.com/problems/copy-list-with-random-pointer"
+    "Leetcode Question Link": "https://leetcode.com/problems/copy-list-with-random-pointer"
   },
   {
     "ID": 66,
@@ -61,6 +61,6 @@
     "Acceptance": "43.0%",
     "Difficulty": "Easy",
     "Frequency": 0.0032621135,
-    "Leetcode Question Link": " https://leetcode.com/problems/plus-one"
+    "Leetcode Question Link": "https://leetcode.com/problems/plus-one"
   }
 ]

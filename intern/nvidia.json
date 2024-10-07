@@ -5,7 +5,7 @@
     "Acceptance": "43.7%",
     "Difficulty": "Easy",
     "Frequency": 0.0086518121,
-    "Leetcode Question Link": " https://leetcode.com/problems/power-of-two"
+    "Leetcode Question Link": "https://leetcode.com/problems/power-of-two"
   },
   {
     "ID": 146,
@@ -13,7 +13,7 @@
     "Acceptance": "33.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0046003531,
-    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+    "Leetcode Question Link": "https://leetcode.com/problems/lru-cache"
   },
   {
     "ID": 23,
@@ -21,6 +21,6 @@
     "Acceptance": "40.2%",
     "Difficulty": "Hard",
     "Frequency": 0.004051459,
-    "Leetcode Question Link": " https://leetcode.com/problems/merge-k-sorted-lists"
+    "Leetcode Question Link": "https://leetcode.com/problems/merge-k-sorted-lists"
   }
 ]

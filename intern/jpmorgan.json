@@ -5,7 +5,7 @@
     "Acceptance": "43.3%",
     "Difficulty": "Medium",
     "Frequency": 0.0444999965,
-    "Leetcode Question Link": " https://leetcode.com/problems/break-a-palindrome"
+    "Leetcode Question Link": "https://leetcode.com/problems/break-a-palindrome"
   },
   {
     "ID": 202,
@@ -13,7 +13,7 @@
     "Acceptance": "50.4%",
     "Difficulty": "Easy",
     "Frequency": 0.0248344286,
-    "Leetcode Question Link": " https://leetcode.com/problems/happy-number"
+    "Leetcode Question Link": "https://leetcode.com/problems/happy-number"
   },
   {
     "ID": 20,
@@ -21,6 +21,6 @@
     "Acceptance": "39.0%",
     "Difficulty": "Easy",
     "Frequency": 0.0051688606,
-    "Leetcode Question Link": " https://leetcode.com/problems/valid-parentheses"
+    "Leetcode Question Link": "https://leetcode.com/problems/valid-parentheses"
   }
 ]

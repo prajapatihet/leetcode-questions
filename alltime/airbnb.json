@@ -5,7 +5,7 @@
     "Acceptance": "33.7%",
     "Difficulty": "Hard",
     "Frequency": 5.9749009408,
-    "Leetcode Question Link": " https://leetcode.com/problems/palindrome-pairs"
+    "Leetcode Question Link": "https://leetcode.com/problems/palindrome-pairs"
   },
   {
     "ID": 755,
@@ -13,7 +13,7 @@
     "Acceptance": "43.3%",
     "Difficulty": "Medium",
     "Frequency": 5.8215252827,
-    "Leetcode Question Link": " https://leetcode.com/problems/pour-water"
+    "Leetcode Question Link": "https://leetcode.com/problems/pour-water"
   },
   {
     "ID": 751,
@@ -21,7 +21,7 @@
     "Acceptance": "61.7%",
     "Difficulty": "Medium",
     "Frequency": 4.6774797212,
-    "Leetcode Question Link": " https://leetcode.com/problems/ip-to-cidr"
+    "Leetcode Question Link": "https://leetcode.com/problems/ip-to-cidr"
   },
   {
     "ID": 251,
@@ -29,7 +29,7 @@
     "Acceptance": "45.7%",
     "Difficulty": "Medium",
     "Frequency": 4.5010609789,
-    "Leetcode Question Link": " https://leetcode.com/problems/flatten-2d-vector"
+    "Leetcode Question Link": "https://leetcode.com/problems/flatten-2d-vector"
   },
   {
     "ID": 269,
@@ -37,7 +37,7 @@
     "Acceptance": "33.3%",
     "Difficulty": "Hard",
     "Frequency": 3.3570154175,
-    "Leetcode Question Link": " https://leetcode.com/problems/alien-dictionary"
+    "Leetcode Question Link": "https://leetcode.com/problems/alien-dictionary"
   },
   {
     "ID": 68,
@@ -45,7 +45,7 @@
     "Acceptance": "27.7%",
     "Difficulty": "Hard",
     "Frequency": 3.0293920301,
-    "Leetcode Question Link": " https://leetcode.com/problems/text-justification"
+    "Leetcode Question Link": "https://leetcode.com/problems/text-justification"
   },
   {
     "ID": 1166,
@@ -53,7 +53,7 @@
     "Acceptance": "56.8%",
     "Difficulty": "Medium",
     "Frequency": 2.7214059923,
-    "Leetcode Question Link": " https://leetcode.com/problems/design-file-system"
+    "Leetcode Question Link": "https://leetcode.com/problems/design-file-system"
   },
   {
     "ID": 787,
@@ -61,7 +61,7 @@
     "Acceptance": "39.3%",
     "Difficulty": "Medium",
     "Frequency": 2.6633608806,
-    "Leetcode Question Link": " https://leetcode.com/problems/cheapest-flights-within-k-stops"
+    "Leetcode Question Link": "https://leetcode.com/problems/cheapest-flights-within-k-stops"
   },
   {
     "ID": 773,
@@ -69,7 +69,7 @@
     "Acceptance": "59.3%",
     "Difficulty": "Hard",
     "Frequency": 2.4717685124,
-    "Leetcode Question Link": " https://leetcode.com/problems/sliding-puzzle"
+    "Leetcode Question Link": "https://leetcode.com/problems/sliding-puzzle"
   },
   {
     "ID": 341,
@@ -77,7 +77,7 @@
     "Acceptance": "52.9%",
     "Difficulty": "Medium",
     "Frequency": 1.7662087691,
-    "Leetcode Question Link": " https://leetcode.com/problems/flatten-nested-list-iterator"
+    "Leetcode Question Link": "https://leetcode.com/problems/flatten-nested-list-iterator"
   },
   {
     "ID": 166,
@@ -85,7 +85,7 @@
     "Acceptance": "21.6%",
     "Difficulty": "Medium",
     "Frequency": 1.6639068208,
-    "Leetcode Question Link": " https://leetcode.com/problems/fraction-to-recurring-decimal"
+    "Leetcode Question Link": "https://leetcode.com/problems/fraction-to-recurring-decimal"
   },
   {
     "ID": 39,
@@ -93,7 +93,7 @@
     "Acceptance": "56.1%",
     "Difficulty": "Medium",
     "Frequency": 1.6445826005,
-    "Leetcode Question Link": " https://leetcode.com/problems/combination-sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/combination-sum"
   },
   {
     "ID": 324,
@@ -101,7 +101,7 @@
     "Acceptance": "29.9%",
     "Difficulty": "Medium",
     "Frequency": 1.2959351404,
-    "Leetcode Question Link": " https://leetcode.com/problems/wiggle-sort-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/wiggle-sort-ii"
   },
   {
     "ID": 875,
@@ -109,7 +109,7 @@
     "Acceptance": "52.1%",
     "Difficulty": "Medium",
     "Frequency": 1.2072640854,
-    "Leetcode Question Link": " https://leetcode.com/problems/koko-eating-bananas"
+    "Leetcode Question Link": "https://leetcode.com/problems/koko-eating-bananas"
   },
   {
     "ID": 42,
@@ -117,7 +117,7 @@
     "Acceptance": "48.9%",
     "Difficulty": "Hard",
     "Frequency": 1.1037585328,
-    "Leetcode Question Link": " https://leetcode.com/problems/trapping-rain-water"
+    "Leetcode Question Link": "https://leetcode.com/problems/trapping-rain-water"
   },
   {
     "ID": 1,
@@ -125,7 +125,7 @@
     "Acceptance": "45.6%",
     "Difficulty": "Easy",
     "Frequency": 1.0889331084,
-    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/two-sum"
   },
   {
     "ID": 1058,
@@ -133,7 +133,7 @@
     "Acceptance": "41.7%",
     "Difficulty": "Medium",
     "Frequency": 1.042653635,
-    "Leetcode Question Link": " https://leetcode.com/problems/minimize-rounding-error-to-meet-target"
+    "Leetcode Question Link": "https://leetcode.com/problems/minimize-rounding-error-to-meet-target"
   },
   {
     "ID": 759,
@@ -141,7 +141,7 @@
     "Acceptance": "66.2%",
     "Difficulty": "Hard",
     "Frequency": 0.9190267117,
-    "Leetcode Question Link": " https://leetcode.com/problems/employee-free-time"
+    "Leetcode Question Link": "https://leetcode.com/problems/employee-free-time"
   },
   {
     "ID": 756,
@@ -149,7 +149,7 @@
     "Acceptance": "54.6%",
     "Difficulty": "Medium",
     "Frequency": 0.8397506548,
-    "Leetcode Question Link": " https://leetcode.com/problems/pyramid-transition-matrix"
+    "Leetcode Question Link": "https://leetcode.com/problems/pyramid-transition-matrix"
   },
   {
     "ID": 864,
@@ -157,7 +157,7 @@
     "Acceptance": "40.1%",
     "Difficulty": "Hard",
     "Frequency": 0.6061358036,
-    "Leetcode Question Link": " https://leetcode.com/problems/shortest-path-to-get-all-keys"
+    "Leetcode Question Link": "https://leetcode.com/problems/shortest-path-to-get-all-keys"
   },
   {
     "ID": 1257,
@@ -165,7 +165,7 @@
     "Acceptance": "58.8%",
     "Difficulty": "Medium",
     "Frequency": 0.5049690917,
-    "Leetcode Question Link": " https://leetcode.com/problems/smallest-common-region"
+    "Leetcode Question Link": "https://leetcode.com/problems/smallest-common-region"
   },
   {
     "ID": 843,
@@ -173,7 +173,7 @@
     "Acceptance": "46.1%",
     "Difficulty": "Hard",
     "Frequency": 0.4509274822,
-    "Leetcode Question Link": " https://leetcode.com/problems/guess-the-word"
+    "Leetcode Question Link": "https://leetcode.com/problems/guess-the-word"
   },
   {
     "ID": 212,
@@ -181,7 +181,7 @@
     "Acceptance": "34.9%",
     "Difficulty": "Hard",
     "Frequency": 0.3492519633,
-    "Leetcode Question Link": " https://leetcode.com/problems/word-search-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/word-search-ii"
   },
   {
     "ID": 588,
@@ -189,7 +189,7 @@
     "Acceptance": "45.9%",
     "Difficulty": "Hard",
     "Frequency": 0.3191370246,
-    "Leetcode Question Link": " https://leetcode.com/problems/design-in-memory-file-system"
+    "Leetcode Question Link": "https://leetcode.com/problems/design-in-memory-file-system"
   },
   {
     "ID": 322,
@@ -197,7 +197,7 @@
     "Acceptance": "35.5%",
     "Difficulty": "Medium",
     "Frequency": 0.2559919879,
-    "Leetcode Question Link": " https://leetcode.com/problems/coin-change"
+    "Leetcode Question Link": "https://leetcode.com/problems/coin-change"
   },
   {
     "ID": 2,
@@ -205,7 +205,7 @@
     "Acceptance": "33.9%",
     "Difficulty": "Medium",
     "Frequency": 0.2512393123,
-    "Leetcode Question Link": " https://leetcode.com/problems/add-two-numbers"
+    "Leetcode Question Link": "https://leetcode.com/problems/add-two-numbers"
   },
   {
     "ID": 10,
@@ -213,7 +213,7 @@
     "Acceptance": "26.8%",
     "Difficulty": "Hard",
     "Frequency": 0.2308311992,
-    "Leetcode Question Link": " https://leetcode.com/problems/regular-expression-matching"
+    "Leetcode Question Link": "https://leetcode.com/problems/regular-expression-matching"
   },
   {
     "ID": 1235,
@@ -221,7 +221,7 @@
     "Acceptance": "44.0%",
     "Difficulty": "Hard",
     "Frequency": 0.2301582283,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximum-profit-in-job-scheduling"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling"
   },
   {
     "ID": 299,
@@ -229,7 +229,7 @@
     "Acceptance": "42.4%",
     "Difficulty": "Easy",
     "Frequency": 0.1826623304,
-    "Leetcode Question Link": " https://leetcode.com/problems/bulls-and-cows"
+    "Leetcode Question Link": "https://leetcode.com/problems/bulls-and-cows"
   },
   {
     "ID": 76,
@@ -237,7 +237,7 @@
     "Acceptance": "34.6%",
     "Difficulty": "Hard",
     "Frequency": 0.173190029,
-    "Leetcode Question Link": " https://leetcode.com/problems/minimum-window-substring"
+    "Leetcode Question Link": "https://leetcode.com/problems/minimum-window-substring"
   },
   {
     "ID": 219,
@@ -245,7 +245,7 @@
     "Acceptance": "37.7%",
     "Difficulty": "Easy",
     "Frequency": 0.1461799403,
-    "Leetcode Question Link": " https://leetcode.com/problems/contains-duplicate-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/contains-duplicate-ii"
   },
   {
     "ID": 385,
@@ -253,7 +253,7 @@
     "Acceptance": "33.8%",
     "Difficulty": "Medium",
     "Frequency": 0.1317692776,
-    "Leetcode Question Link": " https://leetcode.com/problems/mini-parser"
+    "Leetcode Question Link": "https://leetcode.com/problems/mini-parser"
   },
   {
     "ID": 198,
@@ -261,7 +261,7 @@
     "Acceptance": "42.0%",
     "Difficulty": "Easy",
     "Frequency": 0.1270989843,
-    "Leetcode Question Link": " https://leetcode.com/problems/house-robber"
+    "Leetcode Question Link": "https://leetcode.com/problems/house-robber"
   },
   {
     "ID": 5,
@@ -269,7 +269,7 @@
     "Acceptance": "29.5%",
     "Difficulty": "Medium",
     "Frequency": 0.1207641166,
-    "Leetcode Question Link": " https://leetcode.com/problems/longest-palindromic-substring"
+    "Leetcode Question Link": "https://leetcode.com/problems/longest-palindromic-substring"
   },
   {
     "ID": 220,
@@ -277,7 +277,7 @@
     "Acceptance": "20.9%",
     "Difficulty": "Medium",
     "Frequency": 0.0959969144,
-    "Leetcode Question Link": " https://leetcode.com/problems/contains-duplicate-iii"
+    "Leetcode Question Link": "https://leetcode.com/problems/contains-duplicate-iii"
   },
   {
     "ID": 280,
@@ -285,7 +285,7 @@
     "Acceptance": "63.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0956141774,
-    "Leetcode Question Link": " https://leetcode.com/problems/wiggle-sort"
+    "Leetcode Question Link": "https://leetcode.com/problems/wiggle-sort"
   },
   {
     "ID": 236,
@@ -293,7 +293,7 @@
     "Acceptance": "45.7%",
     "Difficulty": "Medium",
     "Frequency": 0.0728836976,
-    "Leetcode Question Link": " https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree"
+    "Leetcode Question Link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree"
   },
   {
     "ID": 20,
@@ -301,7 +301,7 @@
     "Acceptance": "39.0%",
     "Difficulty": "Easy",
     "Frequency": 0.0673524026,
-    "Leetcode Question Link": " https://leetcode.com/problems/valid-parentheses"
+    "Leetcode Question Link": "https://leetcode.com/problems/valid-parentheses"
   },
   {
     "ID": 4,
@@ -309,7 +309,7 @@
     "Acceptance": "29.6%",
     "Difficulty": "Hard",
     "Frequency": 0.0606476085,
-    "Leetcode Question Link": " https://leetcode.com/problems/median-of-two-sorted-arrays"
+    "Leetcode Question Link": "https://leetcode.com/problems/median-of-two-sorted-arrays"
   },
   {
     "ID": 160,
@@ -317,7 +317,7 @@
     "Acceptance": "40.6%",
     "Difficulty": "Easy",
     "Frequency": 0.043270781,
-    "Leetcode Question Link": " https://leetcode.com/problems/intersection-of-two-linked-lists"
+    "Leetcode Question Link": "https://leetcode.com/problems/intersection-of-two-linked-lists"
   },
   {
     "ID": 202,
@@ -325,7 +325,7 @@
     "Acceptance": "50.4%",
     "Difficulty": "Easy",
     "Frequency": 0.0385374444,
-    "Leetcode Question Link": " https://leetcode.com/problems/happy-number"
+    "Leetcode Question Link": "https://leetcode.com/problems/happy-number"
   },
   {
     "ID": 21,
@@ -333,7 +333,7 @@
     "Acceptance": "53.5%",
     "Difficulty": "Easy",
     "Frequency": 0.0354863425,
-    "Leetcode Question Link": " https://leetcode.com/problems/merge-two-sorted-lists"
+    "Leetcode Question Link": "https://leetcode.com/problems/merge-two-sorted-lists"
   },
   {
     "ID": 136,
@@ -341,7 +341,7 @@
     "Acceptance": "65.5%",
     "Difficulty": "Easy",
     "Frequency": 0.0345981981,
-    "Leetcode Question Link": " https://leetcode.com/problems/single-number"
+    "Leetcode Question Link": "https://leetcode.com/problems/single-number"
   },
   {
     "ID": 108,
@@ -349,7 +349,7 @@
     "Acceptance": "57.9%",
     "Difficulty": "Easy",
     "Frequency": 0.0342171057,
-    "Leetcode Question Link": " https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree"
+    "Leetcode Question Link": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree"
   },
   {
     "ID": 23,
@@ -357,7 +357,7 @@
     "Acceptance": "40.2%",
     "Difficulty": "Hard",
     "Frequency": 0.0250564321,
-    "Leetcode Question Link": " https://leetcode.com/problems/merge-k-sorted-lists"
+    "Leetcode Question Link": "https://leetcode.com/problems/merge-k-sorted-lists"
   },
   {
     "ID": 215,
@@ -365,7 +365,7 @@
     "Acceptance": "55.4%",
     "Difficulty": "Medium",
     "Frequency": 0.0241440989,
-    "Leetcode Question Link": " https://leetcode.com/problems/kth-largest-element-in-an-array"
+    "Leetcode Question Link": "https://leetcode.com/problems/kth-largest-element-in-an-array"
   },
   {
     "ID": 622,
@@ -373,7 +373,7 @@
     "Acceptance": "43.7%",
     "Difficulty": "Medium",
     "Frequency": 0.0224602367,
-    "Leetcode Question Link": " https://leetcode.com/problems/design-circular-queue"
+    "Leetcode Question Link": "https://leetcode.com/problems/design-circular-queue"
   },
   {
     "ID": 221,
@@ -381,7 +381,7 @@
     "Acceptance": "37.7%",
     "Difficulty": "Medium",
     "Frequency": 0.0221084908,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximal-square"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximal-square"
   },
   {
     "ID": 217,
@@ -389,7 +389,7 @@
     "Acceptance": "56.0%",
     "Difficulty": "Easy",
     "Frequency": 0.0151060274,
-    "Leetcode Question Link": " https://leetcode.com/problems/contains-duplicate"
+    "Leetcode Question Link": "https://leetcode.com/problems/contains-duplicate"
   },
   {
     "ID": 211,
@@ -397,7 +397,7 @@
     "Acceptance": "38.1%",
     "Difficulty": "Medium",
     "Frequency": 0.0104385081,
-    "Leetcode Question Link": " https://leetcode.com/problems/add-and-search-word-data-structure-design"
+    "Leetcode Question Link": "https://leetcode.com/problems/add-and-search-word-data-structure-design"
   },
   {
     "ID": 953,
@@ -405,7 +405,7 @@
     "Acceptance": "54.1%",
     "Difficulty": "Easy",
     "Frequency": 0.0078849216,
-    "Leetcode Question Link": " https://leetcode.com/problems/verifying-an-alien-dictionary"
+    "Leetcode Question Link": "https://leetcode.com/problems/verifying-an-alien-dictionary"
   },
   {
     "ID": 190,
@@ -413,7 +413,7 @@
     "Acceptance": "39.8%",
     "Difficulty": "Easy",
     "Frequency": 0.0073066358,
-    "Leetcode Question Link": " https://leetcode.com/problems/reverse-bits"
+    "Leetcode Question Link": "https://leetcode.com/problems/reverse-bits"
   },
   {
     "ID": 34,
@@ -421,7 +421,7 @@
     "Acceptance": "36.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0042476436,
-    "Leetcode Question Link": " https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array"
+    "Leetcode Question Link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array"
   },
   {
     "ID": 227,
@@ -429,7 +429,7 @@
     "Acceptance": "36.9%",
     "Difficulty": "Medium",
     "Frequency": 0.0,
-    "Leetcode Question Link": " https://leetcode.com/problems/basic-calculator-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/basic-calculator-ii"
   },
   {
     "ID": 415,
@@ -437,7 +437,7 @@
     "Acceptance": "47.5%",
     "Difficulty": "Easy",
     "Frequency": 0.0,
-    "Leetcode Question Link": " https://leetcode.com/problems/add-strings"
+    "Leetcode Question Link": "https://leetcode.com/problems/add-strings"
   },
   {
     "ID": 1017,
@@ -445,7 +445,7 @@
     "Acceptance": "59.0%",
     "Difficulty": "Medium",
     "Frequency": 0.0,
-    "Leetcode Question Link": " https://leetcode.com/problems/convert-to-base-2"
+    "Leetcode Question Link": "https://leetcode.com/problems/convert-to-base-2"
   },
   {
     "ID": 1041,
@@ -453,7 +453,7 @@
     "Acceptance": "49.6%",
     "Difficulty": "Medium",
     "Frequency": 0.0,
-    "Leetcode Question Link": " https://leetcode.com/problems/robot-bounded-in-circle"
+    "Leetcode Question Link": "https://leetcode.com/problems/robot-bounded-in-circle"
   },
   {
     "ID": 1284,
@@ -461,7 +461,7 @@
     "Acceptance": "69.5%",
     "Difficulty": "Hard",
     "Frequency": 0.0,
-    "Leetcode Question Link": " https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix"
+    "Leetcode Question Link": "https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix"
   },
   {
     "ID": 1298,
@@ -469,6 +469,6 @@
     "Acceptance": "58.8%",
     "Difficulty": "Hard",
     "Frequency": 0.0,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes"
   }
 ]

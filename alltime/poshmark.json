@@ -5,7 +5,7 @@
     "Acceptance": "52.9%",
     "Difficulty": "Hard",
     "Frequency": 0.15535044,
-    "Leetcode Question Link": " https://leetcode.com/problems/market-analysis-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/market-analysis-ii"
   },
   {
     "ID": 1158,
@@ -13,6 +13,6 @@
     "Acceptance": "61.7%",
     "Difficulty": "Medium",
     "Frequency": 0.0,
-    "Leetcode Question Link": " https://leetcode.com/problems/market-analysis-i"
+    "Leetcode Question Link": "https://leetcode.com/problems/market-analysis-i"
   }
 ]

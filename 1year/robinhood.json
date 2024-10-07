@@ -5,7 +5,7 @@
     "Acceptance": "32.6%",
     "Difficulty": "Medium",
     "Frequency": 0.1567818212,
-    "Leetcode Question Link": " https://leetcode.com/problems/sentence-screen-fitting"
+    "Leetcode Question Link": "https://leetcode.com/problems/sentence-screen-fitting"
   },
   {
     "ID": 755,
@@ -13,7 +13,7 @@
     "Acceptance": "43.3%",
     "Difficulty": "Medium",
     "Frequency": 0.1479151112,
-    "Leetcode Question Link": " https://leetcode.com/problems/pour-water"
+    "Leetcode Question Link": "https://leetcode.com/problems/pour-water"
   },
   {
     "ID": 224,
@@ -21,7 +21,7 @@
     "Acceptance": "36.8%",
     "Difficulty": "Hard",
     "Frequency": 0.0813456395,
-    "Leetcode Question Link": " https://leetcode.com/problems/basic-calculator"
+    "Leetcode Question Link": "https://leetcode.com/problems/basic-calculator"
   },
   {
     "ID": 54,
@@ -29,7 +29,7 @@
     "Acceptance": "34.1%",
     "Difficulty": "Medium",
     "Frequency": 0.0147761677,
-    "Leetcode Question Link": " https://leetcode.com/problems/spiral-matrix"
+    "Leetcode Question Link": "https://leetcode.com/problems/spiral-matrix"
   },
   {
     "ID": 438,
@@ -37,6 +37,6 @@
     "Acceptance": "43.3%",
     "Difficulty": "Medium",
     "Frequency": 0.0081268225,
-    "Leetcode Question Link": " https://leetcode.com/problems/find-all-anagrams-in-a-string"
+    "Leetcode Question Link": "https://leetcode.com/problems/find-all-anagrams-in-a-string"
   }
 ]

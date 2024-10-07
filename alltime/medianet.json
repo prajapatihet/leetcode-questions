@@ -5,7 +5,7 @@
     "Acceptance": "68.8%",
     "Difficulty": "Medium",
     "Frequency": 0,
-    "Leetcode Question Link": " https://leetcode.com/problems/queens-that-can-attack-the-king"
+    "Leetcode Question Link": "https://leetcode.com/problems/queens-that-can-attack-the-king"
   },
   {
     "ID": 1266,
@@ -13,6 +13,6 @@
     "Acceptance": "79.6%",
     "Difficulty": "Easy",
     "Frequency": 0,
-    "Leetcode Question Link": " https://leetcode.com/problems/minimum-time-visiting-all-points"
+    "Leetcode Question Link": "https://leetcode.com/problems/minimum-time-visiting-all-points"
   }
 ]

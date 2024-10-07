@@ -5,7 +5,7 @@
     "Acceptance": "31.5%",
     "Difficulty": "Medium",
     "Frequency": 0.4560748309,
-    "Leetcode Question Link": " https://leetcode.com/problems/encode-and-decode-strings"
+    "Leetcode Question Link": "https://leetcode.com/problems/encode-and-decode-strings"
   },
   {
     "ID": 336,
@@ -13,7 +13,7 @@
     "Acceptance": "33.7%",
     "Difficulty": "Hard",
     "Frequency": 0.3591927799,
-    "Leetcode Question Link": " https://leetcode.com/problems/palindrome-pairs"
+    "Leetcode Question Link": "https://leetcode.com/problems/palindrome-pairs"
   },
   {
     "ID": 969,
@@ -21,7 +21,7 @@
     "Acceptance": "67.5%",
     "Difficulty": "Medium",
     "Frequency": 0.2734300497,
-    "Leetcode Question Link": " https://leetcode.com/problems/pancake-sorting"
+    "Leetcode Question Link": "https://leetcode.com/problems/pancake-sorting"
   },
   {
     "ID": 999,
@@ -29,7 +29,7 @@
     "Acceptance": "66.7%",
     "Difficulty": "Easy",
     "Frequency": 0.2458796323,
-    "Leetcode Question Link": " https://leetcode.com/problems/available-captures-for-rook"
+    "Leetcode Question Link": "https://leetcode.com/problems/available-captures-for-rook"
   },
   {
     "ID": 72,
@@ -37,7 +37,7 @@
     "Acceptance": "44.8%",
     "Difficulty": "Hard",
     "Frequency": 0.1493569277,
-    "Leetcode Question Link": " https://leetcode.com/problems/edit-distance"
+    "Leetcode Question Link": "https://leetcode.com/problems/edit-distance"
   },
   {
     "ID": 91,
@@ -45,7 +45,7 @@
     "Acceptance": "24.7%",
     "Difficulty": "Medium",
     "Frequency": 0.0524748768,
-    "Leetcode Question Link": " https://leetcode.com/problems/decode-ways"
+    "Leetcode Question Link": "https://leetcode.com/problems/decode-ways"
   },
   {
     "ID": 127,
@@ -53,7 +53,7 @@
     "Acceptance": "29.6%",
     "Difficulty": "Medium",
     "Frequency": 0.0367959097,
-    "Leetcode Question Link": " https://leetcode.com/problems/word-ladder"
+    "Leetcode Question Link": "https://leetcode.com/problems/word-ladder"
   },
   {
     "ID": 165,
@@ -61,7 +61,7 @@
     "Acceptance": "27.4%",
     "Difficulty": "Medium",
     "Frequency": 0.0351873675,
-    "Leetcode Question Link": " https://leetcode.com/problems/compare-version-numbers"
+    "Leetcode Question Link": "https://leetcode.com/problems/compare-version-numbers"
   },
   {
     "ID": 824,
@@ -69,7 +69,7 @@
     "Acceptance": "63.4%",
     "Difficulty": "Easy",
     "Frequency": 0.0317991817,
-    "Leetcode Question Link": " https://leetcode.com/problems/goat-latin"
+    "Leetcode Question Link": "https://leetcode.com/problems/goat-latin"
   },
   {
     "ID": 415,
@@ -77,7 +77,7 @@
     "Acceptance": "47.5%",
     "Difficulty": "Easy",
     "Frequency": 0.0300097539,
-    "Leetcode Question Link": " https://leetcode.com/problems/add-strings"
+    "Leetcode Question Link": "https://leetcode.com/problems/add-strings"
   },
   {
     "ID": 277,
@@ -85,7 +85,7 @@
     "Acceptance": "41.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0296978024,
-    "Leetcode Question Link": " https://leetcode.com/problems/find-the-celebrity"
+    "Leetcode Question Link": "https://leetcode.com/problems/find-the-celebrity"
   },
   {
     "ID": 273,
@@ -93,7 +93,7 @@
     "Acceptance": "27.1%",
     "Difficulty": "Hard",
     "Frequency": 0.0269800538,
-    "Leetcode Question Link": " https://leetcode.com/problems/integer-to-english-words"
+    "Leetcode Question Link": "https://leetcode.com/problems/integer-to-english-words"
   },
   {
     "ID": 981,
@@ -101,7 +101,7 @@
     "Acceptance": "53.1%",
     "Difficulty": "Medium",
     "Frequency": 0.0222602402,
-    "Leetcode Question Link": " https://leetcode.com/problems/time-based-key-value-store"
+    "Leetcode Question Link": "https://leetcode.com/problems/time-based-key-value-store"
   },
   {
     "ID": 332,
@@ -109,7 +109,7 @@
     "Acceptance": "36.7%",
     "Difficulty": "Medium",
     "Frequency": 0.0137553751,
-    "Leetcode Question Link": " https://leetcode.com/problems/reconstruct-itinerary"
+    "Leetcode Question Link": "https://leetcode.com/problems/reconstruct-itinerary"
   },
   {
     "ID": 269,
@@ -117,7 +117,7 @@
     "Acceptance": "33.3%",
     "Difficulty": "Hard",
     "Frequency": 0.0127309167,
-    "Leetcode Question Link": " https://leetcode.com/problems/alien-dictionary"
+    "Leetcode Question Link": "https://leetcode.com/problems/alien-dictionary"
   },
   {
     "ID": 208,
@@ -125,7 +125,7 @@
     "Acceptance": "49.4%",
     "Difficulty": "Medium",
     "Frequency": 0.0091054579,
-    "Leetcode Question Link": " https://leetcode.com/problems/implement-trie-prefix-tree"
+    "Leetcode Question Link": "https://leetcode.com/problems/implement-trie-prefix-tree"
   },
   {
     "ID": 39,
@@ -133,7 +133,7 @@
     "Acceptance": "56.1%",
     "Difficulty": "Medium",
     "Frequency": 0.0057159344,
-    "Leetcode Question Link": " https://leetcode.com/problems/combination-sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/combination-sum"
   },
   {
     "ID": 105,
@@ -141,7 +141,7 @@
     "Acceptance": "48.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0056282687,
-    "Leetcode Question Link": " https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal"
+    "Leetcode Question Link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal"
   },
   {
     "ID": 15,
@@ -149,7 +149,7 @@
     "Acceptance": "26.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0049409928,
-    "Leetcode Question Link": " https://leetcode.com/problems/3sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/3sum"
   },
   {
     "ID": 17,
@@ -157,7 +157,7 @@
     "Acceptance": "46.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0044018999,
-    "Leetcode Question Link": " https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+    "Leetcode Question Link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
   },
   {
     "ID": 139,
@@ -165,7 +165,7 @@
     "Acceptance": "40.1%",
     "Difficulty": "Medium",
     "Frequency": 0.0038944651,
-    "Leetcode Question Link": " https://leetcode.com/problems/word-break"
+    "Leetcode Question Link": "https://leetcode.com/problems/word-break"
   },
   {
     "ID": 200,
@@ -173,6 +173,6 @@
     "Acceptance": "46.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0028897578,
-    "Leetcode Question Link": " https://leetcode.com/problems/number-of-islands"
+    "Leetcode Question Link": "https://leetcode.com/problems/number-of-islands"
   }
 ]

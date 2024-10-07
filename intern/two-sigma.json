@@ -5,7 +5,7 @@
     "Acceptance": "54.7%",
     "Difficulty": "Medium",
     "Frequency": 0.2556185514,
-    "Leetcode Question Link": " https://leetcode.com/problems/longest-string-chain"
+    "Leetcode Question Link": "https://leetcode.com/problems/longest-string-chain"
   },
   {
     "ID": 547,
@@ -13,7 +13,7 @@
     "Acceptance": "58.6%",
     "Difficulty": "Medium",
     "Frequency": 0.140390314,
-    "Leetcode Question Link": " https://leetcode.com/problems/friend-circles"
+    "Leetcode Question Link": "https://leetcode.com/problems/friend-circles"
   },
   {
     "ID": 123,
@@ -21,7 +21,7 @@
     "Acceptance": "37.5%",
     "Difficulty": "Hard",
     "Frequency": 0.0251620767,
-    "Leetcode Question Link": " https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii"
+    "Leetcode Question Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii"
   },
   {
     "ID": 146,
@@ -29,6 +29,6 @@
     "Acceptance": "33.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0103211925,
-    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+    "Leetcode Question Link": "https://leetcode.com/problems/lru-cache"
   }
 ]

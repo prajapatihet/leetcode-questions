@@ -5,7 +5,7 @@
     "Acceptance": "60.1%",
     "Difficulty": "Medium",
     "Frequency": 0.1407912189,
-    "Leetcode Question Link": " https://leetcode.com/problems/product-of-array-except-self"
+    "Leetcode Question Link": "https://leetcode.com/problems/product-of-array-except-self"
   },
   {
     "ID": 146,
@@ -13,7 +13,7 @@
     "Acceptance": "33.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0946602772,
-    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+    "Leetcode Question Link": "https://leetcode.com/problems/lru-cache"
   },
   {
     "ID": 98,
@@ -21,7 +21,7 @@
     "Acceptance": "27.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0851514321,
-    "Leetcode Question Link": " https://leetcode.com/problems/validate-binary-search-tree"
+    "Leetcode Question Link": "https://leetcode.com/problems/validate-binary-search-tree"
   },
   {
     "ID": 973,
@@ -29,7 +29,7 @@
     "Acceptance": "63.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0547463372,
-    "Leetcode Question Link": " https://leetcode.com/problems/k-closest-points-to-origin"
+    "Leetcode Question Link": "https://leetcode.com/problems/k-closest-points-to-origin"
   },
   {
     "ID": 50,
@@ -37,7 +37,7 @@
     "Acceptance": "30.3%",
     "Difficulty": "Medium",
     "Frequency": 0.0086153955,
-    "Leetcode Question Link": " https://leetcode.com/problems/powx-n"
+    "Leetcode Question Link": "https://leetcode.com/problems/powx-n"
   },
   {
     "ID": 53,
@@ -45,6 +45,6 @@
     "Acceptance": "46.5%",
     "Difficulty": "Easy",
     "Frequency": 0.0082726287,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximum-subarray"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximum-subarray"
   }
 ]

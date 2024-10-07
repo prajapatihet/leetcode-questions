@@ -5,7 +5,7 @@
     "Acceptance": "49.0%",
     "Difficulty": "Medium",
     "Frequency": 1.0862508215,
-    "Leetcode Question Link": " https://leetcode.com/problems/fraction-addition-and-subtraction"
+    "Leetcode Question Link": "https://leetcode.com/problems/fraction-addition-and-subtraction"
   },
   {
     "ID": 691,
@@ -13,7 +13,7 @@
     "Acceptance": "42.9%",
     "Difficulty": "Hard",
     "Frequency": 0.6866391393,
-    "Leetcode Question Link": " https://leetcode.com/problems/stickers-to-spell-word"
+    "Leetcode Question Link": "https://leetcode.com/problems/stickers-to-spell-word"
   },
   {
     "ID": 166,
@@ -21,7 +21,7 @@
     "Acceptance": "21.6%",
     "Difficulty": "Medium",
     "Frequency": 0.6608271815,
-    "Leetcode Question Link": " https://leetcode.com/problems/fraction-to-recurring-decimal"
+    "Leetcode Question Link": "https://leetcode.com/problems/fraction-to-recurring-decimal"
   },
   {
     "ID": 945,
@@ -29,7 +29,7 @@
     "Acceptance": "46.3%",
     "Difficulty": "Medium",
     "Frequency": 0.2612154993,
-    "Leetcode Question Link": " https://leetcode.com/problems/minimum-increment-to-make-array-unique"
+    "Leetcode Question Link": "https://leetcode.com/problems/minimum-increment-to-make-array-unique"
   },
   {
     "ID": 697,
@@ -37,7 +37,7 @@
     "Acceptance": "53.8%",
     "Difficulty": "Easy",
     "Frequency": 0.1175231942,
-    "Leetcode Question Link": " https://leetcode.com/problems/degree-of-an-array"
+    "Leetcode Question Link": "https://leetcode.com/problems/degree-of-an-array"
   },
   {
     "ID": 234,
@@ -45,7 +45,7 @@
     "Acceptance": "39.3%",
     "Difficulty": "Easy",
     "Frequency": 0.1029927766,
-    "Leetcode Question Link": " https://leetcode.com/problems/palindrome-linked-list"
+    "Leetcode Question Link": "https://leetcode.com/problems/palindrome-linked-list"
   },
   {
     "ID": 598,
@@ -53,7 +53,7 @@
     "Acceptance": "49.6%",
     "Difficulty": "Easy",
     "Frequency": 0.0976384696,
-    "Leetcode Question Link": " https://leetcode.com/problems/range-addition-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/range-addition-ii"
   },
   {
     "ID": 23,
@@ -61,7 +61,7 @@
     "Acceptance": "40.2%",
     "Difficulty": "Hard",
     "Frequency": 0.046475884,
-    "Leetcode Question Link": " https://leetcode.com/problems/merge-k-sorted-lists"
+    "Leetcode Question Link": "https://leetcode.com/problems/merge-k-sorted-lists"
   },
   {
     "ID": 717,
@@ -69,7 +69,7 @@
     "Acceptance": "48.8%",
     "Difficulty": "Easy",
     "Frequency": 0.0243469117,
-    "Leetcode Question Link": " https://leetcode.com/problems/1-bit-and-2-bit-characters"
+    "Leetcode Question Link": "https://leetcode.com/problems/1-bit-and-2-bit-characters"
   },
   {
     "ID": 162,
@@ -77,7 +77,7 @@
     "Acceptance": "43.3%",
     "Difficulty": "Medium",
     "Frequency": 0.0136077092,
-    "Leetcode Question Link": " https://leetcode.com/problems/find-peak-element"
+    "Leetcode Question Link": "https://leetcode.com/problems/find-peak-element"
   },
   {
     "ID": 14,
@@ -85,7 +85,7 @@
     "Acceptance": "35.4%",
     "Difficulty": "Easy",
     "Frequency": 0.0126503901,
-    "Leetcode Question Link": " https://leetcode.com/problems/longest-common-prefix"
+    "Leetcode Question Link": "https://leetcode.com/problems/longest-common-prefix"
   },
   {
     "ID": 227,
@@ -93,7 +93,7 @@
     "Acceptance": "36.9%",
     "Difficulty": "Medium",
     "Frequency": 0.0118801516,
-    "Leetcode Question Link": " https://leetcode.com/problems/basic-calculator-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/basic-calculator-ii"
   },
   {
     "ID": 518,
@@ -101,7 +101,7 @@
     "Acceptance": "50.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0118449712,
-    "Leetcode Question Link": " https://leetcode.com/problems/coin-change-2"
+    "Leetcode Question Link": "https://leetcode.com/problems/coin-change-2"
   },
   {
     "ID": 33,
@@ -109,6 +109,6 @@
     "Acceptance": "34.5%",
     "Difficulty": "Medium",
     "Frequency": 0.0031000567,
-    "Leetcode Question Link": " https://leetcode.com/problems/search-in-rotated-sorted-array"
+    "Leetcode Question Link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
   }
 ]

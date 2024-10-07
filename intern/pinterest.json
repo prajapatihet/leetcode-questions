@@ -5,7 +5,7 @@
     "Acceptance": "66.3%",
     "Difficulty": "Hard",
     "Frequency": 0.0464799022,
-    "Leetcode Question Link": " https://leetcode.com/problems/employee-free-time"
+    "Leetcode Question Link": "https://leetcode.com/problems/employee-free-time"
   },
   {
     "ID": 362,
@@ -13,7 +13,7 @@
     "Acceptance": "63.7%",
     "Difficulty": "Medium",
     "Frequency": 0.0253820733,
-    "Leetcode Question Link": " https://leetcode.com/problems/design-hit-counter"
+    "Leetcode Question Link": "https://leetcode.com/problems/design-hit-counter"
   },
   {
     "ID": 698,
@@ -21,6 +21,6 @@
     "Acceptance": "45.0%",
     "Difficulty": "Medium",
     "Frequency": 0.021097829,
-    "Leetcode Question Link": " https://leetcode.com/problems/partition-to-k-equal-sum-subsets"
+    "Leetcode Question Link": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets"
   }
 ]

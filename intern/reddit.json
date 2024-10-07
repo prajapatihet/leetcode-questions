@@ -5,7 +5,7 @@
     "Acceptance": "45.3%",
     "Difficulty": "Medium",
     "Frequency": 0.0346478999,
-    "Leetcode Question Link": " https://leetcode.com/problems/binary-tree-vertical-order-traversal"
+    "Leetcode Question Link": "https://leetcode.com/problems/binary-tree-vertical-order-traversal"
   },
   {
     "ID": 289,
@@ -13,6 +13,6 @@
     "Acceptance": "54.5%",
     "Difficulty": "Medium",
     "Frequency": 0.0173239499,
-    "Leetcode Question Link": " https://leetcode.com/problems/game-of-life"
+    "Leetcode Question Link": "https://leetcode.com/problems/game-of-life"
   }
 ]

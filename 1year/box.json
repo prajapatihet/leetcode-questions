@@ -5,7 +5,7 @@
     "Acceptance": "67.7%",
     "Difficulty": "Easy",
     "Frequency": 0.1756882296,
-    "Leetcode Question Link": " https://leetcode.com/problems/univalued-binary-tree"
+    "Leetcode Question Link": "https://leetcode.com/problems/univalued-binary-tree"
   },
   {
     "ID": 250,
@@ -13,7 +13,7 @@
     "Acceptance": "52.0%",
     "Difficulty": "Medium",
     "Frequency": 0.1755434703,
-    "Leetcode Question Link": " https://leetcode.com/problems/count-univalue-subtrees"
+    "Leetcode Question Link": "https://leetcode.com/problems/count-univalue-subtrees"
   },
   {
     "ID": 191,
@@ -21,7 +21,7 @@
     "Acceptance": "49.8%",
     "Difficulty": "Easy",
     "Frequency": 0.17250127,
-    "Leetcode Question Link": " https://leetcode.com/problems/number-of-1-bits"
+    "Leetcode Question Link": "https://leetcode.com/problems/number-of-1-bits"
   },
   {
     "ID": 68,
@@ -29,7 +29,7 @@
     "Acceptance": "27.7%",
     "Difficulty": "Hard",
     "Frequency": 0.106271103,
-    "Leetcode Question Link": " https://leetcode.com/problems/text-justification"
+    "Leetcode Question Link": "https://leetcode.com/problems/text-justification"
   },
   {
     "ID": 126,
@@ -37,6 +37,6 @@
     "Acceptance": "22.1%",
     "Difficulty": "Hard",
     "Frequency": 0.0400409361,
-    "Leetcode Question Link": " https://leetcode.com/problems/word-ladder-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/word-ladder-ii"
   }
 ]

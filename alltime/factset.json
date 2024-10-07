@@ -5,7 +5,7 @@
     "Acceptance": "46.8%",
     "Difficulty": "Medium",
     "Frequency": 0.144646005,
-    "Leetcode Question Link": " https://leetcode.com/problems/boats-to-save-people"
+    "Leetcode Question Link": "https://leetcode.com/problems/boats-to-save-people"
   },
   {
     "ID": 168,
@@ -13,7 +13,7 @@
     "Acceptance": "31.1%",
     "Difficulty": "Easy",
     "Frequency": 0.1285928644,
-    "Leetcode Question Link": " https://leetcode.com/problems/excel-sheet-column-title"
+    "Leetcode Question Link": "https://leetcode.com/problems/excel-sheet-column-title"
   },
   {
     "ID": 171,
@@ -21,7 +21,7 @@
     "Acceptance": "55.9%",
     "Difficulty": "Easy",
     "Frequency": 0.0788593903,
-    "Leetcode Question Link": " https://leetcode.com/problems/excel-sheet-column-number"
+    "Leetcode Question Link": "https://leetcode.com/problems/excel-sheet-column-number"
   },
   {
     "ID": 1,
@@ -29,7 +29,7 @@
     "Acceptance": "45.6%",
     "Difficulty": "Easy",
     "Frequency": 0.0291259161,
-    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/two-sum"
   },
   {
     "ID": 206,
@@ -37,7 +37,7 @@
     "Acceptance": "62.5%",
     "Difficulty": "Easy",
     "Frequency": 0.0145351396,
-    "Leetcode Question Link": " https://leetcode.com/problems/reverse-linked-list"
+    "Leetcode Question Link": "https://leetcode.com/problems/reverse-linked-list"
   },
   {
     "ID": 1081,
@@ -45,7 +45,7 @@
     "Acceptance": "50.4%",
     "Difficulty": "Medium",
     "Frequency": 0.0,
-    "Leetcode Question Link": " https://leetcode.com/problems/smallest-subsequence-of-distinct-characters"
+    "Leetcode Question Link": "https://leetcode.com/problems/smallest-subsequence-of-distinct-characters"
   },
   {
     "ID": 1209,
@@ -53,6 +53,6 @@
     "Acceptance": "56.9%",
     "Difficulty": "Medium",
     "Frequency": 0.0,
-    "Leetcode Question Link": " https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii"
   }
 ]

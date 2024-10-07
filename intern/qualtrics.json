@@ -5,7 +5,7 @@
     "Acceptance": "51.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0100309347,
-    "Leetcode Question Link": " https://leetcode.com/problems/my-calendar-i"
+    "Leetcode Question Link": "https://leetcode.com/problems/my-calendar-i"
   },
   {
     "ID": 138,
@@ -13,7 +13,7 @@
     "Acceptance": "36.4%",
     "Difficulty": "Medium",
     "Frequency": 0.0061910119,
-    "Leetcode Question Link": " https://leetcode.com/problems/copy-list-with-random-pointer"
+    "Leetcode Question Link": "https://leetcode.com/problems/copy-list-with-random-pointer"
   },
   {
     "ID": 127,
@@ -21,7 +21,7 @@
     "Acceptance": "29.6%",
     "Difficulty": "Medium",
     "Frequency": 0.0059790911,
-    "Leetcode Question Link": " https://leetcode.com/problems/word-ladder"
+    "Leetcode Question Link": "https://leetcode.com/problems/word-ladder"
   },
   {
     "ID": 139,
@@ -29,7 +29,7 @@
     "Acceptance": "40.1%",
     "Difficulty": "Medium",
     "Frequency": 0.0038944651,
-    "Leetcode Question Link": " https://leetcode.com/problems/word-break"
+    "Leetcode Question Link": "https://leetcode.com/problems/word-break"
   },
   {
     "ID": 103,
@@ -37,6 +37,6 @@
     "Acceptance": "48.3%",
     "Difficulty": "Medium",
     "Frequency": 0.0038399228,
-    "Leetcode Question Link": " https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal"
+    "Leetcode Question Link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal"
   }
 ]

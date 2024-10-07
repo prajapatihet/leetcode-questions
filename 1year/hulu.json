@@ -5,7 +5,7 @@
     "Acceptance": "42.1%",
     "Difficulty": "Easy",
     "Frequency": 0.0290762388,
-    "Leetcode Question Link": " https://leetcode.com/problems/power-of-three"
+    "Leetcode Question Link": "https://leetcode.com/problems/power-of-three"
   },
   {
     "ID": 907,
@@ -13,7 +13,7 @@
     "Acceptance": "32.3%",
     "Difficulty": "Medium",
     "Frequency": 0.0287788143,
-    "Leetcode Question Link": " https://leetcode.com/problems/sum-of-subarray-minimums"
+    "Leetcode Question Link": "https://leetcode.com/problems/sum-of-subarray-minimums"
   },
   {
     "ID": 394,
@@ -21,7 +21,7 @@
     "Acceptance": "50.0%",
     "Difficulty": "Medium",
     "Frequency": 0.0174321672,
-    "Leetcode Question Link": " https://leetcode.com/problems/decode-string"
+    "Leetcode Question Link": "https://leetcode.com/problems/decode-string"
   },
   {
     "ID": 230,
@@ -29,7 +29,7 @@
     "Acceptance": "60.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0060855201,
-    "Leetcode Question Link": " https://leetcode.com/problems/kth-smallest-element-in-a-bst"
+    "Leetcode Question Link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst"
   },
   {
     "ID": 139,
@@ -37,7 +37,7 @@
     "Acceptance": "40.1%",
     "Difficulty": "Medium",
     "Frequency": 0.0037551678,
-    "Leetcode Question Link": " https://leetcode.com/problems/word-break"
+    "Leetcode Question Link": "https://leetcode.com/problems/word-break"
   },
   {
     "ID": 49,
@@ -45,6 +45,6 @@
     "Acceptance": "56.9%",
     "Difficulty": "Medium",
     "Frequency": 0.0036347155,
-    "Leetcode Question Link": " https://leetcode.com/problems/group-anagrams"
+    "Leetcode Question Link": "https://leetcode.com/problems/group-anagrams"
   }
 ]

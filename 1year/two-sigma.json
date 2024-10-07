@@ -5,7 +5,7 @@
     "Acceptance": "54.7%",
     "Difficulty": "Medium",
     "Frequency": 1.4879693177,
-    "Leetcode Question Link": " https://leetcode.com/problems/longest-string-chain"
+    "Leetcode Question Link": "https://leetcode.com/problems/longest-string-chain"
   },
   {
     "ID": 547,
@@ -13,7 +13,7 @@
     "Acceptance": "58.6%",
     "Difficulty": "Medium",
     "Frequency": 0.8204693312,
-    "Leetcode Question Link": " https://leetcode.com/problems/friend-circles"
+    "Leetcode Question Link": "https://leetcode.com/problems/friend-circles"
   },
   {
     "ID": 710,
@@ -21,7 +21,7 @@
     "Acceptance": "32.5%",
     "Difficulty": "Hard",
     "Frequency": 0.1529693448,
-    "Leetcode Question Link": " https://leetcode.com/problems/random-pick-with-blacklist"
+    "Leetcode Question Link": "https://leetcode.com/problems/random-pick-with-blacklist"
   },
   {
     "ID": 123,
@@ -29,7 +29,7 @@
     "Acceptance": "37.5%",
     "Difficulty": "Hard",
     "Frequency": 0.0970588816,
-    "Leetcode Question Link": " https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii"
+    "Leetcode Question Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii"
   },
   {
     "ID": 1163,
@@ -37,7 +37,7 @@
     "Acceptance": "33.9%",
     "Difficulty": "Hard",
     "Frequency": 0.0513591684,
-    "Leetcode Question Link": " https://leetcode.com/problems/last-substring-in-lexicographical-order"
+    "Leetcode Question Link": "https://leetcode.com/problems/last-substring-in-lexicographical-order"
   },
   {
     "ID": 146,
@@ -45,7 +45,7 @@
     "Acceptance": "33.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0406605982,
-    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+    "Leetcode Question Link": "https://leetcode.com/problems/lru-cache"
   },
   {
     "ID": 528,
@@ -53,7 +53,7 @@
     "Acceptance": "43.9%",
     "Difficulty": "Medium",
     "Frequency": 0.0148315659,
-    "Leetcode Question Link": " https://leetcode.com/problems/random-pick-with-weight"
+    "Leetcode Question Link": "https://leetcode.com/problems/random-pick-with-weight"
   },
   {
     "ID": 56,
@@ -61,6 +61,6 @@
     "Acceptance": "39.3%",
     "Difficulty": "Medium",
     "Frequency": 0.0034728286,
-    "Leetcode Question Link": " https://leetcode.com/problems/merge-intervals"
+    "Leetcode Question Link": "https://leetcode.com/problems/merge-intervals"
   }
 ]

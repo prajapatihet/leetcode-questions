@@ -5,7 +5,7 @@
     "Acceptance": "47.5%",
     "Difficulty": "Hard",
     "Frequency": 1.0065947176,
-    "Leetcode Question Link": " https://leetcode.com/problems/parse-lisp-expression"
+    "Leetcode Question Link": "https://leetcode.com/problems/parse-lisp-expression"
   },
   {
     "ID": 381,
@@ -13,7 +13,7 @@
     "Acceptance": "34.1%",
     "Difficulty": "Hard",
     "Frequency": 0.6946505635,
-    "Leetcode Question Link": " https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed"
+    "Leetcode Question Link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed"
   },
   {
     "ID": 695,
@@ -21,7 +21,7 @@
     "Acceptance": "62.7%",
     "Difficulty": "Medium",
     "Frequency": 0.5227168031,
-    "Leetcode Question Link": " https://leetcode.com/problems/max-area-of-island"
+    "Leetcode Question Link": "https://leetcode.com/problems/max-area-of-island"
   },
   {
     "ID": 380,
@@ -29,7 +29,7 @@
     "Acceptance": "47.5%",
     "Difficulty": "Medium",
     "Frequency": 0.2107726489,
-    "Leetcode Question Link": " https://leetcode.com/problems/insert-delete-getrandom-o1"
+    "Leetcode Question Link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
   },
   {
     "ID": 362,
@@ -37,7 +37,7 @@
     "Acceptance": "63.7%",
     "Difficulty": "Medium",
     "Frequency": 0.1431008436,
-    "Leetcode Question Link": " https://leetcode.com/problems/design-hit-counter"
+    "Leetcode Question Link": "https://leetcode.com/problems/design-hit-counter"
   },
   {
     "ID": 49,
@@ -45,7 +45,7 @@
     "Acceptance": "56.9%",
     "Difficulty": "Medium",
     "Frequency": 0.087125162,
-    "Leetcode Question Link": " https://leetcode.com/problems/group-anagrams"
+    "Leetcode Question Link": "https://leetcode.com/problems/group-anagrams"
   },
   {
     "ID": 42,
@@ -53,7 +53,7 @@
     "Acceptance": "48.9%",
     "Difficulty": "Hard",
     "Frequency": 0.0802808313,
-    "Leetcode Question Link": " https://leetcode.com/problems/trapping-rain-water"
+    "Leetcode Question Link": "https://leetcode.com/problems/trapping-rain-water"
   },
   {
     "ID": 127,
@@ -61,7 +61,7 @@
     "Acceptance": "29.6%",
     "Difficulty": "Medium",
     "Frequency": 0.0680440093,
-    "Leetcode Question Link": " https://leetcode.com/problems/word-ladder"
+    "Leetcode Question Link": "https://leetcode.com/problems/word-ladder"
   },
   {
     "ID": 200,
@@ -69,7 +69,7 @@
     "Acceptance": "46.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0545589843,
-    "Leetcode Question Link": " https://leetcode.com/problems/number-of-islands"
+    "Leetcode Question Link": "https://leetcode.com/problems/number-of-islands"
   },
   {
     "ID": 1,
@@ -77,7 +77,7 @@
     "Acceptance": "45.6%",
     "Difficulty": "Easy",
     "Frequency": 0.0432701568,
-    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/two-sum"
   },
   {
     "ID": 322,
@@ -85,7 +85,7 @@
     "Acceptance": "35.5%",
     "Difficulty": "Medium",
     "Frequency": 0.0239039969,
-    "Leetcode Question Link": " https://leetcode.com/problems/coin-change"
+    "Leetcode Question Link": "https://leetcode.com/problems/coin-change"
   },
   {
     "ID": 230,
@@ -93,6 +93,6 @@
     "Acceptance": "60.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0060855201,
-    "Leetcode Question Link": " https://leetcode.com/problems/kth-smallest-element-in-a-bst"
+    "Leetcode Question Link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst"
   }
 ]

@@ -5,7 +5,7 @@
     "Acceptance": "69.9%",
     "Difficulty": "Easy",
     "Frequency": 0.7210003114,
-    "Leetcode Question Link": " https://leetcode.com/problems/subdomain-visit-count"
+    "Leetcode Question Link": "https://leetcode.com/problems/subdomain-visit-count"
   },
   {
     "ID": 770,
@@ -13,7 +13,7 @@
     "Acceptance": "48.1%",
     "Difficulty": "Hard",
     "Frequency": 0.5389965007,
-    "Leetcode Question Link": " https://leetcode.com/problems/basic-calculator-iv"
+    "Leetcode Question Link": "https://leetcode.com/problems/basic-calculator-iv"
   },
   {
     "ID": 224,
@@ -21,7 +21,7 @@
     "Acceptance": "36.8%",
     "Difficulty": "Hard",
     "Frequency": 0.3569926901,
-    "Leetcode Question Link": " https://leetcode.com/problems/basic-calculator"
+    "Leetcode Question Link": "https://leetcode.com/problems/basic-calculator"
   },
   {
     "ID": 718,
@@ -29,7 +29,7 @@
     "Acceptance": "49.4%",
     "Difficulty": "Medium",
     "Frequency": 0.3017806374,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximum-length-of-repeated-subarray"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximum-length-of-repeated-subarray"
   },
   {
     "ID": 68,
@@ -37,7 +37,7 @@
     "Acceptance": "27.7%",
     "Difficulty": "Hard",
     "Frequency": 0.2249638977,
-    "Leetcode Question Link": " https://leetcode.com/problems/text-justification"
+    "Leetcode Question Link": "https://leetcode.com/problems/text-justification"
   },
   {
     "ID": 1197,
@@ -45,7 +45,7 @@
     "Acceptance": "36.1%",
     "Difficulty": "Medium",
     "Frequency": 0.0656212054,
-    "Leetcode Question Link": " https://leetcode.com/problems/minimum-knight-moves"
+    "Leetcode Question Link": "https://leetcode.com/problems/minimum-knight-moves"
   },
   {
     "ID": 362,
@@ -53,7 +53,7 @@
     "Acceptance": "63.7%",
     "Difficulty": "Medium",
     "Frequency": 0.0562296765,
-    "Leetcode Question Link": " https://leetcode.com/problems/design-hit-counter"
+    "Leetcode Question Link": "https://leetcode.com/problems/design-hit-counter"
   },
   {
     "ID": 227,
@@ -61,7 +61,7 @@
     "Acceptance": "36.9%",
     "Difficulty": "Medium",
     "Frequency": 0.0276855579,
-    "Leetcode Question Link": " https://leetcode.com/problems/basic-calculator-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/basic-calculator-ii"
   },
   {
     "ID": 1143,
@@ -69,6 +69,6 @@
     "Acceptance": "58.4%",
     "Difficulty": "Medium",
     "Frequency": 0.0088359311,
-    "Leetcode Question Link": " https://leetcode.com/problems/longest-common-subsequence"
+    "Leetcode Question Link": "https://leetcode.com/problems/longest-common-subsequence"
   }
 ]

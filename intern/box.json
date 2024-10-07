@@ -5,7 +5,7 @@
     "Acceptance": "49.8%",
     "Difficulty": "Easy",
     "Frequency": 0.0973962103,
-    "Leetcode Question Link": " https://leetcode.com/problems/number-of-1-bits"
+    "Leetcode Question Link": "https://leetcode.com/problems/number-of-1-bits"
   },
   {
     "ID": 68,
@@ -13,7 +13,7 @@
     "Acceptance": "27.7%",
     "Difficulty": "Hard",
     "Frequency": 0.0611603619,
-    "Leetcode Question Link": " https://leetcode.com/problems/text-justification"
+    "Leetcode Question Link": "https://leetcode.com/problems/text-justification"
   },
   {
     "ID": 965,
@@ -21,7 +21,7 @@
     "Acceptance": "67.7%",
     "Difficulty": "Easy",
     "Frequency": 0.0415188783,
-    "Leetcode Question Link": " https://leetcode.com/problems/univalued-binary-tree"
+    "Leetcode Question Link": "https://leetcode.com/problems/univalued-binary-tree"
   },
   {
     "ID": 250,
@@ -29,6 +29,6 @@
     "Acceptance": "52.0%",
     "Difficulty": "Medium",
     "Frequency": 0.0362358485,
-    "Leetcode Question Link": " https://leetcode.com/problems/count-univalue-subtrees"
+    "Leetcode Question Link": "https://leetcode.com/problems/count-univalue-subtrees"
   }
 ]

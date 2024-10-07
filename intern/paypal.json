@@ -5,7 +5,7 @@
     "Acceptance": "48.1%",
     "Difficulty": "Hard",
     "Frequency": 0.3658010976,
-    "Leetcode Question Link": " https://leetcode.com/problems/paint-house-iii"
+    "Leetcode Question Link": "https://leetcode.com/problems/paint-house-iii"
   },
   {
     "ID": 1497,
@@ -13,7 +13,7 @@
     "Acceptance": "41.1%",
     "Difficulty": "Medium",
     "Frequency": 0.2357666457,
-    "Leetcode Question Link": " https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k"
+    "Leetcode Question Link": "https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k"
   },
   {
     "ID": 1041,
@@ -21,7 +21,7 @@
     "Acceptance": "49.6%",
     "Difficulty": "Medium",
     "Frequency": 0.1057321938,
-    "Leetcode Question Link": " https://leetcode.com/problems/robot-bounded-in-circle"
+    "Leetcode Question Link": "https://leetcode.com/problems/robot-bounded-in-circle"
   },
   {
     "ID": 1297,
@@ -29,7 +29,7 @@
     "Acceptance": "47.3%",
     "Difficulty": "Medium",
     "Frequency": 0.0777089843,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring"
   },
   {
     "ID": 56,
@@ -37,7 +37,7 @@
     "Acceptance": "39.3%",
     "Difficulty": "Medium",
     "Frequency": 0.0417330423,
-    "Leetcode Question Link": " https://leetcode.com/problems/merge-intervals"
+    "Leetcode Question Link": "https://leetcode.com/problems/merge-intervals"
   },
   {
     "ID": 324,
@@ -45,7 +45,7 @@
     "Acceptance": "29.9%",
     "Difficulty": "Medium",
     "Frequency": 0.0289875369,
-    "Leetcode Question Link": " https://leetcode.com/problems/wiggle-sort-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/wiggle-sort-ii"
   },
   {
     "ID": 68,
@@ -53,7 +53,7 @@
     "Acceptance": "27.7%",
     "Difficulty": "Hard",
     "Frequency": 0.0276451607,
-    "Leetcode Question Link": " https://leetcode.com/problems/text-justification"
+    "Leetcode Question Link": "https://leetcode.com/problems/text-justification"
   },
   {
     "ID": 12,
@@ -61,7 +61,7 @@
     "Acceptance": "55.1%",
     "Difficulty": "Medium",
     "Frequency": 0.0190966975,
-    "Leetcode Question Link": " https://leetcode.com/problems/integer-to-roman"
+    "Leetcode Question Link": "https://leetcode.com/problems/integer-to-roman"
   },
   {
     "ID": 73,
@@ -69,7 +69,7 @@
     "Acceptance": "43.1%",
     "Difficulty": "Medium",
     "Frequency": 0.0157153575,
-    "Leetcode Question Link": " https://leetcode.com/problems/set-matrix-zeroes"
+    "Leetcode Question Link": "https://leetcode.com/problems/set-matrix-zeroes"
   },
   {
     "ID": 977,
@@ -77,7 +77,7 @@
     "Acceptance": "72.1%",
     "Difficulty": "Easy",
     "Frequency": 0.0154741966,
-    "Leetcode Question Link": " https://leetcode.com/problems/squares-of-a-sorted-array"
+    "Leetcode Question Link": "https://leetcode.com/problems/squares-of-a-sorted-array"
   },
   {
     "ID": 227,
@@ -85,7 +85,7 @@
     "Acceptance": "36.9%",
     "Difficulty": "Medium",
     "Frequency": 0.0123994149,
-    "Leetcode Question Link": " https://leetcode.com/problems/basic-calculator-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/basic-calculator-ii"
   },
   {
     "ID": 20,
@@ -93,7 +93,7 @@
     "Acceptance": "39.0%",
     "Difficulty": "Easy",
     "Frequency": 0.0091706953,
-    "Leetcode Question Link": " https://leetcode.com/problems/valid-parentheses"
+    "Leetcode Question Link": "https://leetcode.com/problems/valid-parentheses"
   },
   {
     "ID": 128,
@@ -101,7 +101,7 @@
     "Acceptance": "45.1%",
     "Difficulty": "Hard",
     "Frequency": 0.0090518835,
-    "Leetcode Question Link": " https://leetcode.com/problems/longest-consecutive-sequence"
+    "Leetcode Question Link": "https://leetcode.com/problems/longest-consecutive-sequence"
   },
   {
     "ID": 876,
@@ -109,7 +109,7 @@
     "Acceptance": "68.4%",
     "Difficulty": "Easy",
     "Frequency": 0.007624894,
-    "Leetcode Question Link": " https://leetcode.com/problems/middle-of-the-linked-list"
+    "Leetcode Question Link": "https://leetcode.com/problems/middle-of-the-linked-list"
   },
   {
     "ID": 53,
@@ -117,7 +117,7 @@
     "Acceptance": "46.5%",
     "Difficulty": "Easy",
     "Frequency": 0.004869349,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximum-subarray"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximum-subarray"
   },
   {
     "ID": 146,
@@ -125,7 +125,7 @@
     "Acceptance": "33.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0046003531,
-    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+    "Leetcode Question Link": "https://leetcode.com/problems/lru-cache"
   },
   {
     "ID": 1,
@@ -133,7 +133,7 @@
     "Acceptance": "45.6%",
     "Difficulty": "Easy",
     "Frequency": 0.0032784227,
-    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/two-sum"
   },
   {
     "ID": 2,
@@ -141,6 +141,6 @@
     "Acceptance": "33.9%",
     "Difficulty": "Medium",
     "Frequency": 0.0016886191,
-    "Leetcode Question Link": " https://leetcode.com/problems/add-two-numbers"
+    "Leetcode Question Link": "https://leetcode.com/problems/add-two-numbers"
   }
 ]

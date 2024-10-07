@@ -5,7 +5,7 @@
     "Acceptance": "30.3%",
     "Difficulty": "Medium",
     "Frequency": 0.3201142534,
-    "Leetcode Question Link": " https://leetcode.com/problems/design-twitter"
+    "Leetcode Question Link": "https://leetcode.com/problems/design-twitter"
   },
   {
     "ID": 1126,
@@ -13,7 +13,7 @@
     "Acceptance": "68.5%",
     "Difficulty": "Medium",
     "Frequency": 0.1929036661,
-    "Leetcode Question Link": " https://leetcode.com/problems/active-businesses"
+    "Leetcode Question Link": "https://leetcode.com/problems/active-businesses"
   },
   {
     "ID": 692,
@@ -21,7 +21,7 @@
     "Acceptance": "51.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0656930788,
-    "Leetcode Question Link": " https://leetcode.com/problems/top-k-frequent-words"
+    "Leetcode Question Link": "https://leetcode.com/problems/top-k-frequent-words"
   },
   {
     "ID": 528,
@@ -29,7 +29,7 @@
     "Acceptance": "43.9%",
     "Difficulty": "Medium",
     "Frequency": 0.0330669363,
-    "Leetcode Question Link": " https://leetcode.com/problems/random-pick-with-weight"
+    "Leetcode Question Link": "https://leetcode.com/problems/random-pick-with-weight"
   },
   {
     "ID": 347,
@@ -37,6 +37,6 @@
     "Acceptance": "61.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0296627262,
-    "Leetcode Question Link": " https://leetcode.com/problems/top-k-frequent-elements"
+    "Leetcode Question Link": "https://leetcode.com/problems/top-k-frequent-elements"
   }
 ]

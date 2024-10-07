@@ -5,7 +5,7 @@
     "Acceptance": "52.6%",
     "Difficulty": "Easy",
     "Frequency": 0.148936211,
-    "Leetcode Question Link": " https://leetcode.com/problems/missing-number-in-arithmetic-progression"
+    "Leetcode Question Link": "https://leetcode.com/problems/missing-number-in-arithmetic-progression"
   },
   {
     "ID": 545,
@@ -13,7 +13,7 @@
     "Acceptance": "38.9%",
     "Difficulty": "Medium",
     "Frequency": 0.0877756109,
-    "Leetcode Question Link": " https://leetcode.com/problems/boundary-of-binary-tree"
+    "Leetcode Question Link": "https://leetcode.com/problems/boundary-of-binary-tree"
   },
   {
     "ID": 472,
@@ -21,7 +21,7 @@
     "Acceptance": "43.7%",
     "Difficulty": "Hard",
     "Frequency": 0.0266150108,
-    "Leetcode Question Link": " https://leetcode.com/problems/concatenated-words"
+    "Leetcode Question Link": "https://leetcode.com/problems/concatenated-words"
   },
   {
     "ID": 140,
@@ -29,7 +29,7 @@
     "Acceptance": "32.6%",
     "Difficulty": "Hard",
     "Frequency": 0.0166083669,
-    "Leetcode Question Link": " https://leetcode.com/problems/word-break-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/word-break-ii"
   },
   {
     "ID": 73,
@@ -37,7 +37,7 @@
     "Acceptance": "43.1%",
     "Difficulty": "Medium",
     "Frequency": 0.0150102885,
-    "Leetcode Question Link": " https://leetcode.com/problems/set-matrix-zeroes"
+    "Leetcode Question Link": "https://leetcode.com/problems/set-matrix-zeroes"
   },
   {
     "ID": 200,
@@ -45,7 +45,7 @@
     "Acceptance": "46.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0110156019,
-    "Leetcode Question Link": " https://leetcode.com/problems/number-of-islands"
+    "Leetcode Question Link": "https://leetcode.com/problems/number-of-islands"
   },
   {
     "ID": 937,
@@ -53,7 +53,7 @@
     "Acceptance": "54.3%",
     "Difficulty": "Easy",
     "Frequency": 0.0080273359,
-    "Leetcode Question Link": " https://leetcode.com/problems/reorder-data-in-log-files"
+    "Leetcode Question Link": "https://leetcode.com/problems/reorder-data-in-log-files"
   },
   {
     "ID": 42,
@@ -61,7 +61,7 @@
     "Acceptance": "48.9%",
     "Difficulty": "Hard",
     "Frequency": 0.0041194703,
-    "Leetcode Question Link": " https://leetcode.com/problems/trapping-rain-water"
+    "Leetcode Question Link": "https://leetcode.com/problems/trapping-rain-water"
   },
   {
     "ID": 139,
@@ -69,7 +69,7 @@
     "Acceptance": "40.1%",
     "Difficulty": "Medium",
     "Frequency": 0.0037551678,
-    "Leetcode Question Link": " https://leetcode.com/problems/word-break"
+    "Leetcode Question Link": "https://leetcode.com/problems/word-break"
   },
   {
     "ID": 121,
@@ -77,6 +77,6 @@
     "Acceptance": "50.5%",
     "Difficulty": "Easy",
     "Frequency": 0.0020383211,
-    "Leetcode Question Link": " https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+    "Leetcode Question Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
   }
 ]

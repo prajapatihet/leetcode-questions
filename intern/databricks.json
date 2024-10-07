@@ -5,7 +5,7 @@
     "Acceptance": "45.9%",
     "Difficulty": "Medium",
     "Frequency": 0.3795917253,
-    "Leetcode Question Link": " https://leetcode.com/problems/web-crawler-multithreaded"
+    "Leetcode Question Link": "https://leetcode.com/problems/web-crawler-multithreaded"
   },
   {
     "ID": 722,
@@ -13,7 +13,7 @@
     "Acceptance": "34.6%",
     "Difficulty": "Medium",
     "Frequency": 0.2913421224,
-    "Leetcode Question Link": " https://leetcode.com/problems/remove-comments"
+    "Leetcode Question Link": "https://leetcode.com/problems/remove-comments"
   },
   {
     "ID": 314,
@@ -21,7 +21,7 @@
     "Acceptance": "45.3%",
     "Difficulty": "Medium",
     "Frequency": 0.2010010692,
-    "Leetcode Question Link": " https://leetcode.com/problems/binary-tree-vertical-order-traversal"
+    "Leetcode Question Link": "https://leetcode.com/problems/binary-tree-vertical-order-traversal"
   },
   {
     "ID": 380,
@@ -29,7 +29,7 @@
     "Acceptance": "47.5%",
     "Difficulty": "Medium",
     "Frequency": 0.1466146892,
-    "Leetcode Question Link": " https://leetcode.com/problems/insert-delete-getrandom-o1"
+    "Leetcode Question Link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
   },
   {
     "ID": 41,
@@ -37,7 +37,7 @@
     "Acceptance": "32.0%",
     "Difficulty": "Hard",
     "Frequency": 0.056273636,
-    "Leetcode Question Link": " https://leetcode.com/problems/first-missing-positive"
+    "Leetcode Question Link": "https://leetcode.com/problems/first-missing-positive"
   },
   {
     "ID": 239,
@@ -45,7 +45,7 @@
     "Acceptance": "43.0%",
     "Difficulty": "Hard",
     "Frequency": 0.0483746857,
-    "Leetcode Question Link": " https://leetcode.com/problems/sliding-window-maximum"
+    "Leetcode Question Link": "https://leetcode.com/problems/sliding-window-maximum"
   },
   {
     "ID": 987,
@@ -53,7 +53,7 @@
     "Acceptance": "36.6%",
     "Difficulty": "Medium",
     "Frequency": 0.0116010582,
-    "Leetcode Question Link": " https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree"
+    "Leetcode Question Link": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree"
   },
   {
     "ID": 10,
@@ -61,6 +61,6 @@
     "Acceptance": "26.8%",
     "Difficulty": "Hard",
     "Frequency": 0.0071865203,
-    "Leetcode Question Link": " https://leetcode.com/problems/regular-expression-matching"
+    "Leetcode Question Link": "https://leetcode.com/problems/regular-expression-matching"
   }
 ]

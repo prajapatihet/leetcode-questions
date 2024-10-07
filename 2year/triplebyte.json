@@ -5,7 +5,7 @@
     "Acceptance": "54.3%",
     "Difficulty": "Medium",
     "Frequency": 0.8018302149,
-    "Leetcode Question Link": " https://leetcode.com/problems/design-tic-tac-toe"
+    "Leetcode Question Link": "https://leetcode.com/problems/design-tic-tac-toe"
   },
   {
     "ID": 712,
@@ -13,7 +13,7 @@
     "Acceptance": "58.5%",
     "Difficulty": "Medium",
     "Frequency": 0.5329919192,
-    "Leetcode Question Link": " https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings"
+    "Leetcode Question Link": "https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings"
   },
   {
     "ID": 230,
@@ -21,7 +21,7 @@
     "Acceptance": "60.2%",
     "Difficulty": "Medium",
     "Frequency": 0.2711388661,
-    "Leetcode Question Link": " https://leetcode.com/problems/kth-smallest-element-in-a-bst"
+    "Leetcode Question Link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst"
   },
   {
     "ID": 20,
@@ -29,6 +29,6 @@
     "Acceptance": "39.0%",
     "Difficulty": "Easy",
     "Frequency": 0.0023005704,
-    "Leetcode Question Link": " https://leetcode.com/problems/valid-parentheses"
+    "Leetcode Question Link": "https://leetcode.com/problems/valid-parentheses"
   }
 ]

@@ -5,7 +5,7 @@
     "Acceptance": "16.4%",
     "Difficulty": "Medium",
     "Frequency": 0.1425014832,
-    "Leetcode Question Link": " https://leetcode.com/problems/divide-two-integers"
+    "Leetcode Question Link": "https://leetcode.com/problems/divide-two-integers"
   },
   {
     "ID": 495,
@@ -13,7 +13,7 @@
     "Acceptance": "53.6%",
     "Difficulty": "Medium",
     "Frequency": 0.0893451003,
-    "Leetcode Question Link": " https://leetcode.com/problems/teemo-attacking"
+    "Leetcode Question Link": "https://leetcode.com/problems/teemo-attacking"
   },
   {
     "ID": 20,
@@ -21,7 +21,7 @@
     "Acceptance": "39.0%",
     "Difficulty": "Easy",
     "Frequency": 0.0361887174,
-    "Leetcode Question Link": " https://leetcode.com/problems/valid-parentheses"
+    "Leetcode Question Link": "https://leetcode.com/problems/valid-parentheses"
   },
   {
     "ID": 37,
@@ -29,6 +29,6 @@
     "Acceptance": "43.6%",
     "Difficulty": "Hard",
     "Frequency": 0.0182154399,
-    "Leetcode Question Link": " https://leetcode.com/problems/sudoku-solver"
+    "Leetcode Question Link": "https://leetcode.com/problems/sudoku-solver"
   }
 ]

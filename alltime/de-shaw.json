@@ -5,7 +5,7 @@
     "Acceptance": "58.2%",
     "Difficulty": "Medium",
     "Frequency": 0.2856959745,
-    "Leetcode Question Link": " https://leetcode.com/problems/number-of-substrings-containing-all-three-characters"
+    "Leetcode Question Link": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters"
   },
   {
     "ID": 1122,
@@ -13,7 +13,7 @@
     "Acceptance": "67.7%",
     "Difficulty": "Easy",
     "Frequency": 0.0,
-    "Leetcode Question Link": " https://leetcode.com/problems/relative-sort-array"
+    "Leetcode Question Link": "https://leetcode.com/problems/relative-sort-array"
   },
   {
     "ID": 1262,
@@ -21,6 +21,6 @@
     "Acceptance": "47.6%",
     "Difficulty": "Medium",
     "Frequency": 0.0,
-    "Leetcode Question Link": " https://leetcode.com/problems/greatest-sum-divisible-by-three"
+    "Leetcode Question Link": "https://leetcode.com/problems/greatest-sum-divisible-by-three"
   }
 ]

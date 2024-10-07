@@ -5,7 +5,7 @@
     "Acceptance": "43.3%",
     "Difficulty": "Medium",
     "Frequency": 1.6549959634,
-    "Leetcode Question Link": " https://leetcode.com/problems/pour-water"
+    "Leetcode Question Link": "https://leetcode.com/problems/pour-water"
   },
   {
     "ID": 1166,
@@ -13,7 +13,7 @@
     "Acceptance": "56.8%",
     "Difficulty": "Medium",
     "Frequency": 1.578042969,
-    "Leetcode Question Link": " https://leetcode.com/problems/design-file-system"
+    "Leetcode Question Link": "https://leetcode.com/problems/design-file-system"
   },
   {
     "ID": 336,
@@ -21,7 +21,7 @@
     "Acceptance": "33.7%",
     "Difficulty": "Hard",
     "Frequency": 1.3086247857,
-    "Leetcode Question Link": " https://leetcode.com/problems/palindrome-pairs"
+    "Leetcode Question Link": "https://leetcode.com/problems/palindrome-pairs"
   },
   {
     "ID": 166,
@@ -29,7 +29,7 @@
     "Acceptance": "21.6%",
     "Difficulty": "Medium",
     "Frequency": 1.1104168102,
-    "Leetcode Question Link": " https://leetcode.com/problems/fraction-to-recurring-decimal"
+    "Leetcode Question Link": "https://leetcode.com/problems/fraction-to-recurring-decimal"
   },
   {
     "ID": 875,
@@ -37,7 +37,7 @@
     "Acceptance": "52.1%",
     "Difficulty": "Medium",
     "Frequency": 0.840998627,
-    "Leetcode Question Link": " https://leetcode.com/problems/koko-eating-bananas"
+    "Leetcode Question Link": "https://leetcode.com/problems/koko-eating-bananas"
   },
   {
     "ID": 773,
@@ -45,7 +45,7 @@
     "Acceptance": "59.3%",
     "Difficulty": "Hard",
     "Frequency": 0.68102582,
-    "Leetcode Question Link": " https://leetcode.com/problems/sliding-puzzle"
+    "Leetcode Question Link": "https://leetcode.com/problems/sliding-puzzle"
   },
   {
     "ID": 864,
@@ -53,7 +53,7 @@
     "Acceptance": "40.1%",
     "Difficulty": "Hard",
     "Frequency": 0.6061358036,
-    "Leetcode Question Link": " https://leetcode.com/problems/shortest-path-to-get-all-keys"
+    "Leetcode Question Link": "https://leetcode.com/problems/shortest-path-to-get-all-keys"
   },
   {
     "ID": 787,
@@ -61,7 +61,7 @@
     "Acceptance": "39.3%",
     "Difficulty": "Medium",
     "Frequency": 0.5212226928,
-    "Leetcode Question Link": " https://leetcode.com/problems/cheapest-flights-within-k-stops"
+    "Leetcode Question Link": "https://leetcode.com/problems/cheapest-flights-within-k-stops"
   },
   {
     "ID": 269,
@@ -69,7 +69,7 @@
     "Acceptance": "33.3%",
     "Difficulty": "Hard",
     "Frequency": 0.4872310628,
-    "Leetcode Question Link": " https://leetcode.com/problems/alien-dictionary"
+    "Leetcode Question Link": "https://leetcode.com/problems/alien-dictionary"
   },
   {
     "ID": 251,
@@ -77,7 +77,7 @@
     "Acceptance": "45.7%",
     "Difficulty": "Medium",
     "Frequency": 0.4808790963,
-    "Leetcode Question Link": " https://leetcode.com/problems/flatten-2d-vector"
+    "Leetcode Question Link": "https://leetcode.com/problems/flatten-2d-vector"
   },
   {
     "ID": 1257,
@@ -85,7 +85,7 @@
     "Acceptance": "58.8%",
     "Difficulty": "Medium",
     "Frequency": 0.2561688067,
-    "Leetcode Question Link": " https://leetcode.com/problems/smallest-common-region"
+    "Leetcode Question Link": "https://leetcode.com/problems/smallest-common-region"
   },
   {
     "ID": 68,
@@ -93,7 +93,7 @@
     "Acceptance": "27.7%",
     "Difficulty": "Hard",
     "Frequency": 0.1614321443,
-    "Leetcode Question Link": " https://leetcode.com/problems/text-justification"
+    "Leetcode Question Link": "https://leetcode.com/problems/text-justification"
   },
   {
     "ID": 1235,
@@ -101,7 +101,7 @@
     "Acceptance": "44.0%",
     "Difficulty": "Hard",
     "Frequency": 0.1532629745,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximum-profit-in-job-scheduling"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling"
   },
   {
     "ID": 39,
@@ -109,7 +109,7 @@
     "Acceptance": "56.1%",
     "Difficulty": "Medium",
     "Frequency": 0.1339254107,
-    "Leetcode Question Link": " https://leetcode.com/problems/combination-sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/combination-sum"
   },
   {
     "ID": 324,
@@ -117,7 +117,7 @@
     "Acceptance": "29.9%",
     "Difficulty": "Medium",
     "Frequency": 0.1112256351,
-    "Leetcode Question Link": " https://leetcode.com/problems/wiggle-sort-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/wiggle-sort-ii"
   },
   {
     "ID": 759,
@@ -125,7 +125,7 @@
     "Acceptance": "66.2%",
     "Difficulty": "Hard",
     "Frequency": 0.1062318669,
-    "Leetcode Question Link": " https://leetcode.com/problems/employee-free-time"
+    "Leetcode Question Link": "https://leetcode.com/problems/employee-free-time"
   },
   {
     "ID": 280,
@@ -133,7 +133,7 @@
     "Acceptance": "63.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0436274202,
-    "Leetcode Question Link": " https://leetcode.com/problems/wiggle-sort"
+    "Leetcode Question Link": "https://leetcode.com/problems/wiggle-sort"
   },
   {
     "ID": 322,
@@ -141,7 +141,7 @@
     "Acceptance": "35.5%",
     "Difficulty": "Medium",
     "Frequency": 0.0249240297,
-    "Leetcode Question Link": " https://leetcode.com/problems/coin-change"
+    "Leetcode Question Link": "https://leetcode.com/problems/coin-change"
   },
   {
     "ID": 341,
@@ -149,7 +149,7 @@
     "Acceptance": "52.9%",
     "Difficulty": "Medium",
     "Frequency": 0.0199806847,
-    "Leetcode Question Link": " https://leetcode.com/problems/flatten-nested-list-iterator"
+    "Leetcode Question Link": "https://leetcode.com/problems/flatten-nested-list-iterator"
   },
   {
     "ID": 236,
@@ -157,7 +157,7 @@
     "Acceptance": "45.7%",
     "Difficulty": "Medium",
     "Frequency": 0.0047142103,
-    "Leetcode Question Link": " https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree"
+    "Leetcode Question Link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree"
   },
   {
     "ID": 42,
@@ -165,6 +165,6 @@
     "Acceptance": "48.9%",
     "Difficulty": "Hard",
     "Frequency": 0.0043506703,
-    "Leetcode Question Link": " https://leetcode.com/problems/trapping-rain-water"
+    "Leetcode Question Link": "https://leetcode.com/problems/trapping-rain-water"
   }
 ]

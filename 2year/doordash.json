@@ -5,7 +5,7 @@
     "Acceptance": "62.7%",
     "Difficulty": "Medium",
     "Frequency": 0.7679307329,
-    "Leetcode Question Link": " https://leetcode.com/problems/max-area-of-island"
+    "Leetcode Question Link": "https://leetcode.com/problems/max-area-of-island"
   },
   {
     "ID": 759,
@@ -13,7 +13,7 @@
     "Acceptance": "66.3%",
     "Difficulty": "Hard",
     "Frequency": 0.7540423508,
-    "Leetcode Question Link": " https://leetcode.com/problems/employee-free-time"
+    "Leetcode Question Link": "https://leetcode.com/problems/employee-free-time"
   },
   {
     "ID": 1229,
@@ -21,7 +21,7 @@
     "Acceptance": "52.7%",
     "Difficulty": "Medium",
     "Frequency": 0.5152176155,
-    "Leetcode Question Link": " https://leetcode.com/problems/meeting-scheduler"
+    "Leetcode Question Link": "https://leetcode.com/problems/meeting-scheduler"
   },
   {
     "ID": 1359,
@@ -29,7 +29,7 @@
     "Acceptance": "57.9%",
     "Difficulty": "Hard",
     "Frequency": 0.4639892692,
-    "Leetcode Question Link": " https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options"
+    "Leetcode Question Link": "https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options"
   },
   {
     "ID": 355,
@@ -37,7 +37,7 @@
     "Acceptance": "30.3%",
     "Difficulty": "Medium",
     "Frequency": 0.431607164,
-    "Leetcode Question Link": " https://leetcode.com/problems/design-twitter"
+    "Leetcode Question Link": "https://leetcode.com/problems/design-twitter"
   },
   {
     "ID": 121,
@@ -45,7 +45,7 @@
     "Acceptance": "50.5%",
     "Difficulty": "Easy",
     "Frequency": 0.1927824287,
-    "Leetcode Question Link": " https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+    "Leetcode Question Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
   },
   {
     "ID": 1174,
@@ -53,7 +53,7 @@
     "Acceptance": "58.5%",
     "Difficulty": "Medium",
     "Frequency": 0.125556534,
-    "Leetcode Question Link": " https://leetcode.com/problems/immediate-food-delivery-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/immediate-food-delivery-ii"
   },
   {
     "ID": 210,
@@ -61,7 +61,7 @@
     "Acceptance": "40.7%",
     "Difficulty": "Medium",
     "Frequency": 0.1020738481,
-    "Leetcode Question Link": " https://leetcode.com/problems/course-schedule-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/course-schedule-ii"
   },
   {
     "ID": 227,
@@ -69,7 +69,7 @@
     "Acceptance": "36.9%",
     "Difficulty": "Medium",
     "Frequency": 0.0750877968,
-    "Leetcode Question Link": " https://leetcode.com/problems/basic-calculator-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/basic-calculator-ii"
   },
   {
     "ID": 1173,
@@ -77,7 +77,7 @@
     "Acceptance": "80.4%",
     "Difficulty": "Easy",
     "Frequency": 0.0659217208,
-    "Leetcode Question Link": " https://leetcode.com/problems/immediate-food-delivery-i"
+    "Leetcode Question Link": "https://leetcode.com/problems/immediate-food-delivery-i"
   },
   {
     "ID": 528,
@@ -85,7 +85,7 @@
     "Acceptance": "43.9%",
     "Difficulty": "Medium",
     "Frequency": 0.0330669363,
-    "Leetcode Question Link": " https://leetcode.com/problems/random-pick-with-weight"
+    "Leetcode Question Link": "https://leetcode.com/problems/random-pick-with-weight"
   },
   {
     "ID": 348,
@@ -93,7 +93,7 @@
     "Acceptance": "54.3%",
     "Difficulty": "Medium",
     "Frequency": 0.0242142581,
-    "Leetcode Question Link": " https://leetcode.com/problems/design-tic-tac-toe"
+    "Leetcode Question Link": "https://leetcode.com/problems/design-tic-tac-toe"
   },
   {
     "ID": 37,
@@ -101,7 +101,7 @@
     "Acceptance": "43.6%",
     "Difficulty": "Hard",
     "Frequency": 0.0182154399,
-    "Leetcode Question Link": " https://leetcode.com/problems/sudoku-solver"
+    "Leetcode Question Link": "https://leetcode.com/problems/sudoku-solver"
   },
   {
     "ID": 56,
@@ -109,7 +109,7 @@
     "Acceptance": "39.3%",
     "Difficulty": "Medium",
     "Frequency": 0.0138195324,
-    "Leetcode Question Link": " https://leetcode.com/problems/merge-intervals"
+    "Leetcode Question Link": "https://leetcode.com/problems/merge-intervals"
   },
   {
     "ID": 269,
@@ -117,7 +117,7 @@
     "Acceptance": "33.3%",
     "Difficulty": "Hard",
     "Frequency": 0.0127309167,
-    "Leetcode Question Link": " https://leetcode.com/problems/alien-dictionary"
+    "Leetcode Question Link": "https://leetcode.com/problems/alien-dictionary"
   },
   {
     "ID": 36,
@@ -125,7 +125,7 @@
     "Acceptance": "48.7%",
     "Difficulty": "Medium",
     "Frequency": 0.0072582427,
-    "Leetcode Question Link": " https://leetcode.com/problems/valid-sudoku"
+    "Leetcode Question Link": "https://leetcode.com/problems/valid-sudoku"
   },
   {
     "ID": 200,
@@ -133,7 +133,7 @@
     "Acceptance": "46.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0064902514,
-    "Leetcode Question Link": " https://leetcode.com/problems/number-of-islands"
+    "Leetcode Question Link": "https://leetcode.com/problems/number-of-islands"
   },
   {
     "ID": 15,
@@ -141,7 +141,7 @@
     "Acceptance": "26.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0049409928,
-    "Leetcode Question Link": " https://leetcode.com/problems/3sum"
+    "Leetcode Question Link": "https://leetcode.com/problems/3sum"
   },
   {
     "ID": 146,
@@ -149,7 +149,7 @@
     "Acceptance": "33.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0046003531,
-    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+    "Leetcode Question Link": "https://leetcode.com/problems/lru-cache"
   },
   {
     "ID": 20,
@@ -157,6 +157,6 @@
     "Acceptance": "39.0%",
     "Difficulty": "Easy",
     "Frequency": 0.0023005704,
-    "Leetcode Question Link": " https://leetcode.com/problems/valid-parentheses"
+    "Leetcode Question Link": "https://leetcode.com/problems/valid-parentheses"
   }
 ]

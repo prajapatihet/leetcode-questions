@@ -5,7 +5,7 @@
     "Acceptance": "59.1%",
     "Difficulty": "Medium",
     "Frequency": 0.0942087821,
-    "Leetcode Question Link": " https://leetcode.com/problems/minesweeper"
+    "Leetcode Question Link": "https://leetcode.com/problems/minesweeper"
   },
   {
     "ID": 575,
@@ -13,7 +13,7 @@
     "Acceptance": "61.4%",
     "Difficulty": "Easy",
     "Frequency": 0.0832900211,
-    "Leetcode Question Link": " https://leetcode.com/problems/distribute-candies"
+    "Leetcode Question Link": "https://leetcode.com/problems/distribute-candies"
   },
   {
     "ID": 581,
@@ -21,7 +21,7 @@
     "Acceptance": "31.1%",
     "Difficulty": "Easy",
     "Frequency": 0.050073038,
-    "Leetcode Question Link": " https://leetcode.com/problems/shortest-unsorted-continuous-subarray"
+    "Leetcode Question Link": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray"
   },
   {
     "ID": 785,
@@ -29,7 +29,7 @@
     "Acceptance": "47.5%",
     "Difficulty": "Medium",
     "Frequency": 0.0419788813,
-    "Leetcode Question Link": " https://leetcode.com/problems/is-graph-bipartite"
+    "Leetcode Question Link": "https://leetcode.com/problems/is-graph-bipartite"
   },
   {
     "ID": 20,
@@ -37,7 +37,7 @@
     "Acceptance": "39.0%",
     "Difficulty": "Easy",
     "Frequency": 0.0087618982,
-    "Leetcode Question Link": " https://leetcode.com/problems/valid-parentheses"
+    "Leetcode Question Link": "https://leetcode.com/problems/valid-parentheses"
   },
   {
     "ID": 200,
@@ -45,7 +45,7 @@
     "Acceptance": "46.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0027652973,
-    "Leetcode Question Link": " https://leetcode.com/problems/number-of-islands"
+    "Leetcode Question Link": "https://leetcode.com/problems/number-of-islands"
   },
   {
     "ID": 594,
@@ -53,7 +53,7 @@
     "Acceptance": "46.6%",
     "Difficulty": "Easy",
     "Frequency": 0.0,
-    "Leetcode Question Link": " https://leetcode.com/problems/longest-harmonious-subsequence"
+    "Leetcode Question Link": "https://leetcode.com/problems/longest-harmonious-subsequence"
   },
   {
     "ID": 949,
@@ -61,6 +61,6 @@
     "Acceptance": "35.8%",
     "Difficulty": "Easy",
     "Frequency": 0.0,
-    "Leetcode Question Link": " https://leetcode.com/problems/largest-time-for-given-digits"
+    "Leetcode Question Link": "https://leetcode.com/problems/largest-time-for-given-digits"
   }
 ]

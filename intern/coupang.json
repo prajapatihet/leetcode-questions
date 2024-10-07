@@ -5,7 +5,7 @@
     "Acceptance": "66.3%",
     "Difficulty": "Hard",
     "Frequency": 0.0310610893,
-    "Leetcode Question Link": " https://leetcode.com/problems/employee-free-time"
+    "Leetcode Question Link": "https://leetcode.com/problems/employee-free-time"
   },
   {
     "ID": 1296,
@@ -13,7 +13,7 @@
     "Acceptance": "53.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0163510577,
-    "Leetcode Question Link": " https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers"
+    "Leetcode Question Link": "https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers"
   },
   {
     "ID": 79,
@@ -21,6 +21,6 @@
     "Acceptance": "35.6%",
     "Difficulty": "Medium",
     "Frequency": 0.001641026,
-    "Leetcode Question Link": " https://leetcode.com/problems/word-search"
+    "Leetcode Question Link": "https://leetcode.com/problems/word-search"
   }
 ]

@@ -5,7 +5,7 @@
     "Acceptance": "42.8%",
     "Difficulty": "Hard",
     "Frequency": 0.0526045612,
-    "Leetcode Question Link": " https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination"
+    "Leetcode Question Link": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination"
   },
   {
     "ID": 1374,
@@ -13,7 +13,7 @@
     "Acceptance": "75.4%",
     "Difficulty": "Easy",
     "Frequency": 0.0298055354,
-    "Leetcode Question Link": " https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts"
+    "Leetcode Question Link": "https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts"
   },
   {
     "ID": 116,
@@ -21,6 +21,6 @@
     "Acceptance": "45.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0070065097,
-    "Leetcode Question Link": " https://leetcode.com/problems/populating-next-right-pointers-in-each-node"
+    "Leetcode Question Link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node"
   }
 ]

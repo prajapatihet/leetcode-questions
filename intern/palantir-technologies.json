@@ -5,7 +5,7 @@
     "Acceptance": "37.5%",
     "Difficulty": "Medium",
     "Frequency": 1.0286574848,
-    "Leetcode Question Link": " https://leetcode.com/problems/utf-8-validation"
+    "Leetcode Question Link": "https://leetcode.com/problems/utf-8-validation"
   },
   {
     "ID": 539,
@@ -13,7 +13,7 @@
     "Acceptance": "51.5%",
     "Difficulty": "Medium",
     "Frequency": 0.5160651567,
-    "Leetcode Question Link": " https://leetcode.com/problems/minimum-time-difference"
+    "Leetcode Question Link": "https://leetcode.com/problems/minimum-time-difference"
   },
   {
     "ID": 56,
@@ -21,6 +21,6 @@
     "Acceptance": "39.3%",
     "Difficulty": "Medium",
     "Frequency": 0.0034728286,
-    "Leetcode Question Link": " https://leetcode.com/problems/merge-intervals"
+    "Leetcode Question Link": "https://leetcode.com/problems/merge-intervals"
   }
 ]

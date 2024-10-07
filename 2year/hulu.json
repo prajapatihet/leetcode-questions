@@ -5,7 +5,7 @@
     "Acceptance": "42.1%",
     "Difficulty": "Easy",
     "Frequency": 0.0579979198,
-    "Leetcode Question Link": " https://leetcode.com/problems/power-of-three"
+    "Leetcode Question Link": "https://leetcode.com/problems/power-of-three"
   },
   {
     "ID": 907,
@@ -13,7 +13,7 @@
     "Acceptance": "32.3%",
     "Difficulty": "Medium",
     "Frequency": 0.0390293439,
-    "Leetcode Question Link": " https://leetcode.com/problems/sum-of-subarray-minimums"
+    "Leetcode Question Link": "https://leetcode.com/problems/sum-of-subarray-minimums"
   },
   {
     "ID": 909,
@@ -21,7 +21,7 @@
     "Acceptance": "38.4%",
     "Difficulty": "Medium",
     "Frequency": 0.0364007431,
-    "Leetcode Question Link": " https://leetcode.com/problems/snakes-and-ladders"
+    "Leetcode Question Link": "https://leetcode.com/problems/snakes-and-ladders"
   },
   {
     "ID": 394,
@@ -29,7 +29,7 @@
     "Acceptance": "50.0%",
     "Difficulty": "Medium",
     "Frequency": 0.0174321672,
-    "Leetcode Question Link": " https://leetcode.com/problems/decode-string"
+    "Leetcode Question Link": "https://leetcode.com/problems/decode-string"
   },
   {
     "ID": 863,
@@ -37,7 +37,7 @@
     "Acceptance": "55.4%",
     "Difficulty": "Medium",
     "Frequency": 0.0161554402,
-    "Leetcode Question Link": " https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree"
+    "Leetcode Question Link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree"
   },
   {
     "ID": 54,
@@ -45,7 +45,7 @@
     "Acceptance": "34.1%",
     "Difficulty": "Medium",
     "Frequency": 0.0141001866,
-    "Leetcode Question Link": " https://leetcode.com/problems/spiral-matrix"
+    "Leetcode Question Link": "https://leetcode.com/problems/spiral-matrix"
   },
   {
     "ID": 200,
@@ -53,7 +53,7 @@
     "Acceptance": "46.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0110156019,
-    "Leetcode Question Link": " https://leetcode.com/problems/number-of-islands"
+    "Leetcode Question Link": "https://leetcode.com/problems/number-of-islands"
   },
   {
     "ID": 49,
@@ -61,7 +61,7 @@
     "Acceptance": "56.9%",
     "Difficulty": "Medium",
     "Frequency": 0.0081596101,
-    "Leetcode Question Link": " https://leetcode.com/problems/group-anagrams"
+    "Leetcode Question Link": "https://leetcode.com/problems/group-anagrams"
   },
   {
     "ID": 230,
@@ -69,7 +69,7 @@
     "Acceptance": "60.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0060855201,
-    "Leetcode Question Link": " https://leetcode.com/problems/kth-smallest-element-in-a-bst"
+    "Leetcode Question Link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst"
   },
   {
     "ID": 139,
@@ -77,7 +77,7 @@
     "Acceptance": "40.1%",
     "Difficulty": "Medium",
     "Frequency": 0.0037551678,
-    "Leetcode Question Link": " https://leetcode.com/problems/word-break"
+    "Leetcode Question Link": "https://leetcode.com/problems/word-break"
   },
   {
     "ID": 26,
@@ -85,7 +85,7 @@
     "Acceptance": "45.1%",
     "Difficulty": "Easy",
     "Frequency": 0.0018681119,
-    "Leetcode Question Link": " https://leetcode.com/problems/remove-duplicates-from-sorted-array"
+    "Leetcode Question Link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array"
   },
   {
     "ID": 347,
@@ -93,6 +93,6 @@
     "Acceptance": "61.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0014677824,
-    "Leetcode Question Link": " https://leetcode.com/problems/top-k-frequent-elements"
+    "Leetcode Question Link": "https://leetcode.com/problems/top-k-frequent-elements"
   }
 ]

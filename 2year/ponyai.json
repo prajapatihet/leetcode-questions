@@ -5,7 +5,7 @@
     "Acceptance": "43.4%",
     "Difficulty": "Hard",
     "Frequency": 0.234300641,
-    "Leetcode Question Link": " https://leetcode.com/problems/word-pattern-ii"
+    "Leetcode Question Link": "https://leetcode.com/problems/word-pattern-ii"
   },
   {
     "ID": 786,
@@ -13,7 +13,7 @@
     "Acceptance": "41.0%",
     "Difficulty": "Hard",
     "Frequency": 0.1243837197,
-    "Leetcode Question Link": " https://leetcode.com/problems/k-th-smallest-prime-fraction"
+    "Leetcode Question Link": "https://leetcode.com/problems/k-th-smallest-prime-fraction"
   },
   {
     "ID": 301,
@@ -21,6 +21,6 @@
     "Acceptance": "43.3%",
     "Difficulty": "Hard",
     "Frequency": 0.0144667984,
-    "Leetcode Question Link": " https://leetcode.com/problems/remove-invalid-parentheses"
+    "Leetcode Question Link": "https://leetcode.com/problems/remove-invalid-parentheses"
   }
 ]

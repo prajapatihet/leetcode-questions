@@ -5,7 +5,7 @@
     "Acceptance": "39.5%",
     "Difficulty": "Medium",
     "Frequency": 2.3792435476,
-    "Leetcode Question Link": " https://leetcode.com/problems/summary-ranges"
+    "Leetcode Question Link": "https://leetcode.com/problems/summary-ranges"
   },
   {
     "ID": 814,
@@ -13,7 +13,7 @@
     "Acceptance": "74.5%",
     "Difficulty": "Medium",
     "Frequency": 1.714403093,
-    "Leetcode Question Link": " https://leetcode.com/problems/binary-tree-pruning"
+    "Leetcode Question Link": "https://leetcode.com/problems/binary-tree-pruning"
   },
   {
     "ID": 328,
@@ -21,7 +21,7 @@
     "Acceptance": "55.7%",
     "Difficulty": "Medium",
     "Frequency": 1.5144461166,
-    "Leetcode Question Link": " https://leetcode.com/problems/odd-even-linked-list"
+    "Leetcode Question Link": "https://leetcode.com/problems/odd-even-linked-list"
   },
   {
     "ID": 138,
@@ -29,7 +29,7 @@
     "Acceptance": "36.4%",
     "Difficulty": "Medium",
     "Frequency": 1.3877294433,
-    "Leetcode Question Link": " https://leetcode.com/problems/copy-list-with-random-pointer"
+    "Leetcode Question Link": "https://leetcode.com/problems/copy-list-with-random-pointer"
   },
   {
     "ID": 290,
@@ -37,7 +37,7 @@
     "Acceptance": "37.0%",
     "Difficulty": "Easy",
     "Frequency": 1.3013067642,
-    "Leetcode Question Link": " https://leetcode.com/problems/word-pattern"
+    "Leetcode Question Link": "https://leetcode.com/problems/word-pattern"
   },
   {
     "ID": 2,
@@ -45,7 +45,7 @@
     "Acceptance": "33.9%",
     "Difficulty": "Medium",
     "Frequency": 1.2542105308,
-    "Leetcode Question Link": " https://leetcode.com/problems/add-two-numbers"
+    "Leetcode Question Link": "https://leetcode.com/problems/add-two-numbers"
   },
   {
     "ID": 322,
@@ -53,7 +53,7 @@
     "Acceptance": "35.5%",
     "Difficulty": "Medium",
     "Frequency": 1.0832857985,
-    "Leetcode Question Link": " https://leetcode.com/problems/coin-change"
+    "Leetcode Question Link": "https://leetcode.com/problems/coin-change"
   },
   {
     "ID": 412,
@@ -61,7 +61,7 @@
     "Acceptance": "62.3%",
     "Difficulty": "Easy",
     "Frequency": 0.4184453439,
-    "Leetcode Question Link": " https://leetcode.com/problems/fizz-buzz"
+    "Leetcode Question Link": "https://leetcode.com/problems/fizz-buzz"
   },
   {
     "ID": 1071,
@@ -69,7 +69,7 @@
     "Acceptance": "52.9%",
     "Difficulty": "Easy",
     "Frequency": 0.4175376893,
-    "Leetcode Question Link": " https://leetcode.com/problems/greatest-common-divisor-of-strings"
+    "Leetcode Question Link": "https://leetcode.com/problems/greatest-common-divisor-of-strings"
   },
   {
     "ID": 273,
@@ -77,7 +77,7 @@
     "Acceptance": "27.1%",
     "Difficulty": "Hard",
     "Frequency": 0.265328336,
-    "Leetcode Question Link": " https://leetcode.com/problems/integer-to-english-words"
+    "Leetcode Question Link": "https://leetcode.com/problems/integer-to-english-words"
   },
   {
     "ID": 204,
@@ -85,7 +85,7 @@
     "Acceptance": "31.5%",
     "Difficulty": "Easy",
     "Frequency": 0.1633347783,
-    "Leetcode Question Link": " https://leetcode.com/problems/count-primes"
+    "Leetcode Question Link": "https://leetcode.com/problems/count-primes"
   },
   {
     "ID": 98,
@@ -93,7 +93,7 @@
     "Acceptance": "27.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0711132634,
-    "Leetcode Question Link": " https://leetcode.com/problems/validate-binary-search-tree"
+    "Leetcode Question Link": "https://leetcode.com/problems/validate-binary-search-tree"
   },
   {
     "ID": 53,
@@ -101,7 +101,7 @@
     "Acceptance": "46.5%",
     "Difficulty": "Easy",
     "Frequency": 0.0528161607,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximum-subarray"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximum-subarray"
   },
   {
     "ID": 21,
@@ -109,7 +109,7 @@
     "Acceptance": "53.5%",
     "Difficulty": "Easy",
     "Frequency": 0.0140121113,
-    "Leetcode Question Link": " https://leetcode.com/problems/merge-two-sorted-lists"
+    "Leetcode Question Link": "https://leetcode.com/problems/merge-two-sorted-lists"
   },
   {
     "ID": 66,
@@ -117,7 +117,7 @@
     "Acceptance": "43.0%",
     "Difficulty": "Easy",
     "Frequency": 0.0073248476,
-    "Leetcode Question Link": " https://leetcode.com/problems/plus-one"
+    "Leetcode Question Link": "https://leetcode.com/problems/plus-one"
   },
   {
     "ID": 203,
@@ -125,7 +125,7 @@
     "Acceptance": "38.6%",
     "Difficulty": "Easy",
     "Frequency": 0.006479067,
-    "Leetcode Question Link": " https://leetcode.com/problems/remove-linked-list-elements"
+    "Leetcode Question Link": "https://leetcode.com/problems/remove-linked-list-elements"
   },
   {
     "ID": 1390,
@@ -133,6 +133,6 @@
     "Acceptance": "38.1%",
     "Difficulty": "Medium",
     "Frequency": 0.0,
-    "Leetcode Question Link": " https://leetcode.com/problems/four-divisors"
+    "Leetcode Question Link": "https://leetcode.com/problems/four-divisors"
   }
 ]

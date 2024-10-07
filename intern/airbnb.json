@@ -5,7 +5,7 @@
     "Acceptance": "40.1%",
     "Difficulty": "Hard",
     "Frequency": 0.1327186649,
-    "Leetcode Question Link": " https://leetcode.com/problems/shortest-path-to-get-all-keys"
+    "Leetcode Question Link": "https://leetcode.com/problems/shortest-path-to-get-all-keys"
   },
   {
     "ID": 251,
@@ -13,6 +13,6 @@
     "Acceptance": "45.7%",
     "Difficulty": "Medium",
     "Frequency": 0.0663593324,
-    "Leetcode Question Link": " https://leetcode.com/problems/flatten-2d-vector"
+    "Leetcode Question Link": "https://leetcode.com/problems/flatten-2d-vector"
   }
 ]

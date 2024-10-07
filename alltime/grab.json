@@ -5,7 +5,7 @@
     "Acceptance": "37.7%",
     "Difficulty": "Medium",
     "Frequency": 0.4954247678,
-    "Leetcode Question Link": " https://leetcode.com/problems/string-without-aaa-or-bbb"
+    "Leetcode Question Link": "https://leetcode.com/problems/string-without-aaa-or-bbb"
   },
   {
     "ID": 915,
@@ -13,7 +13,7 @@
     "Acceptance": "45.4%",
     "Difficulty": "Medium",
     "Frequency": 0.3729263523,
-    "Leetcode Question Link": " https://leetcode.com/problems/partition-array-into-disjoint-intervals"
+    "Leetcode Question Link": "https://leetcode.com/problems/partition-array-into-disjoint-intervals"
   },
   {
     "ID": 983,
@@ -21,7 +21,7 @@
     "Acceptance": "60.5%",
     "Difficulty": "Medium",
     "Frequency": 0.2670139864,
-    "Leetcode Question Link": " https://leetcode.com/problems/minimum-cost-for-tickets"
+    "Leetcode Question Link": "https://leetcode.com/problems/minimum-cost-for-tickets"
   },
   {
     "ID": 527,
@@ -29,7 +29,7 @@
     "Acceptance": "54.3%",
     "Difficulty": "Hard",
     "Frequency": 0.2436220827,
-    "Leetcode Question Link": " https://leetcode.com/problems/word-abbreviation"
+    "Leetcode Question Link": "https://leetcode.com/problems/word-abbreviation"
   },
   {
     "ID": 1017,
@@ -37,7 +37,7 @@
     "Acceptance": "59.0%",
     "Difficulty": "Medium",
     "Frequency": 0.1790482314,
-    "Leetcode Question Link": " https://leetcode.com/problems/convert-to-base-2"
+    "Leetcode Question Link": "https://leetcode.com/problems/convert-to-base-2"
   },
   {
     "ID": 1253,
@@ -45,7 +45,7 @@
     "Acceptance": "40.4%",
     "Difficulty": "Medium",
     "Frequency": 0.160989376,
-    "Leetcode Question Link": " https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix"
+    "Leetcode Question Link": "https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix"
   },
   {
     "ID": 42,
@@ -53,7 +53,7 @@
     "Acceptance": "48.9%",
     "Difficulty": "Hard",
     "Frequency": 0.0384909606,
-    "Leetcode Question Link": " https://leetcode.com/problems/trapping-rain-water"
+    "Leetcode Question Link": "https://leetcode.com/problems/trapping-rain-water"
   },
   {
     "ID": 2,
@@ -61,7 +61,7 @@
     "Acceptance": "33.9%",
     "Difficulty": "Medium",
     "Frequency": 0.0204916634,
-    "Leetcode Question Link": " https://leetcode.com/problems/add-two-numbers"
+    "Leetcode Question Link": "https://leetcode.com/problems/add-two-numbers"
   },
   {
     "ID": 41,
@@ -69,7 +69,7 @@
     "Acceptance": "32.0%",
     "Difficulty": "Hard",
     "Frequency": 0.0143680633,
-    "Leetcode Question Link": " https://leetcode.com/problems/first-missing-positive"
+    "Leetcode Question Link": "https://leetcode.com/problems/first-missing-positive"
   },
   {
     "ID": 121,
@@ -77,7 +77,7 @@
     "Acceptance": "50.5%",
     "Difficulty": "Easy",
     "Frequency": 0.0084687957,
-    "Leetcode Question Link": " https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+    "Leetcode Question Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
   },
   {
     "ID": 234,
@@ -85,7 +85,7 @@
     "Acceptance": "39.3%",
     "Difficulty": "Easy",
     "Frequency": 0.0045336131,
-    "Leetcode Question Link": " https://leetcode.com/problems/palindrome-linked-list"
+    "Leetcode Question Link": "https://leetcode.com/problems/palindrome-linked-list"
   },
   {
     "ID": 238,
@@ -93,7 +93,7 @@
     "Acceptance": "60.1%",
     "Difficulty": "Medium",
     "Frequency": 0.0039304364,
-    "Leetcode Question Link": " https://leetcode.com/problems/product-of-array-except-self"
+    "Leetcode Question Link": "https://leetcode.com/problems/product-of-array-except-self"
   },
   {
     "ID": 215,
@@ -101,7 +101,7 @@
     "Acceptance": "55.4%",
     "Difficulty": "Medium",
     "Frequency": 0.003902444,
-    "Leetcode Question Link": " https://leetcode.com/problems/kth-largest-element-in-an-array"
+    "Leetcode Question Link": "https://leetcode.com/problems/kth-largest-element-in-an-array"
   },
   {
     "ID": 1073,
@@ -109,6 +109,6 @@
     "Acceptance": "34.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0,
-    "Leetcode Question Link": " https://leetcode.com/problems/adding-two-negabinary-numbers"
+    "Leetcode Question Link": "https://leetcode.com/problems/adding-two-negabinary-numbers"
   }
 ]

@@ -5,7 +5,7 @@
     "Acceptance": "32.7%",
     "Difficulty": "Medium",
     "Frequency": 0,
-    "Leetcode Question Link": " https://leetcode.com/problems/longest-well-performing-interval"
+    "Leetcode Question Link": "https://leetcode.com/problems/longest-well-performing-interval"
   },
   {
     "ID": 1540,
@@ -13,6 +13,6 @@
     "Acceptance": "27.2%",
     "Difficulty": "Medium",
     "Frequency": 0,
-    "Leetcode Question Link": " https://leetcode.com/problems/can-convert-string-in-k-moves"
+    "Leetcode Question Link": "https://leetcode.com/problems/can-convert-string-in-k-moves"
   }
 ]

@@ -5,7 +5,7 @@
     "Acceptance": "61.2%",
     "Difficulty": "Easy",
     "Frequency": 0.0513570147,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximum-number-of-balloons"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximum-number-of-balloons"
   },
   {
     "ID": 1239,
@@ -13,7 +13,7 @@
     "Acceptance": "47.8%",
     "Difficulty": "Medium",
     "Frequency": 0.0348163973,
-    "Leetcode Question Link": " https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters"
+    "Leetcode Question Link": "https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters"
   },
   {
     "ID": 146,
@@ -21,7 +21,7 @@
     "Acceptance": "33.2%",
     "Difficulty": "Medium",
     "Frequency": 0.0182757799,
-    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+    "Leetcode Question Link": "https://leetcode.com/problems/lru-cache"
   },
   {
     "ID": 273,
@@ -29,7 +29,7 @@
     "Acceptance": "27.1%",
     "Difficulty": "Hard",
     "Frequency": 0.0120810893,
-    "Leetcode Question Link": " https://leetcode.com/problems/integer-to-english-words"
+    "Leetcode Question Link": "https://leetcode.com/problems/integer-to-english-words"
   },
   {
     "ID": 41,
@@ -37,7 +37,7 @@
     "Acceptance": "32.0%",
     "Difficulty": "Hard",
     "Frequency": 0.0064113058,
-    "Leetcode Question Link": " https://leetcode.com/problems/first-missing-positive"
+    "Leetcode Question Link": "https://leetcode.com/problems/first-missing-positive"
   },
   {
     "ID": 20,
@@ -45,7 +45,7 @@
     "Acceptance": "39.0%",
     "Difficulty": "Easy",
     "Frequency": 0.0051688606,
-    "Leetcode Question Link": " https://leetcode.com/problems/valid-parentheses"
+    "Leetcode Question Link": "https://leetcode.com/problems/valid-parentheses"
   },
   {
     "ID": 49,
@@ -53,7 +53,7 @@
     "Acceptance": "56.9%",
     "Difficulty": "Medium",
     "Frequency": 0.003804094,
-    "Leetcode Question Link": " https://leetcode.com/problems/group-anagrams"
+    "Leetcode Question Link": "https://leetcode.com/problems/group-anagrams"
   },
   {
     "ID": 283,
@@ -61,6 +61,6 @@
     "Acceptance": "57.8%",
     "Difficulty": "Easy",
     "Frequency": 0.0028853803,
-    "Leetcode Question Link": " https://leetcode.com/problems/move-zeroes"
+    "Leetcode Question Link": "https://leetcode.com/problems/move-zeroes"
   }
 ]

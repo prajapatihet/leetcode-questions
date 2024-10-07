@@ -5,7 +5,7 @@
     "Acceptance": "63.1%",
     "Difficulty": "Easy",
     "Frequency": 0,
-    "Leetcode Question Link": " https://leetcode.com/problems/weather-type-in-each-country"
+    "Leetcode Question Link": "https://leetcode.com/problems/weather-type-in-each-country"
   },
   {
     "ID": 1321,
@@ -13,7 +13,7 @@
     "Acceptance": "67.9%",
     "Difficulty": "Medium",
     "Frequency": 0,
-    "Leetcode Question Link": " https://leetcode.com/problems/restaurant-growth"
+    "Leetcode Question Link": "https://leetcode.com/problems/restaurant-growth"
   },
   {
     "ID": 1378,
@@ -21,7 +21,7 @@
     "Acceptance": "87.6%",
     "Difficulty": "Easy",
     "Frequency": 0,
-    "Leetcode Question Link": " https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier"
+    "Leetcode Question Link": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier"
   },
   {
     "ID": 1407,
@@ -29,7 +29,7 @@
     "Acceptance": "82.1%",
     "Difficulty": "Easy",
     "Frequency": 0,
-    "Leetcode Question Link": " https://leetcode.com/problems/top-travellers"
+    "Leetcode Question Link": "https://leetcode.com/problems/top-travellers"
   },
   {
     "ID": 1440,
@@ -37,6 +37,6 @@
     "Acceptance": "70.2%",
     "Difficulty": "Medium",
     "Frequency": 0,
-    "Leetcode Question Link": " https://leetcode.com/problems/evaluate-boolean-expression"
+    "Leetcode Question Link": "https://leetcode.com/problems/evaluate-boolean-expression"
   }
 ]

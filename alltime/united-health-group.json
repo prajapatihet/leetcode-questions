@@ -5,7 +5,7 @@
     "Acceptance": "64.0%",
     "Difficulty": "Easy",
     "Frequency": 0,
-    "Leetcode Question Link": " https://leetcode.com/problems/day-of-the-week"
+    "Leetcode Question Link": "https://leetcode.com/problems/day-of-the-week"
   },
   {
     "ID": 1437,
@@ -13,6 +13,6 @@
     "Acceptance": "63.3%",
     "Difficulty": "Medium",
     "Frequency": 0,
-    "Leetcode Question Link": " https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away"
+    "Leetcode Question Link": "https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away"
   }
 ]

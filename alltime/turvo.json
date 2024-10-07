@@ -5,7 +5,7 @@
     "Acceptance": "57.6%",
     "Difficulty": "Hard",
     "Frequency": 0,
-    "Leetcode Question Link": " https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule"
+    "Leetcode Question Link": "https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule"
   },
   {
     "ID": 1534,
@@ -13,6 +13,6 @@
     "Acceptance": "79.6%",
     "Difficulty": "Easy",
     "Frequency": 0,
-    "Leetcode Question Link": " https://leetcode.com/problems/count-good-triplets"
+    "Leetcode Question Link": "https://leetcode.com/problems/count-good-triplets"
   }
 ]

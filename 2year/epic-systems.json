@@ -5,7 +5,7 @@
     "Acceptance": "29.4%",
     "Difficulty": "Medium",
     "Frequency": 0.0217229746,
-    "Leetcode Question Link": " https://leetcode.com/problems/additive-number"
+    "Leetcode Question Link": "https://leetcode.com/problems/additive-number"
   },
   {
     "ID": 54,
@@ -13,7 +13,7 @@
     "Acceptance": "34.1%",
     "Difficulty": "Medium",
     "Frequency": 0.0147761677,
-    "Leetcode Question Link": " https://leetcode.com/problems/spiral-matrix"
+    "Leetcode Question Link": "https://leetcode.com/problems/spiral-matrix"
   },
   {
     "ID": 38,
@@ -21,7 +21,7 @@
     "Acceptance": "44.6%",
     "Difficulty": "Easy",
     "Frequency": 0.0078293608,
-    "Leetcode Question Link": " https://leetcode.com/problems/count-and-say"
+    "Leetcode Question Link": "https://leetcode.com/problems/count-and-say"
   },
   {
     "ID": 20,
@@ -29,6 +29,6 @@
     "Acceptance": "39.0%",
     "Difficulty": "Easy",
     "Frequency": 0.0023005704,
-    "Leetcode Question Link": " https://leetcode.com/problems/valid-parentheses"
+    "Leetcode Question Link": "https://leetcode.com/problems/valid-parentheses"
   }
 ]
