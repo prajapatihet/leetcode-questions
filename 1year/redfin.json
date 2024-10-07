@@ -1,0 +1,18 @@
+[
+  {
+    "ID": 628,
+    "Title": "Maximum Product of Three Numbers",
+    "Acceptance": "47.1%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0098027399,
+    "Leetcode Question Link": " https://leetcode.com/problems/maximum-product-of-three-numbers"
+  },
+  {
+    "ID": 160,
+    "Title": "Intersection of Two Linked Lists",
+    "Acceptance": "40.6%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0049013699,
+    "Leetcode Question Link": " https://leetcode.com/problems/intersection-of-two-linked-lists"
+  }
+]

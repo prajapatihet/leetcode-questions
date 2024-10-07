@@ -1,0 +1,34 @@
+[
+  {
+    "ID": 558,
+    "Title": "Logical OR of Two Binary Grids Represented as Quad-Trees",
+    "Acceptance": "44.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.2751909665,
+    "Leetcode Question Link": " https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees"
+  },
+  {
+    "ID": 850,
+    "Title": "Rectangle Area II",
+    "Acceptance": "47.5%",
+    "Difficulty": "Hard",
+    "Frequency": 0.1622986409,
+    "Leetcode Question Link": " https://leetcode.com/problems/rectangle-area-ii"
+  },
+  {
+    "ID": 981,
+    "Title": "Time Based Key-Value Store",
+    "Acceptance": "53.1%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0494063154,
+    "Leetcode Question Link": " https://leetcode.com/problems/time-based-key-value-store"
+  },
+  {
+    "ID": 56,
+    "Title": "Merge Intervals",
+    "Acceptance": "39.3%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0034728286,
+    "Leetcode Question Link": " https://leetcode.com/problems/merge-intervals"
+  }
+]

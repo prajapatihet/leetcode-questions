@@ -1,0 +1,202 @@
+[
+  {
+    "ID": 1290,
+    "Title": "Convert Binary Number in a Linked List to Integer",
+    "Acceptance": "80.4%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0695665016,
+    "Leetcode Question Link": " https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer"
+  },
+  {
+    "ID": 1235,
+    "Title": "Maximum Profit in Job Scheduling",
+    "Acceptance": "44.0%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0673279731,
+    "Leetcode Question Link": " https://leetcode.com/problems/maximum-profit-in-job-scheduling"
+  },
+  {
+    "ID": 909,
+    "Title": "Snakes and Ladders",
+    "Acceptance": "38.4%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0621745507,
+    "Leetcode Question Link": " https://leetcode.com/problems/snakes-and-ladders"
+  },
+  {
+    "ID": 394,
+    "Title": "Decode String",
+    "Acceptance": "50.0%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0494527893,
+    "Leetcode Question Link": " https://leetcode.com/problems/decode-string"
+  },
+  {
+    "ID": 91,
+    "Title": "Decode Ways",
+    "Acceptance": "24.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0367310279,
+    "Leetcode Question Link": " https://leetcode.com/problems/decode-ways"
+  },
+  {
+    "ID": 198,
+    "Title": "House Robber",
+    "Acceptance": "42.0%",
+    "Difficulty": "Easy",
+    "Frequency": 0.033320991,
+    "Leetcode Question Link": " https://leetcode.com/problems/house-robber"
+  },
+  {
+    "ID": 246,
+    "Title": "Strobogrammatic Number",
+    "Acceptance": "45.0%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0325496595,
+    "Leetcode Question Link": " https://leetcode.com/problems/strobogrammatic-number"
+  },
+  {
+    "ID": 56,
+    "Title": "Merge Intervals",
+    "Acceptance": "39.3%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0215099061,
+    "Leetcode Question Link": " https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "ID": 53,
+    "Title": "Maximum Subarray",
+    "Acceptance": "46.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0193367288,
+    "Leetcode Question Link": " https://leetcode.com/problems/maximum-subarray"
+  },
+  {
+    "ID": 450,
+    "Title": "Delete Node in a BST",
+    "Acceptance": "43.1%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0185362119,
+    "Leetcode Question Link": " https://leetcode.com/problems/delete-node-in-a-bst"
+  },
+  {
+    "ID": 191,
+    "Title": "Number of 1 Bits",
+    "Acceptance": "49.8%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0167352362,
+    "Leetcode Question Link": " https://leetcode.com/problems/number-of-1-bits"
+  },
+  {
+    "ID": 5,
+    "Title": "Longest Palindromic Substring",
+    "Acceptance": "29.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0141613333,
+    "Leetcode Question Link": " https://leetcode.com/problems/longest-palindromic-substring"
+  },
+  {
+    "ID": 48,
+    "Title": "Rotate Image",
+    "Acceptance": "56.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0114286958,
+    "Leetcode Question Link": " https://leetcode.com/problems/rotate-image"
+  },
+  {
+    "ID": 739,
+    "Title": "Daily Temperatures",
+    "Acceptance": "63.3%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0100326901,
+    "Leetcode Question Link": " https://leetcode.com/problems/daily-temperatures"
+  },
+  {
+    "ID": 212,
+    "Title": "Word Search II",
+    "Acceptance": "34.9%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0098450217,
+    "Leetcode Question Link": " https://leetcode.com/problems/word-search-ii"
+  },
+  {
+    "ID": 905,
+    "Title": "Sort Array By Parity",
+    "Acceptance": "74.1%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0096039154,
+    "Leetcode Question Link": " https://leetcode.com/problems/sort-array-by-parity"
+  },
+  {
+    "ID": 49,
+    "Title": "Group Anagrams",
+    "Acceptance": "56.9%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0085389513,
+    "Leetcode Question Link": " https://leetcode.com/problems/group-anagrams"
+  },
+  {
+    "ID": 1,
+    "Title": "Two Sum",
+    "Acceptance": "45.6%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0051178232,
+    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+  },
+  {
+    "ID": 207,
+    "Title": "Course Schedule",
+    "Acceptance": "43.1%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0049640211,
+    "Leetcode Question Link": " https://leetcode.com/problems/course-schedule"
+  },
+  {
+    "ID": 234,
+    "Title": "Palindrome Linked List",
+    "Acceptance": "39.3%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0045336131,
+    "Leetcode Question Link": " https://leetcode.com/problems/palindrome-linked-list"
+  },
+  {
+    "ID": 22,
+    "Title": "Generate Parentheses",
+    "Acceptance": "62.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0043611059,
+    "Leetcode Question Link": " https://leetcode.com/problems/generate-parentheses"
+  },
+  {
+    "ID": 8,
+    "Title": "String to Integer (atoi)",
+    "Acceptance": "15.4%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0037925522,
+    "Leetcode Question Link": " https://leetcode.com/problems/string-to-integer-atoi"
+  },
+  {
+    "ID": 102,
+    "Title": "Binary Tree Level Order Traversal",
+    "Acceptance": "54.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0036390142,
+    "Leetcode Question Link": " https://leetcode.com/problems/binary-tree-level-order-traversal"
+  },
+  {
+    "ID": 3,
+    "Title": "Longest Substring Without Repeating Characters",
+    "Acceptance": "30.4%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0034967788,
+    "Leetcode Question Link": " https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  },
+  {
+    "ID": 20,
+    "Title": "Valid Parentheses",
+    "Acceptance": "39.0%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0023005704,
+    "Leetcode Question Link": " https://leetcode.com/problems/valid-parentheses"
+  }
+]

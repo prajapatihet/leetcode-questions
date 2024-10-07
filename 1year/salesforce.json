@@ -1,0 +1,210 @@
+[
+  {
+    "ID": 1283,
+    "Title": "Find the Smallest Divisor Given a Threshold",
+    "Acceptance": "47.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0665963052,
+    "Leetcode Question Link": " https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold"
+  },
+  {
+    "ID": 146,
+    "Title": "LRU Cache",
+    "Acceptance": "33.2%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0549465555,
+    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "ID": 895,
+    "Title": "Maximum Frequency Stack",
+    "Acceptance": "60.6%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0432968058,
+    "Leetcode Question Link": " https://leetcode.com/problems/maximum-frequency-stack"
+  },
+  {
+    "ID": 706,
+    "Title": "Design HashMap",
+    "Acceptance": "61.3%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0390166523,
+    "Leetcode Question Link": " https://leetcode.com/problems/design-hashmap"
+  },
+  {
+    "ID": 17,
+    "Title": "Letter Combinations of a Phone Number",
+    "Acceptance": "46.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0389364638,
+    "Leetcode Question Link": " https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+  },
+  {
+    "ID": 460,
+    "Title": "LFU Cache",
+    "Acceptance": "34.2%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0309622256,
+    "Leetcode Question Link": " https://leetcode.com/problems/lfu-cache"
+  },
+  {
+    "ID": 724,
+    "Title": "Find Pivot Index",
+    "Acceptance": "44.0%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0308984416,
+    "Leetcode Question Link": " https://leetcode.com/problems/find-pivot-index"
+  },
+  {
+    "ID": 56,
+    "Title": "Merge Intervals",
+    "Acceptance": "39.3%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0308296381,
+    "Leetcode Question Link": " https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "ID": 348,
+    "Title": "Design Tic-Tac-Toe",
+    "Acceptance": "54.3%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0242142581,
+    "Leetcode Question Link": " https://leetcode.com/problems/design-tic-tac-toe"
+  },
+  {
+    "ID": 557,
+    "Title": "Reverse Words in a String III",
+    "Acceptance": "69.8%",
+    "Difficulty": "Easy",
+    "Frequency": 0.013731764,
+    "Leetcode Question Link": " https://leetcode.com/problems/reverse-words-in-a-string-iii"
+  },
+  {
+    "ID": 547,
+    "Title": "Friend Circles",
+    "Acceptance": "58.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0122288286,
+    "Leetcode Question Link": " https://leetcode.com/problems/friend-circles"
+  },
+  {
+    "ID": 211,
+    "Title": "Add and Search Word - Data structure design",
+    "Acceptance": "38.1%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0104385081,
+    "Leetcode Question Link": " https://leetcode.com/problems/add-and-search-word-data-structure-design"
+  },
+  {
+    "ID": 212,
+    "Title": "Word Search II",
+    "Acceptance": "34.9%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0098450217,
+    "Leetcode Question Link": " https://leetcode.com/problems/word-search-ii"
+  },
+  {
+    "ID": 295,
+    "Title": "Find Median from Data Stream",
+    "Acceptance": "44.3%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0089989359,
+    "Leetcode Question Link": " https://leetcode.com/problems/find-median-from-data-stream"
+  },
+  {
+    "ID": 412,
+    "Title": "Fizz Buzz",
+    "Acceptance": "62.3%",
+    "Difficulty": "Easy",
+    "Frequency": 0.007165921,
+    "Leetcode Question Link": " https://leetcode.com/problems/fizz-buzz"
+  },
+  {
+    "ID": 98,
+    "Title": "Validate Binary Search Tree",
+    "Acceptance": "27.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0066113515,
+    "Leetcode Question Link": " https://leetcode.com/problems/validate-binary-search-tree"
+  },
+  {
+    "ID": 41,
+    "Title": "First Missing Positive",
+    "Acceptance": "32.0%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0064113058,
+    "Leetcode Question Link": " https://leetcode.com/problems/first-missing-positive"
+  },
+  {
+    "ID": 76,
+    "Title": "Minimum Window Substring",
+    "Acceptance": "34.6%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0062315204,
+    "Leetcode Question Link": " https://leetcode.com/problems/minimum-window-substring"
+  },
+  {
+    "ID": 20,
+    "Title": "Valid Parentheses",
+    "Acceptance": "39.0%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0051688606,
+    "Leetcode Question Link": " https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "ID": 48,
+    "Title": "Rotate Image",
+    "Acceptance": "56.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0050955524,
+    "Leetcode Question Link": " https://leetcode.com/problems/rotate-image"
+  },
+  {
+    "ID": 42,
+    "Title": "Trapping Rain Water",
+    "Acceptance": "48.9%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0043506703,
+    "Leetcode Question Link": " https://leetcode.com/problems/trapping-rain-water"
+  },
+  {
+    "ID": 200,
+    "Title": "Number of Islands",
+    "Acceptance": "46.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0028897578,
+    "Leetcode Question Link": " https://leetcode.com/problems/number-of-islands"
+  },
+  {
+    "ID": 53,
+    "Title": "Maximum Subarray",
+    "Acceptance": "46.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0021670829,
+    "Leetcode Question Link": " https://leetcode.com/problems/maximum-subarray"
+  },
+  {
+    "ID": 1,
+    "Title": "Two Sum",
+    "Acceptance": "45.6%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0018454351,
+    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+  },
+  {
+    "ID": 2,
+    "Title": "Add Two Numbers",
+    "Acceptance": "33.9%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0016886191,
+    "Leetcode Question Link": " https://leetcode.com/problems/add-two-numbers"
+  },
+  {
+    "ID": 3,
+    "Title": "Longest Substring Without Repeating Characters",
+    "Acceptance": "30.4%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0015556337,
+    "Leetcode Question Link": " https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "ID": 691,
+    "Title": "Stickers to Spell Word",
+    "Acceptance": "42.9%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0248587024,
+    "Leetcode Question Link": " https://leetcode.com/problems/stickers-to-spell-word"
+  },
+  {
+    "ID": 166,
+    "Title": "Fraction to Recurring Decimal",
+    "Acceptance": "21.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0145943254,
+    "Leetcode Question Link": " https://leetcode.com/problems/fraction-to-recurring-decimal"
+  },
+  {
+    "ID": 234,
+    "Title": "Palindrome Linked List",
+    "Acceptance": "39.3%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0043299483,
+    "Leetcode Question Link": " https://leetcode.com/problems/palindrome-linked-list"
+  }
+]

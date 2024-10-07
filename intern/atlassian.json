@@ -1,0 +1,178 @@
+[
+  {
+    "ID": 1071,
+    "Title": "Greatest Common Divisor of Strings",
+    "Acceptance": "52.9%",
+    "Difficulty": "Easy",
+    "Frequency": 0.1195423768,
+    "Leetcode Question Link": " https://leetcode.com/problems/greatest-common-divisor-of-strings"
+  },
+  {
+    "ID": 366,
+    "Title": "Find Leaves of Binary Tree",
+    "Acceptance": "70.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.1180240367,
+    "Leetcode Question Link": " https://leetcode.com/problems/find-leaves-of-binary-tree"
+  },
+  {
+    "ID": 1223,
+    "Title": "Dice Roll Simulation",
+    "Acceptance": "45.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.1021294951,
+    "Leetcode Question Link": " https://leetcode.com/problems/dice-roll-simulation"
+  },
+  {
+    "ID": 362,
+    "Title": "Design Hit Counter",
+    "Acceptance": "63.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0978775753,
+    "Leetcode Question Link": " https://leetcode.com/problems/design-hit-counter"
+  },
+  {
+    "ID": 981,
+    "Title": "Time Based Key-Value Store",
+    "Acceptance": "53.1%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0862138353,
+    "Leetcode Question Link": " https://leetcode.com/problems/time-based-key-value-store"
+  },
+  {
+    "ID": 1366,
+    "Title": "Rank Teams by Votes",
+    "Acceptance": "53.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0722335574,
+    "Leetcode Question Link": " https://leetcode.com/problems/rank-teams-by-votes"
+  },
+  {
+    "ID": 300,
+    "Title": "Longest Increasing Subsequence",
+    "Acceptance": "42.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0626563075,
+    "Leetcode Question Link": " https://leetcode.com/problems/longest-increasing-subsequence"
+  },
+  {
+    "ID": 359,
+    "Title": "Logger Rate Limiter",
+    "Acceptance": "70.8%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0467617659,
+    "Leetcode Question Link": " https://leetcode.com/problems/logger-rate-limiter"
+  },
+  {
+    "ID": 17,
+    "Title": "Letter Combinations of a Phone Number",
+    "Acceptance": "46.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0389364638,
+    "Leetcode Question Link": " https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+  },
+  {
+    "ID": 150,
+    "Title": "Evaluate Reverse Polish Notation",
+    "Acceptance": "36.3%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0315262536,
+    "Leetcode Question Link": " https://leetcode.com/problems/evaluate-reverse-polish-notation"
+  },
+  {
+    "ID": 284,
+    "Title": "Peeking Iterator",
+    "Acceptance": "45.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0311067071,
+    "Leetcode Question Link": " https://leetcode.com/problems/peeking-iterator"
+  },
+  {
+    "ID": 31,
+    "Title": "Next Permutation",
+    "Acceptance": "32.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0237470346,
+    "Leetcode Question Link": " https://leetcode.com/problems/next-permutation"
+  },
+  {
+    "ID": 540,
+    "Title": "Single Element in a Sorted Array",
+    "Acceptance": "57.9%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0192128869,
+    "Leetcode Question Link": " https://leetcode.com/problems/single-element-in-a-sorted-array"
+  },
+  {
+    "ID": 98,
+    "Title": "Validate Binary Search Tree",
+    "Acceptance": "27.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.018258011,
+    "Leetcode Question Link": " https://leetcode.com/problems/validate-binary-search-tree"
+  },
+  {
+    "ID": 706,
+    "Title": "Design HashMap",
+    "Acceptance": "61.3%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0175289326,
+    "Leetcode Question Link": " https://leetcode.com/problems/design-hashmap"
+  },
+  {
+    "ID": 872,
+    "Title": "Leaf-Similar Trees",
+    "Acceptance": "64.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0175212542,
+    "Leetcode Question Link": " https://leetcode.com/problems/leaf-similar-trees"
+  },
+  {
+    "ID": 173,
+    "Title": "Binary Search Tree Iterator",
+    "Acceptance": "56.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0084890153,
+    "Leetcode Question Link": " https://leetcode.com/problems/binary-search-tree-iterator"
+  },
+  {
+    "ID": 236,
+    "Title": "Lowest Common Ancestor of a Binary Tree",
+    "Acceptance": "45.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0047142103,
+    "Leetcode Question Link": " https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree"
+  },
+  {
+    "ID": 22,
+    "Title": "Generate Parentheses",
+    "Acceptance": "62.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0043611059,
+    "Leetcode Question Link": " https://leetcode.com/problems/generate-parentheses"
+  },
+  {
+    "ID": 46,
+    "Title": "Permutations",
+    "Acceptance": "63.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0042163022,
+    "Leetcode Question Link": " https://leetcode.com/problems/permutations"
+  },
+  {
+    "ID": 102,
+    "Title": "Binary Tree Level Order Traversal",
+    "Acceptance": "54.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0036390142,
+    "Leetcode Question Link": " https://leetcode.com/problems/binary-tree-level-order-traversal"
+  },
+  {
+    "ID": 3,
+    "Title": "Longest Substring Without Repeating Characters",
+    "Acceptance": "30.4%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0015556337,
+    "Leetcode Question Link": " https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  }
+]

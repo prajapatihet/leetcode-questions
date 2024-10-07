@@ -1,0 +1,202 @@
+[
+  {
+    "ID": 256,
+    "Title": "Paint House",
+    "Acceptance": "52.1%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0317236072,
+    "Leetcode Question Link": " https://leetcode.com/problems/paint-house"
+  },
+  {
+    "ID": 143,
+    "Title": "Reorder List",
+    "Acceptance": "37.1%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0258709456,
+    "Leetcode Question Link": " https://leetcode.com/problems/reorder-list"
+  },
+  {
+    "ID": 33,
+    "Title": "Search in Rotated Sorted Array",
+    "Acceptance": "34.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.020018284,
+    "Leetcode Question Link": " https://leetcode.com/problems/search-in-rotated-sorted-array"
+  },
+  {
+    "ID": 1143,
+    "Title": "Longest Common Subsequence",
+    "Acceptance": "58.4%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0197721731,
+    "Leetcode Question Link": " https://leetcode.com/problems/longest-common-subsequence"
+  },
+  {
+    "ID": 394,
+    "Title": "Decode String",
+    "Acceptance": "50.0%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0182820448,
+    "Leetcode Question Link": " https://leetcode.com/problems/decode-string"
+  },
+  {
+    "ID": 21,
+    "Title": "Merge Two Sorted Lists",
+    "Acceptance": "53.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0140121113,
+    "Leetcode Question Link": " https://leetcode.com/problems/merge-two-sorted-lists"
+  },
+  {
+    "ID": 227,
+    "Title": "Basic Calculator II",
+    "Acceptance": "36.9%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0123994149,
+    "Leetcode Question Link": " https://leetcode.com/problems/basic-calculator-ii"
+  },
+  {
+    "ID": 543,
+    "Title": "Diameter of Binary Tree",
+    "Acceptance": "48.4%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0118986068,
+    "Leetcode Question Link": " https://leetcode.com/problems/diameter-of-binary-tree"
+  },
+  {
+    "ID": 121,
+    "Title": "Best Time to Buy and Sell Stock",
+    "Acceptance": "50.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0084687957,
+    "Leetcode Question Link": " https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+  },
+  {
+    "ID": 240,
+    "Title": "Search a 2D Matrix II",
+    "Acceptance": "43.2%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0075829747,
+    "Leetcode Question Link": " https://leetcode.com/problems/search-a-2d-matrix-ii"
+  },
+  {
+    "ID": 136,
+    "Title": "Single Number",
+    "Acceptance": "65.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.006445167,
+    "Leetcode Question Link": " https://leetcode.com/problems/single-number"
+  },
+  {
+    "ID": 76,
+    "Title": "Minimum Window Substring",
+    "Acceptance": "34.6%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0062315204,
+    "Leetcode Question Link": " https://leetcode.com/problems/minimum-window-substring"
+  },
+  {
+    "ID": 287,
+    "Title": "Find the Duplicate Number",
+    "Acceptance": "55.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0055013204,
+    "Leetcode Question Link": " https://leetcode.com/problems/find-the-duplicate-number"
+  },
+  {
+    "ID": 206,
+    "Title": "Reverse Linked List",
+    "Acceptance": "62.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0052570215,
+    "Leetcode Question Link": " https://leetcode.com/problems/reverse-linked-list"
+  },
+  {
+    "ID": 15,
+    "Title": "3Sum",
+    "Acceptance": "26.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0049409928,
+    "Leetcode Question Link": " https://leetcode.com/problems/3sum"
+  },
+  {
+    "ID": 160,
+    "Title": "Intersection of Two Linked Lists",
+    "Acceptance": "40.6%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0049013699,
+    "Leetcode Question Link": " https://leetcode.com/problems/intersection-of-two-linked-lists"
+  },
+  {
+    "ID": 169,
+    "Title": "Majority Element",
+    "Acceptance": "58.7%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0047064447,
+    "Leetcode Question Link": " https://leetcode.com/problems/majority-element"
+  },
+  {
+    "ID": 215,
+    "Title": "Kth Largest Element in an Array",
+    "Acceptance": "55.4%",
+    "Difficulty": "Medium",
+    "Frequency": 0.003902444,
+    "Leetcode Question Link": " https://leetcode.com/problems/kth-largest-element-in-an-array"
+  },
+  {
+    "ID": 4,
+    "Title": "Median of Two Sorted Arrays",
+    "Acceptance": "29.6%",
+    "Difficulty": "Hard",
+    "Frequency": 0.003900161,
+    "Leetcode Question Link": " https://leetcode.com/problems/median-of-two-sorted-arrays"
+  },
+  {
+    "ID": 8,
+    "Title": "String to Integer (atoi)",
+    "Acceptance": "15.4%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0037925522,
+    "Leetcode Question Link": " https://leetcode.com/problems/string-to-integer-atoi"
+  },
+  {
+    "ID": 56,
+    "Title": "Merge Intervals",
+    "Acceptance": "39.3%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0034728286,
+    "Leetcode Question Link": " https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "ID": 1,
+    "Title": "Two Sum",
+    "Acceptance": "45.6%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0032784227,
+    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+  },
+  {
+    "ID": 20,
+    "Title": "Valid Parentheses",
+    "Acceptance": "39.0%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0023005704,
+    "Leetcode Question Link": " https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "ID": 5,
+    "Title": "Longest Palindromic Substring",
+    "Acceptance": "29.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0022793331,
+    "Leetcode Question Link": " https://leetcode.com/problems/longest-palindromic-substring"
+  },
+  {
+    "ID": 190,
+    "Title": "Reverse Bits",
+    "Acceptance": "39.8%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0018316701,
+    "Leetcode Question Link": " https://leetcode.com/problems/reverse-bits"
+  }
+]

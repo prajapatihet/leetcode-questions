@@ -1,0 +1,114 @@
+[
+  {
+    "ID": 236,
+    "Title": "Lowest Common Ancestor of a Binary Tree",
+    "Acceptance": "45.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0612283844,
+    "Leetcode Question Link": " https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree"
+  },
+  {
+    "ID": 437,
+    "Title": "Path Sum III",
+    "Acceptance": "47.2%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0455011668,
+    "Leetcode Question Link": " https://leetcode.com/problems/path-sum-iii"
+  },
+  {
+    "ID": 443,
+    "Title": "String Compression",
+    "Acceptance": "41.3%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0297739492,
+    "Leetcode Question Link": " https://leetcode.com/problems/string-compression"
+  },
+  {
+    "ID": 981,
+    "Title": "Time Based Key-Value Store",
+    "Acceptance": "53.1%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0213227695,
+    "Leetcode Question Link": " https://leetcode.com/problems/time-based-key-value-store"
+  },
+  {
+    "ID": 146,
+    "Title": "LRU Cache",
+    "Acceptance": "33.2%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0173690862,
+    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "ID": 127,
+    "Title": "Word Ladder",
+    "Acceptance": "29.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0128499769,
+    "Leetcode Question Link": " https://leetcode.com/problems/word-ladder"
+  },
+  {
+    "ID": 273,
+    "Title": "Integer to English Words",
+    "Acceptance": "27.1%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0115341532,
+    "Leetcode Question Link": " https://leetcode.com/problems/integer-to-english-words"
+  },
+  {
+    "ID": 387,
+    "Title": "First Unique Character in a String",
+    "Acceptance": "53.4%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0089597414,
+    "Leetcode Question Link": " https://leetcode.com/problems/first-unique-character-in-a-string"
+  },
+  {
+    "ID": 20,
+    "Title": "Valid Parentheses",
+    "Acceptance": "39.0%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0049380107,
+    "Leetcode Question Link": " https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "ID": 139,
+    "Title": "Word Break",
+    "Acceptance": "40.1%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0037551678,
+    "Leetcode Question Link": " https://leetcode.com/problems/word-break"
+  },
+  {
+    "ID": 283,
+    "Title": "Move Zeroes",
+    "Acceptance": "57.8%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0027586224,
+    "Leetcode Question Link": " https://leetcode.com/problems/move-zeroes"
+  },
+  {
+    "ID": 53,
+    "Title": "Maximum Subarray",
+    "Acceptance": "46.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0020745819,
+    "Leetcode Question Link": " https://leetcode.com/problems/maximum-subarray"
+  },
+  {
+    "ID": 121,
+    "Title": "Best Time to Buy and Sell Stock",
+    "Acceptance": "50.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0020383211,
+    "Leetcode Question Link": " https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+  },
+  {
+    "ID": 3,
+    "Title": "Longest Substring Without Repeating Characters",
+    "Acceptance": "30.4%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0014852223,
+    "Leetcode Question Link": " https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  }
+]

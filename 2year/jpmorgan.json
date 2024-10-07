@@ -1,0 +1,178 @@
+[
+  {
+    "ID": 202,
+    "Title": "Happy Number",
+    "Acceptance": "50.4%",
+    "Difficulty": "Easy",
+    "Frequency": 2.7888034469,
+    "Leetcode Question Link": " https://leetcode.com/problems/happy-number"
+  },
+  {
+    "ID": 20,
+    "Title": "Valid Parentheses",
+    "Acceptance": "39.0%",
+    "Difficulty": "Easy",
+    "Frequency": 1.5639916072,
+    "Leetcode Question Link": " https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "ID": 322,
+    "Title": "Coin Change",
+    "Acceptance": "35.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.3391797675,
+    "Leetcode Question Link": " https://leetcode.com/problems/coin-change"
+  },
+  {
+    "ID": 1328,
+    "Title": "Break a Palindrome",
+    "Acceptance": "43.3%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0591013923,
+    "Leetcode Question Link": " https://leetcode.com/problems/break-a-palindrome"
+  },
+  {
+    "ID": 9,
+    "Title": "Palindrome Number",
+    "Acceptance": "48.4%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0365930912,
+    "Leetcode Question Link": " https://leetcode.com/problems/palindrome-number"
+  },
+  {
+    "ID": 121,
+    "Title": "Best Time to Buy and Sell Stock",
+    "Acceptance": "50.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0334531796,
+    "Leetcode Question Link": " https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+  },
+  {
+    "ID": 273,
+    "Title": "Integer to English Words",
+    "Acceptance": "27.1%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0269800538,
+    "Leetcode Question Link": " https://leetcode.com/problems/integer-to-english-words"
+  },
+  {
+    "ID": 53,
+    "Title": "Maximum Subarray",
+    "Acceptance": "46.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0193367288,
+    "Leetcode Question Link": " https://leetcode.com/problems/maximum-subarray"
+  },
+  {
+    "ID": 7,
+    "Title": "Reverse Integer",
+    "Acceptance": "25.8%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0166277906,
+    "Leetcode Question Link": " https://leetcode.com/problems/reverse-integer"
+  },
+  {
+    "ID": 31,
+    "Title": "Next Permutation",
+    "Acceptance": "32.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0134270255,
+    "Leetcode Question Link": " https://leetcode.com/problems/next-permutation"
+  },
+  {
+    "ID": 200,
+    "Title": "Number of Islands",
+    "Acceptance": "46.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0115092624,
+    "Leetcode Question Link": " https://leetcode.com/problems/number-of-islands"
+  },
+  {
+    "ID": 146,
+    "Title": "LRU Cache",
+    "Acceptance": "33.2%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0103211925,
+    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "ID": 17,
+    "Title": "Letter Combinations of a Phone Number",
+    "Acceptance": "46.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0098771655,
+    "Leetcode Question Link": " https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+  },
+  {
+    "ID": 349,
+    "Title": "Intersection of Two Arrays",
+    "Acceptance": "62.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.007250349,
+    "Leetcode Question Link": " https://leetcode.com/problems/intersection-of-two-arrays"
+  },
+  {
+    "ID": 39,
+    "Title": "Combination Sum",
+    "Acceptance": "56.1%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0057159344,
+    "Leetcode Question Link": " https://leetcode.com/problems/combination-sum"
+  },
+  {
+    "ID": 387,
+    "Title": "First Unique Character in a String",
+    "Acceptance": "53.4%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0041854199,
+    "Leetcode Question Link": " https://leetcode.com/problems/first-unique-character-in-a-string"
+  },
+  {
+    "ID": 215,
+    "Title": "Kth Largest Element in an Array",
+    "Acceptance": "55.4%",
+    "Difficulty": "Medium",
+    "Frequency": 0.003902444,
+    "Leetcode Question Link": " https://leetcode.com/problems/kth-largest-element-in-an-array"
+  },
+  {
+    "ID": 4,
+    "Title": "Median of Two Sorted Arrays",
+    "Acceptance": "29.6%",
+    "Difficulty": "Hard",
+    "Frequency": 0.003900161,
+    "Leetcode Question Link": " https://leetcode.com/problems/median-of-two-sorted-arrays"
+  },
+  {
+    "ID": 1,
+    "Title": "Two Sum",
+    "Acceptance": "45.6%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0032784227,
+    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+  },
+  {
+    "ID": 33,
+    "Title": "Search in Rotated Sorted Array",
+    "Acceptance": "34.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.003229977,
+    "Leetcode Question Link": " https://leetcode.com/problems/search-in-rotated-sorted-array"
+  },
+  {
+    "ID": 5,
+    "Title": "Longest Palindromic Substring",
+    "Acceptance": "29.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0022793331,
+    "Leetcode Question Link": " https://leetcode.com/problems/longest-palindromic-substring"
+  },
+  {
+    "ID": 79,
+    "Title": "Word Search",
+    "Acceptance": "35.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0016647249,
+    "Leetcode Question Link": " https://leetcode.com/problems/word-search"
+  }
+]

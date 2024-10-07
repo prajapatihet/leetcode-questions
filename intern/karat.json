@@ -1,0 +1,26 @@
+[
+  {
+    "ID": 811,
+    "Title": "Subdomain Visit Count",
+    "Acceptance": "69.9%",
+    "Difficulty": "Easy",
+    "Frequency": 0.2863511063,
+    "Leetcode Question Link": " https://leetcode.com/problems/subdomain-visit-count"
+  },
+  {
+    "ID": 224,
+    "Title": "Basic Calculator",
+    "Acceptance": "36.8%",
+    "Difficulty": "Hard",
+    "Frequency": 0.1745228643,
+    "Leetcode Question Link": " https://leetcode.com/problems/basic-calculator"
+  },
+  {
+    "ID": 718,
+    "Title": "Maximum Length of Repeated Subarray",
+    "Acceptance": "49.4%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0626946223,
+    "Leetcode Question Link": " https://leetcode.com/problems/maximum-length-of-repeated-subarray"
+  }
+]

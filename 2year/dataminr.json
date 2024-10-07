@@ -1,0 +1,26 @@
+[
+  {
+    "ID": 57,
+    "Title": "Insert Interval",
+    "Acceptance": "33.5%",
+    "Difficulty": "Hard",
+    "Frequency": 0.012147643,
+    "Leetcode Question Link": " https://leetcode.com/problems/insert-interval"
+  },
+  {
+    "ID": 56,
+    "Title": "Merge Intervals",
+    "Acceptance": "39.3%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0077969727,
+    "Leetcode Question Link": " https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "ID": 42,
+    "Title": "Trapping Rain Water",
+    "Acceptance": "48.9%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0043506703,
+    "Leetcode Question Link": " https://leetcode.com/problems/trapping-rain-water"
+  }
+]

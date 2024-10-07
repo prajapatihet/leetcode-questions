@@ -1,0 +1,74 @@
+[
+  {
+    "ID": 256,
+    "Title": "Paint House",
+    "Acceptance": "52.1%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0264733126,
+    "Leetcode Question Link": " https://leetcode.com/problems/paint-house"
+  },
+  {
+    "ID": 1143,
+    "Title": "Longest Common Subsequence",
+    "Acceptance": "58.4%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0197721731,
+    "Leetcode Question Link": " https://leetcode.com/problems/longest-common-subsequence"
+  },
+  {
+    "ID": 394,
+    "Title": "Decode String",
+    "Acceptance": "50.0%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0182820448,
+    "Leetcode Question Link": " https://leetcode.com/problems/decode-string"
+  },
+  {
+    "ID": 143,
+    "Title": "Reorder List",
+    "Acceptance": "37.1%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0115809053,
+    "Leetcode Question Link": " https://leetcode.com/problems/reorder-list"
+  },
+  {
+    "ID": 136,
+    "Title": "Single Number",
+    "Acceptance": "65.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.006445167,
+    "Leetcode Question Link": " https://leetcode.com/problems/single-number"
+  },
+  {
+    "ID": 543,
+    "Title": "Diameter of Binary Tree",
+    "Acceptance": "48.4%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0053057559,
+    "Leetcode Question Link": " https://leetcode.com/problems/diameter-of-binary-tree"
+  },
+  {
+    "ID": 206,
+    "Title": "Reverse Linked List",
+    "Acceptance": "62.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0052570215,
+    "Leetcode Question Link": " https://leetcode.com/problems/reverse-linked-list"
+  },
+  {
+    "ID": 21,
+    "Title": "Merge Two Sorted Lists",
+    "Acceptance": "53.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0022551738,
+    "Leetcode Question Link": " https://leetcode.com/problems/merge-two-sorted-lists"
+  },
+  {
+    "ID": 190,
+    "Title": "Reverse Bits",
+    "Acceptance": "39.8%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0018316701,
+    "Leetcode Question Link": " https://leetcode.com/problems/reverse-bits"
+  }
+]

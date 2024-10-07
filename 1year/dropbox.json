@@ -1,0 +1,66 @@
+[
+  {
+    "ID": 609,
+    "Title": "Find Duplicate File in System",
+    "Acceptance": "59.5%",
+    "Difficulty": "Medium",
+    "Frequency": 2.4041439671,
+    "Leetcode Question Link": " https://leetcode.com/problems/find-duplicate-file-in-system"
+  },
+  {
+    "ID": 289,
+    "Title": "Game of Life",
+    "Acceptance": "54.5%",
+    "Difficulty": "Medium",
+    "Frequency": 1.6999309163,
+    "Leetcode Question Link": " https://leetcode.com/problems/game-of-life"
+  },
+  {
+    "ID": 379,
+    "Title": "Design Phone Directory",
+    "Acceptance": "46.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.9957178655,
+    "Leetcode Question Link": " https://leetcode.com/problems/design-phone-directory"
+  },
+  {
+    "ID": 1242,
+    "Title": "Web Crawler Multithreaded",
+    "Acceptance": "45.9%",
+    "Difficulty": "Medium",
+    "Frequency": 0.8967461358,
+    "Leetcode Question Link": " https://leetcode.com/problems/web-crawler-multithreaded"
+  },
+  {
+    "ID": 1178,
+    "Title": "Number of Valid Words for Each Puzzle",
+    "Acceptance": "37.8%",
+    "Difficulty": "Hard",
+    "Frequency": 0.8109302162,
+    "Leetcode Question Link": " https://leetcode.com/problems/number-of-valid-words-for-each-puzzle"
+  },
+  {
+    "ID": 642,
+    "Title": "Design Search Autocomplete System",
+    "Acceptance": "44.7%",
+    "Difficulty": "Hard",
+    "Frequency": 0.4334924204,
+    "Leetcode Question Link": " https://leetcode.com/problems/design-search-autocomplete-system"
+  },
+  {
+    "ID": 146,
+    "Title": "LRU Cache",
+    "Acceptance": "33.2%",
+    "Difficulty": "Medium",
+    "Frequency": 0.1090999131,
+    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "ID": 362,
+    "Title": "Design Hit Counter",
+    "Acceptance": "63.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0253820733,
+    "Leetcode Question Link": " https://leetcode.com/problems/design-hit-counter"
+  }
+]

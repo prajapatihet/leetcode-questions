@@ -1,0 +1,42 @@
+[
+  {
+    "ID": 695,
+    "Title": "Max Area of Island",
+    "Acceptance": "62.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0848591475,
+    "Leetcode Question Link": " https://leetcode.com/problems/max-area-of-island"
+  },
+  {
+    "ID": 723,
+    "Title": "Candy Crush",
+    "Acceptance": "69.2%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0443751015,
+    "Leetcode Question Link": " https://leetcode.com/problems/candy-crush"
+  },
+  {
+    "ID": 977,
+    "Title": "Squares of a Sorted Array",
+    "Acceptance": "72.1%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0038910555,
+    "Leetcode Question Link": " https://leetcode.com/problems/squares-of-a-sorted-array"
+  },
+  {
+    "ID": 56,
+    "Title": "Merge Intervals",
+    "Acceptance": "39.3%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0034728286,
+    "Leetcode Question Link": " https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "ID": 200,
+    "Title": "Number of Islands",
+    "Acceptance": "46.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0028897578,
+    "Leetcode Question Link": " https://leetcode.com/problems/number-of-islands"
+  }
+]

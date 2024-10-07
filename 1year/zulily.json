@@ -1,0 +1,34 @@
+[
+  {
+    "ID": 1138,
+    "Title": "Alphabet Board Path",
+    "Acceptance": "48.4%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0336971842,
+    "Leetcode Question Link": " https://leetcode.com/problems/alphabet-board-path"
+  },
+  {
+    "ID": 56,
+    "Title": "Merge Intervals",
+    "Acceptance": "39.3%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0215099061,
+    "Leetcode Question Link": " https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "ID": 242,
+    "Title": "Valid Anagram",
+    "Acceptance": "56.9%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0093226281,
+    "Leetcode Question Link": " https://leetcode.com/problems/valid-anagram"
+  },
+  {
+    "ID": 4,
+    "Title": "Median of Two Sorted Arrays",
+    "Acceptance": "29.6%",
+    "Difficulty": "Hard",
+    "Frequency": 0.003900161,
+    "Leetcode Question Link": " https://leetcode.com/problems/median-of-two-sorted-arrays"
+  }
+]

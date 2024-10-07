@@ -1,0 +1,98 @@
+[
+  {
+    "ID": 915,
+    "Title": "Partition Array into Disjoint Intervals",
+    "Acceptance": "45.4%",
+    "Difficulty": "Medium",
+    "Frequency": 0.3106928945,
+    "Leetcode Question Link": " https://leetcode.com/problems/partition-array-into-disjoint-intervals"
+  },
+  {
+    "ID": 984,
+    "Title": "String Without AAA or BBB",
+    "Acceptance": "37.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.2735260204,
+    "Leetcode Question Link": " https://leetcode.com/problems/string-without-aaa-or-bbb"
+  },
+  {
+    "ID": 527,
+    "Title": "Word Abbreviation",
+    "Acceptance": "54.3%",
+    "Difficulty": "Hard",
+    "Frequency": 0.1813886249,
+    "Leetcode Question Link": " https://leetcode.com/problems/word-abbreviation"
+  },
+  {
+    "ID": 1017,
+    "Title": "Convert to Base -2",
+    "Acceptance": "59.0%",
+    "Difficulty": "Medium",
+    "Frequency": 0.1168147737,
+    "Leetcode Question Link": " https://leetcode.com/problems/convert-to-base-2"
+  },
+  {
+    "ID": 983,
+    "Title": "Minimum Cost For Tickets",
+    "Acceptance": "60.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0246773781,
+    "Leetcode Question Link": " https://leetcode.com/problems/minimum-cost-for-tickets"
+  },
+  {
+    "ID": 42,
+    "Title": "Trapping Rain Water",
+    "Acceptance": "48.9%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0097625247,
+    "Leetcode Question Link": " https://leetcode.com/problems/trapping-rain-water"
+  },
+  {
+    "ID": 2,
+    "Title": "Add Two Numbers",
+    "Acceptance": "33.9%",
+    "Difficulty": "Medium",
+    "Frequency": 0.006737435,
+    "Leetcode Question Link": " https://leetcode.com/problems/add-two-numbers"
+  },
+  {
+    "ID": 41,
+    "Title": "First Missing Positive",
+    "Acceptance": "32.0%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0064113058,
+    "Leetcode Question Link": " https://leetcode.com/problems/first-missing-positive"
+  },
+  {
+    "ID": 234,
+    "Title": "Palindrome Linked List",
+    "Acceptance": "39.3%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0045336131,
+    "Leetcode Question Link": " https://leetcode.com/problems/palindrome-linked-list"
+  },
+  {
+    "ID": 238,
+    "Title": "Product of Array Except Self",
+    "Acceptance": "60.1%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0039304364,
+    "Leetcode Question Link": " https://leetcode.com/problems/product-of-array-except-self"
+  },
+  {
+    "ID": 215,
+    "Title": "Kth Largest Element in an Array",
+    "Acceptance": "55.4%",
+    "Difficulty": "Medium",
+    "Frequency": 0.003902444,
+    "Leetcode Question Link": " https://leetcode.com/problems/kth-largest-element-in-an-array"
+  },
+  {
+    "ID": 121,
+    "Title": "Best Time to Buy and Sell Stock",
+    "Acceptance": "50.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0021239322,
+    "Leetcode Question Link": " https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+  }
+]

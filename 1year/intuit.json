@@ -1,0 +1,106 @@
+[
+  {
+    "ID": 68,
+    "Title": "Text Justification",
+    "Acceptance": "27.7%",
+    "Difficulty": "Hard",
+    "Frequency": 0.3109794136,
+    "Leetcode Question Link": " https://leetcode.com/problems/text-justification"
+  },
+  {
+    "ID": 811,
+    "Title": "Subdomain Visit Count",
+    "Acceptance": "69.9%",
+    "Difficulty": "Easy",
+    "Frequency": 0.2255300198,
+    "Leetcode Question Link": " https://leetcode.com/problems/subdomain-visit-count"
+  },
+  {
+    "ID": 79,
+    "Title": "Word Search",
+    "Acceptance": "35.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.1400806259,
+    "Leetcode Question Link": " https://leetcode.com/problems/word-search"
+  },
+  {
+    "ID": 729,
+    "Title": "My Calendar I",
+    "Acceptance": "51.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.1383897018,
+    "Leetcode Question Link": " https://leetcode.com/problems/my-calendar-i"
+  },
+  {
+    "ID": 409,
+    "Title": "Longest Palindrome",
+    "Acceptance": "50.3%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0959393085,
+    "Leetcode Question Link": " https://leetcode.com/problems/longest-palindrome"
+  },
+  {
+    "ID": 759,
+    "Title": "Employee Free Time",
+    "Acceptance": "66.3%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0486122441,
+    "Leetcode Question Link": " https://leetcode.com/problems/employee-free-time"
+  },
+  {
+    "ID": 210,
+    "Title": "Course Schedule II",
+    "Acceptance": "40.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0231338803,
+    "Leetcode Question Link": " https://leetcode.com/problems/course-schedule-ii"
+  },
+  {
+    "ID": 146,
+    "Title": "LRU Cache",
+    "Acceptance": "33.2%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0182757799,
+    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "ID": 287,
+    "Title": "Find the Duplicate Number",
+    "Acceptance": "55.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0055013204,
+    "Leetcode Question Link": " https://leetcode.com/problems/find-the-duplicate-number"
+  },
+  {
+    "ID": 20,
+    "Title": "Valid Parentheses",
+    "Acceptance": "39.0%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0051688606,
+    "Leetcode Question Link": " https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "ID": 207,
+    "Title": "Course Schedule",
+    "Acceptance": "43.1%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0049640211,
+    "Leetcode Question Link": " https://leetcode.com/problems/course-schedule"
+  },
+  {
+    "ID": 49,
+    "Title": "Group Anagrams",
+    "Acceptance": "56.9%",
+    "Difficulty": "Medium",
+    "Frequency": 0.003804094,
+    "Leetcode Question Link": " https://leetcode.com/problems/group-anagrams"
+  },
+  {
+    "ID": 1,
+    "Title": "Two Sum",
+    "Acceptance": "45.6%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0008206139,
+    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+  }
+]

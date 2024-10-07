@@ -1,0 +1,362 @@
+[
+  {
+    "ID": 281,
+    "Title": "Zigzag Iterator",
+    "Acceptance": "58.4%",
+    "Difficulty": "Medium",
+    "Frequency": 0.151152525,
+    "Leetcode Question Link": " https://leetcode.com/problems/zigzag-iterator"
+  },
+  {
+    "ID": 283,
+    "Title": "Move Zeroes",
+    "Acceptance": "57.8%",
+    "Difficulty": "Easy",
+    "Frequency": 0.1269490027,
+    "Leetcode Question Link": " https://leetcode.com/problems/move-zeroes"
+  },
+  {
+    "ID": 487,
+    "Title": "Max Consecutive Ones II",
+    "Acceptance": "48.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.1097323884,
+    "Leetcode Question Link": " https://leetcode.com/problems/max-consecutive-ones-ii"
+  },
+  {
+    "ID": 125,
+    "Title": "Valid Palindrome",
+    "Acceptance": "36.7%",
+    "Difficulty": "Easy",
+    "Frequency": 0.1089499563,
+    "Leetcode Question Link": " https://leetcode.com/problems/valid-palindrome"
+  },
+  {
+    "ID": 49,
+    "Title": "Group Anagrams",
+    "Acceptance": "56.9%",
+    "Difficulty": "Medium",
+    "Frequency": 0.1044953258,
+    "Leetcode Question Link": " https://leetcode.com/problems/group-anagrams"
+  },
+  {
+    "ID": 146,
+    "Title": "LRU Cache",
+    "Acceptance": "33.2%",
+    "Difficulty": "Medium",
+    "Frequency": 0.1039140035,
+    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "ID": 206,
+    "Title": "Reverse Linked List",
+    "Acceptance": "62.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.103890408,
+    "Leetcode Question Link": " https://leetcode.com/problems/reverse-linked-list"
+  },
+  {
+    "ID": 22,
+    "Title": "Generate Parentheses",
+    "Acceptance": "62.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0989633157,
+    "Leetcode Question Link": " https://leetcode.com/problems/generate-parentheses"
+  },
+  {
+    "ID": 380,
+    "Title": "Insert Delete GetRandom O(1)",
+    "Acceptance": "47.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0810889782,
+    "Leetcode Question Link": " https://leetcode.com/problems/insert-delete-getrandom-o1"
+  },
+  {
+    "ID": 1004,
+    "Title": "Max Consecutive Ones III",
+    "Acceptance": "59.1%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0689037012,
+    "Leetcode Question Link": " https://leetcode.com/problems/max-consecutive-ones-iii"
+  },
+  {
+    "ID": 933,
+    "Title": "Number of Recent Calls",
+    "Acceptance": "71.9%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0447001789,
+    "Leetcode Question Link": " https://leetcode.com/problems/number-of-recent-calls"
+  },
+  {
+    "ID": 98,
+    "Title": "Validate Binary Search Tree",
+    "Acceptance": "27.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.044002424,
+    "Leetcode Question Link": " https://leetcode.com/problems/validate-binary-search-tree"
+  },
+  {
+    "ID": 56,
+    "Title": "Merge Intervals",
+    "Acceptance": "39.3%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0398459085,
+    "Leetcode Question Link": " https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "ID": 20,
+    "Title": "Valid Parentheses",
+    "Acceptance": "39.0%",
+    "Difficulty": "Easy",
+    "Frequency": 0.034596175,
+    "Leetcode Question Link": " https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "ID": 21,
+    "Title": "Merge Two Sorted Lists",
+    "Acceptance": "53.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0339825638,
+    "Leetcode Question Link": " https://leetcode.com/problems/merge-two-sorted-lists"
+  },
+  {
+    "ID": 59,
+    "Title": "Spiral Matrix II",
+    "Acceptance": "53.9%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0337743171,
+    "Leetcode Question Link": " https://leetcode.com/problems/spiral-matrix-ii"
+  },
+  {
+    "ID": 974,
+    "Title": "Subarray Sums Divisible by K",
+    "Acceptance": "48.9%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0321312782,
+    "Leetcode Question Link": " https://leetcode.com/problems/subarray-sums-divisible-by-k"
+  },
+  {
+    "ID": 567,
+    "Title": "Permutation in String",
+    "Acceptance": "44.4%",
+    "Difficulty": "Medium",
+    "Frequency": 0.031648211,
+    "Leetcode Question Link": " https://leetcode.com/problems/permutation-in-string"
+  },
+  {
+    "ID": 228,
+    "Title": "Summary Ranges",
+    "Acceptance": "39.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0301454628,
+    "Leetcode Question Link": " https://leetcode.com/problems/summary-ranges"
+  },
+  {
+    "ID": 332,
+    "Title": "Reconstruct Itinerary",
+    "Acceptance": "36.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0292513543,
+    "Leetcode Question Link": " https://leetcode.com/problems/reconstruct-itinerary"
+  },
+  {
+    "ID": 1,
+    "Title": "Two Sum",
+    "Acceptance": "45.6%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0279077063,
+    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+  },
+  {
+    "ID": 88,
+    "Title": "Merge Sorted Array",
+    "Acceptance": "39.4%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0256753513,
+    "Leetcode Question Link": " https://leetcode.com/problems/merge-sorted-array"
+  },
+  {
+    "ID": 560,
+    "Title": "Subarray Sum Equals K",
+    "Acceptance": "43.9%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0252105718,
+    "Leetcode Question Link": " https://leetcode.com/problems/subarray-sum-equals-k"
+  },
+  {
+    "ID": 23,
+    "Title": "Merge k Sorted Lists",
+    "Acceptance": "40.2%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0239819647,
+    "Leetcode Question Link": " https://leetcode.com/problems/merge-k-sorted-lists"
+  },
+  {
+    "ID": 449,
+    "Title": "Serialize and Deserialize BST",
+    "Acceptance": "52.0%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0215409514,
+    "Leetcode Question Link": " https://leetcode.com/problems/serialize-and-deserialize-bst"
+  },
+  {
+    "ID": 2,
+    "Title": "Add Two Numbers",
+    "Acceptance": "33.9%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0196619768,
+    "Leetcode Question Link": " https://leetcode.com/problems/add-two-numbers"
+  },
+  {
+    "ID": 71,
+    "Title": "Simplify Path",
+    "Acceptance": "32.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0154861786,
+    "Leetcode Question Link": " https://leetcode.com/problems/simplify-path"
+  },
+  {
+    "ID": 150,
+    "Title": "Evaluate Reverse Polish Notation",
+    "Acceptance": "36.3%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0135549348,
+    "Leetcode Question Link": " https://leetcode.com/problems/evaluate-reverse-polish-notation"
+  },
+  {
+    "ID": 443,
+    "Title": "String Compression",
+    "Acceptance": "41.3%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0133424261,
+    "Leetcode Question Link": " https://leetcode.com/problems/string-compression"
+  },
+  {
+    "ID": 101,
+    "Title": "Symmetric Tree",
+    "Acceptance": "46.8%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0130030276,
+    "Leetcode Question Link": " https://leetcode.com/problems/symmetric-tree"
+  },
+  {
+    "ID": 48,
+    "Title": "Rotate Image",
+    "Acceptance": "56.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0109330535,
+    "Leetcode Question Link": " https://leetcode.com/problems/rotate-image"
+  },
+  {
+    "ID": 232,
+    "Title": "Implement Queue using Stacks",
+    "Acceptance": "49.6%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0107701633,
+    "Leetcode Question Link": " https://leetcode.com/problems/implement-queue-using-stacks"
+  },
+  {
+    "ID": 42,
+    "Title": "Trapping Rain Water",
+    "Acceptance": "48.9%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0092450581,
+    "Leetcode Question Link": " https://leetcode.com/problems/trapping-rain-water"
+  },
+  {
+    "ID": 279,
+    "Title": "Perfect Squares",
+    "Acceptance": "47.4%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0087816152,
+    "Leetcode Question Link": " https://leetcode.com/problems/perfect-squares"
+  },
+  {
+    "ID": 15,
+    "Title": "3Sum",
+    "Acceptance": "26.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0082988028,
+    "Leetcode Question Link": " https://leetcode.com/problems/3sum"
+  },
+  {
+    "ID": 16,
+    "Title": "3Sum Closest",
+    "Acceptance": "46.0%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0071441633,
+    "Leetcode Question Link": " https://leetcode.com/problems/3sum-closest"
+  },
+  {
+    "ID": 33,
+    "Title": "Search in Rotated Sorted Array",
+    "Acceptance": "34.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0069616618,
+    "Leetcode Question Link": " https://leetcode.com/problems/search-in-rotated-sorted-array"
+  },
+  {
+    "ID": 204,
+    "Title": "Count Primes",
+    "Acceptance": "31.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.006761351,
+    "Leetcode Question Link": " https://leetcode.com/problems/count-primes"
+  },
+  {
+    "ID": 19,
+    "Title": "Remove Nth Node From End of List",
+    "Acceptance": "35.2%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0066396408,
+    "Leetcode Question Link": " https://leetcode.com/problems/remove-nth-node-from-end-of-list"
+  },
+  {
+    "ID": 3,
+    "Title": "Longest Substring Without Repeating Characters",
+    "Acceptance": "30.4%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0059276996,
+    "Leetcode Question Link": " https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  },
+  {
+    "ID": 350,
+    "Title": "Intersection of Two Arrays II",
+    "Acceptance": "51.4%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0049881635,
+    "Leetcode Question Link": " https://leetcode.com/problems/intersection-of-two-arrays-ii"
+  },
+  {
+    "ID": 5,
+    "Title": "Longest Palindromic Substring",
+    "Acceptance": "29.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0048918458,
+    "Leetcode Question Link": " https://leetcode.com/problems/longest-palindromic-substring"
+  },
+  {
+    "ID": 34,
+    "Title": "Find First and Last Position of Element in Sorted Array",
+    "Acceptance": "36.2%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0040791409,
+    "Leetcode Question Link": " https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array"
+  },
+  {
+    "ID": 28,
+    "Title": "Implement strStr()",
+    "Acceptance": "34.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.003776083,
+    "Leetcode Question Link": " https://leetcode.com/problems/implement-strstr"
+  },
+  {
+    "ID": 4,
+    "Title": "Median of Two Sorted Arrays",
+    "Acceptance": "29.6%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0037171309,
+    "Leetcode Question Link": " https://leetcode.com/problems/median-of-two-sorted-arrays"
+  }
+]

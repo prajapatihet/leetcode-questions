@@ -1,0 +1,130 @@
+[
+  {
+    "ID": 227,
+    "Title": "Basic Calculator II",
+    "Acceptance": "36.9%",
+    "Difficulty": "Medium",
+    "Frequency": 0.1061446359,
+    "Leetcode Question Link": " https://leetcode.com/problems/basic-calculator-ii"
+  },
+  {
+    "ID": 43,
+    "Title": "Multiply Strings",
+    "Acceptance": "33.9%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0794418417,
+    "Leetcode Question Link": " https://leetcode.com/problems/multiply-strings"
+  },
+  {
+    "ID": 721,
+    "Title": "Accounts Merge",
+    "Acceptance": "48.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0734949558,
+    "Leetcode Question Link": " https://leetcode.com/problems/accounts-merge"
+  },
+  {
+    "ID": 556,
+    "Title": "Next Greater Element III",
+    "Acceptance": "31.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0467921615,
+    "Leetcode Question Link": " https://leetcode.com/problems/next-greater-element-iii"
+  },
+  {
+    "ID": 727,
+    "Title": "Minimum Window Subsequence",
+    "Acceptance": "41.8%",
+    "Difficulty": "Hard",
+    "Frequency": 0.042379223,
+    "Leetcode Question Link": " https://leetcode.com/problems/minimum-window-subsequence"
+  },
+  {
+    "ID": 304,
+    "Title": "Range Sum Query 2D - Immutable",
+    "Acceptance": "38.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.031036974,
+    "Leetcode Question Link": " https://leetcode.com/problems/range-sum-query-2d-immutable"
+  },
+  {
+    "ID": 218,
+    "Title": "The Skyline Problem",
+    "Acceptance": "34.6%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0254790853,
+    "Leetcode Question Link": " https://leetcode.com/problems/the-skyline-problem"
+  },
+  {
+    "ID": 698,
+    "Title": "Partition to K Equal Sum Subsets",
+    "Acceptance": "45.0%",
+    "Difficulty": "Medium",
+    "Frequency": 0.021097829,
+    "Leetcode Question Link": " https://leetcode.com/problems/partition-to-k-equal-sum-subsets"
+  },
+  {
+    "ID": 301,
+    "Title": "Remove Invalid Parentheses",
+    "Acceptance": "43.3%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0144667984,
+    "Leetcode Question Link": " https://leetcode.com/problems/remove-invalid-parentheses"
+  },
+  {
+    "ID": 120,
+    "Title": "Triangle",
+    "Acceptance": "44.2%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0132364606,
+    "Leetcode Question Link": " https://leetcode.com/problems/triangle"
+  },
+  {
+    "ID": 200,
+    "Title": "Number of Islands",
+    "Acceptance": "46.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0115092624,
+    "Leetcode Question Link": " https://leetcode.com/problems/number-of-islands"
+  },
+  {
+    "ID": 48,
+    "Title": "Rotate Image",
+    "Acceptance": "56.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0114286958,
+    "Leetcode Question Link": " https://leetcode.com/problems/rotate-image"
+  },
+  {
+    "ID": 212,
+    "Title": "Word Search II",
+    "Acceptance": "34.9%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0098450217,
+    "Leetcode Question Link": " https://leetcode.com/problems/word-search-ii"
+  },
+  {
+    "ID": 10,
+    "Title": "Regular Expression Matching",
+    "Acceptance": "26.8%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0071865203,
+    "Leetcode Question Link": " https://leetcode.com/problems/regular-expression-matching"
+  },
+  {
+    "ID": 31,
+    "Title": "Next Permutation",
+    "Acceptance": "32.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0059898352,
+    "Leetcode Question Link": " https://leetcode.com/problems/next-permutation"
+  },
+  {
+    "ID": 4,
+    "Title": "Median of Two Sorted Arrays",
+    "Acceptance": "29.6%",
+    "Difficulty": "Hard",
+    "Frequency": 0.003900161,
+    "Leetcode Question Link": " https://leetcode.com/problems/median-of-two-sorted-arrays"
+  }
+]

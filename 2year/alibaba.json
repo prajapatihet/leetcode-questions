@@ -1,0 +1,258 @@
+[
+  {
+    "ID": 446,
+    "Title": "Arithmetic Slices II - Subsequence",
+    "Acceptance": "32.7%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0533908591,
+    "Leetcode Question Link": " https://leetcode.com/problems/arithmetic-slices-ii-subsequence"
+  },
+  {
+    "ID": 1,
+    "Title": "Two Sum",
+    "Acceptance": "45.6%",
+    "Difficulty": "Easy",
+    "Frequency": 0.045143977,
+    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+  },
+  {
+    "ID": 146,
+    "Title": "LRU Cache",
+    "Acceptance": "33.2%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0406605982,
+    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "ID": 992,
+    "Title": "Subarrays with K Different Integers",
+    "Acceptance": "48.6%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0370069981,
+    "Leetcode Question Link": " https://leetcode.com/problems/subarrays-with-k-different-integers"
+  },
+  {
+    "ID": 460,
+    "Title": "LFU Cache",
+    "Acceptance": "34.2%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0309622256,
+    "Leetcode Question Link": " https://leetcode.com/problems/lfu-cache"
+  },
+  {
+    "ID": 678,
+    "Title": "Valid Parenthesis String",
+    "Acceptance": "31.0%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0227153435,
+    "Leetcode Question Link": " https://leetcode.com/problems/valid-parenthesis-string"
+  },
+  {
+    "ID": 53,
+    "Title": "Maximum Subarray",
+    "Acceptance": "46.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0193367288,
+    "Leetcode Question Link": " https://leetcode.com/problems/maximum-subarray"
+  },
+  {
+    "ID": 33,
+    "Title": "Search in Rotated Sorted Array",
+    "Acceptance": "34.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0128577792,
+    "Leetcode Question Link": " https://leetcode.com/problems/search-in-rotated-sorted-array"
+  },
+  {
+    "ID": 152,
+    "Title": "Maximum Product Subarray",
+    "Acceptance": "31.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0125349831,
+    "Leetcode Question Link": " https://leetcode.com/problems/maximum-product-subarray"
+  },
+  {
+    "ID": 2,
+    "Title": "Add Two Numbers",
+    "Acceptance": "33.9%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0105073887,
+    "Leetcode Question Link": " https://leetcode.com/problems/add-two-numbers"
+  },
+  {
+    "ID": 62,
+    "Title": "Unique Paths",
+    "Acceptance": "54.1%",
+    "Difficulty": "Medium",
+    "Frequency": 0.010367562,
+    "Leetcode Question Link": " https://leetcode.com/problems/unique-paths"
+  },
+  {
+    "ID": 5,
+    "Title": "Longest Palindromic Substring",
+    "Acceptance": "29.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0090863252,
+    "Leetcode Question Link": " https://leetcode.com/problems/longest-palindromic-substring"
+  },
+  {
+    "ID": 15,
+    "Title": "3Sum",
+    "Acceptance": "26.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0087671794,
+    "Leetcode Question Link": " https://leetcode.com/problems/3sum"
+  },
+  {
+    "ID": 215,
+    "Title": "Kth Largest Element in an Array",
+    "Acceptance": "55.4%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0087591801,
+    "Leetcode Question Link": " https://leetcode.com/problems/kth-largest-element-in-an-array"
+  },
+  {
+    "ID": 173,
+    "Title": "Binary Search Tree Iterator",
+    "Acceptance": "56.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0084890153,
+    "Leetcode Question Link": " https://leetcode.com/problems/binary-search-tree-iterator"
+  },
+  {
+    "ID": 394,
+    "Title": "Decode String",
+    "Acceptance": "50.0%",
+    "Difficulty": "Medium",
+    "Frequency": 0.008166644,
+    "Leetcode Question Link": " https://leetcode.com/problems/decode-string"
+  },
+  {
+    "ID": 239,
+    "Title": "Sliding Window Maximum",
+    "Acceptance": "43.0%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0078989352,
+    "Leetcode Question Link": " https://leetcode.com/problems/sliding-window-maximum"
+  },
+  {
+    "ID": 10,
+    "Title": "Regular Expression Matching",
+    "Acceptance": "26.8%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0071865203,
+    "Leetcode Question Link": " https://leetcode.com/problems/regular-expression-matching"
+  },
+  {
+    "ID": 200,
+    "Title": "Number of Islands",
+    "Acceptance": "46.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0064902514,
+    "Leetcode Question Link": " https://leetcode.com/problems/number-of-islands"
+  },
+  {
+    "ID": 3,
+    "Title": "Longest Substring Without Repeating Characters",
+    "Acceptance": "30.4%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0062080671,
+    "Leetcode Question Link": " https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  },
+  {
+    "ID": 206,
+    "Title": "Reverse Linked List",
+    "Acceptance": "62.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0052570215,
+    "Leetcode Question Link": " https://leetcode.com/problems/reverse-linked-list"
+  },
+  {
+    "ID": 160,
+    "Title": "Intersection of Two Linked Lists",
+    "Acceptance": "40.6%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0049013699,
+    "Leetcode Question Link": " https://leetcode.com/problems/intersection-of-two-linked-lists"
+  },
+  {
+    "ID": 121,
+    "Title": "Best Time to Buy and Sell Stock",
+    "Acceptance": "50.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0047725194,
+    "Leetcode Question Link": " https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+  },
+  {
+    "ID": 22,
+    "Title": "Generate Parentheses",
+    "Acceptance": "62.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0043611059,
+    "Leetcode Question Link": " https://leetcode.com/problems/generate-parentheses"
+  },
+  {
+    "ID": 23,
+    "Title": "Merge k Sorted Lists",
+    "Acceptance": "40.2%",
+    "Difficulty": "Hard",
+    "Frequency": 0.004051459,
+    "Leetcode Question Link": " https://leetcode.com/problems/merge-k-sorted-lists"
+  },
+  {
+    "ID": 4,
+    "Title": "Median of Two Sorted Arrays",
+    "Acceptance": "29.6%",
+    "Difficulty": "Hard",
+    "Frequency": 0.003900161,
+    "Leetcode Question Link": " https://leetcode.com/problems/median-of-two-sorted-arrays"
+  },
+  {
+    "ID": 56,
+    "Title": "Merge Intervals",
+    "Acceptance": "39.3%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0034728286,
+    "Leetcode Question Link": " https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "ID": 101,
+    "Title": "Symmetric Tree",
+    "Acceptance": "46.8%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0034057078,
+    "Leetcode Question Link": " https://leetcode.com/problems/symmetric-tree"
+  },
+  {
+    "ID": 94,
+    "Title": "Binary Tree Inorder Traversal",
+    "Acceptance": "63.3%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0033551449,
+    "Leetcode Question Link": " https://leetcode.com/problems/binary-tree-inorder-traversal"
+  },
+  {
+    "ID": 14,
+    "Title": "Longest Common Prefix",
+    "Acceptance": "35.4%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0033203318,
+    "Leetcode Question Link": " https://leetcode.com/problems/longest-common-prefix"
+  },
+  {
+    "ID": 21,
+    "Title": "Merge Two Sorted Lists",
+    "Acceptance": "53.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0022551738,
+    "Leetcode Question Link": " https://leetcode.com/problems/merge-two-sorted-lists"
+  },
+  {
+    "ID": 70,
+    "Title": "Climbing Stairs",
+    "Acceptance": "47.8%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0015084666,
+    "Leetcode Question Link": " https://leetcode.com/problems/climbing-stairs"
+  }
+]

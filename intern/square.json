@@ -1,0 +1,58 @@
+[
+  {
+    "ID": 336,
+    "Title": "Palindrome Pairs",
+    "Acceptance": "33.7%",
+    "Difficulty": "Hard",
+    "Frequency": 0.095249005,
+    "Leetcode Question Link": " https://leetcode.com/problems/palindrome-pairs"
+  },
+  {
+    "ID": 999,
+    "Title": "Available Captures for Rook",
+    "Acceptance": "66.7%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0673655318,
+    "Leetcode Question Link": " https://leetcode.com/problems/available-captures-for-rook"
+  },
+  {
+    "ID": 72,
+    "Title": "Edit Distance",
+    "Acceptance": "44.8%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0394820587,
+    "Leetcode Question Link": " https://leetcode.com/problems/edit-distance"
+  },
+  {
+    "ID": 332,
+    "Title": "Reconstruct Itinerary",
+    "Acceptance": "36.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0137553751,
+    "Leetcode Question Link": " https://leetcode.com/problems/reconstruct-itinerary"
+  },
+  {
+    "ID": 273,
+    "Title": "Integer to English Words",
+    "Acceptance": "27.1%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0120810893,
+    "Leetcode Question Link": " https://leetcode.com/problems/integer-to-english-words"
+  },
+  {
+    "ID": 415,
+    "Title": "Add Strings",
+    "Acceptance": "47.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0075872898,
+    "Leetcode Question Link": " https://leetcode.com/problems/add-strings"
+  },
+  {
+    "ID": 91,
+    "Title": "Decode Ways",
+    "Acceptance": "24.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0059683854,
+    "Leetcode Question Link": " https://leetcode.com/problems/decode-ways"
+  }
+]

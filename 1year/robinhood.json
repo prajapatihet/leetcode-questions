@@ -1,0 +1,42 @@
+[
+  {
+    "ID": 418,
+    "Title": "Sentence Screen Fitting",
+    "Acceptance": "32.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.1567818212,
+    "Leetcode Question Link": " https://leetcode.com/problems/sentence-screen-fitting"
+  },
+  {
+    "ID": 755,
+    "Title": "Pour Water",
+    "Acceptance": "43.3%",
+    "Difficulty": "Medium",
+    "Frequency": 0.1479151112,
+    "Leetcode Question Link": " https://leetcode.com/problems/pour-water"
+  },
+  {
+    "ID": 224,
+    "Title": "Basic Calculator",
+    "Acceptance": "36.8%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0813456395,
+    "Leetcode Question Link": " https://leetcode.com/problems/basic-calculator"
+  },
+  {
+    "ID": 54,
+    "Title": "Spiral Matrix",
+    "Acceptance": "34.1%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0147761677,
+    "Leetcode Question Link": " https://leetcode.com/problems/spiral-matrix"
+  },
+  {
+    "ID": 438,
+    "Title": "Find All Anagrams in a String",
+    "Acceptance": "43.3%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0081268225,
+    "Leetcode Question Link": " https://leetcode.com/problems/find-all-anagrams-in-a-string"
+  }
+]

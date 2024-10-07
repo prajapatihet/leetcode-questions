@@ -1,0 +1,50 @@
+[
+  {
+    "ID": 326,
+    "Title": "Power of Three",
+    "Acceptance": "42.1%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0290762388,
+    "Leetcode Question Link": " https://leetcode.com/problems/power-of-three"
+  },
+  {
+    "ID": 907,
+    "Title": "Sum of Subarray Minimums",
+    "Acceptance": "32.3%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0287788143,
+    "Leetcode Question Link": " https://leetcode.com/problems/sum-of-subarray-minimums"
+  },
+  {
+    "ID": 394,
+    "Title": "Decode String",
+    "Acceptance": "50.0%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0174321672,
+    "Leetcode Question Link": " https://leetcode.com/problems/decode-string"
+  },
+  {
+    "ID": 230,
+    "Title": "Kth Smallest Element in a BST",
+    "Acceptance": "60.2%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0060855201,
+    "Leetcode Question Link": " https://leetcode.com/problems/kth-smallest-element-in-a-bst"
+  },
+  {
+    "ID": 139,
+    "Title": "Word Break",
+    "Acceptance": "40.1%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0037551678,
+    "Leetcode Question Link": " https://leetcode.com/problems/word-break"
+  },
+  {
+    "ID": 49,
+    "Title": "Group Anagrams",
+    "Acceptance": "56.9%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0036347155,
+    "Leetcode Question Link": " https://leetcode.com/problems/group-anagrams"
+  }
+]

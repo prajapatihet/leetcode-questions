@@ -1,0 +1,138 @@
+[
+  {
+    "ID": 742,
+    "Title": "Closest Leaf in a Binary Tree",
+    "Acceptance": "43.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.8883303521,
+    "Leetcode Question Link": " https://leetcode.com/problems/closest-leaf-in-a-binary-tree"
+  },
+  {
+    "ID": 314,
+    "Title": "Binary Tree Vertical Order Traversal",
+    "Acceptance": "45.3%",
+    "Difficulty": "Medium",
+    "Frequency": 0.7042169875,
+    "Leetcode Question Link": " https://leetcode.com/problems/binary-tree-vertical-order-traversal"
+  },
+  {
+    "ID": 41,
+    "Title": "First Missing Positive",
+    "Acceptance": "32.0%",
+    "Difficulty": "Hard",
+    "Frequency": 0.6555459946,
+    "Leetcode Question Link": " https://leetcode.com/problems/first-missing-positive"
+  },
+  {
+    "ID": 380,
+    "Title": "Insert Delete GetRandom O(1)",
+    "Acceptance": "47.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.6369462043,
+    "Leetcode Question Link": " https://leetcode.com/problems/insert-delete-getrandom-o1"
+  },
+  {
+    "ID": 1242,
+    "Title": "Web Crawler Multithreaded",
+    "Acceptance": "45.9%",
+    "Difficulty": "Medium",
+    "Frequency": 0.4978384282,
+    "Leetcode Question Link": " https://leetcode.com/problems/web-crawler-multithreaded"
+  },
+  {
+    "ID": 722,
+    "Title": "Remove Comments",
+    "Acceptance": "34.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.4095888253,
+    "Leetcode Question Link": " https://leetcode.com/problems/remove-comments"
+  },
+  {
+    "ID": 91,
+    "Title": "Decode Ways",
+    "Acceptance": "24.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.2254754606,
+    "Leetcode Question Link": " https://leetcode.com/problems/decode-ways"
+  },
+  {
+    "ID": 218,
+    "Title": "The Skyline Problem",
+    "Acceptance": "34.6%",
+    "Difficulty": "Hard",
+    "Frequency": 0.149531734,
+    "Leetcode Question Link": " https://leetcode.com/problems/the-skyline-problem"
+  },
+  {
+    "ID": 426,
+    "Title": "Convert Binary Search Tree to Sorted Doubly Linked List",
+    "Acceptance": "59.1%",
+    "Difficulty": "Medium",
+    "Frequency": 0.093526058,
+    "Leetcode Question Link": " https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list"
+  },
+  {
+    "ID": 239,
+    "Title": "Sliding Window Maximum",
+    "Acceptance": "43.0%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0927114633,
+    "Leetcode Question Link": " https://leetcode.com/problems/sliding-window-maximum"
+  },
+  {
+    "ID": 381,
+    "Title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+    "Acceptance": "34.1%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0910638889,
+    "Leetcode Question Link": " https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed"
+  },
+  {
+    "ID": 614,
+    "Title": "Second Degree Follower",
+    "Acceptance": "30.3%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0847965367,
+    "Leetcode Question Link": " https://leetcode.com/problems/second-degree-follower"
+  },
+  {
+    "ID": 987,
+    "Title": "Vertical Order Traversal of a Binary Tree",
+    "Acceptance": "36.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0456179435,
+    "Leetcode Question Link": " https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree"
+  },
+  {
+    "ID": 42,
+    "Title": "Trapping Rain Water",
+    "Acceptance": "48.9%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0268862307,
+    "Leetcode Question Link": " https://leetcode.com/problems/trapping-rain-water"
+  },
+  {
+    "ID": 10,
+    "Title": "Regular Expression Matching",
+    "Acceptance": "26.8%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0071865203,
+    "Leetcode Question Link": " https://leetcode.com/problems/regular-expression-matching"
+  },
+  {
+    "ID": 114,
+    "Title": "Flatten Binary Tree to Linked List",
+    "Acceptance": "49.3%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0068965791,
+    "Leetcode Question Link": " https://leetcode.com/problems/flatten-binary-tree-to-linked-list"
+  },
+  {
+    "ID": 350,
+    "Title": "Intersection of Two Arrays II",
+    "Acceptance": "51.4%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0052103804,
+    "Leetcode Question Link": " https://leetcode.com/problems/intersection-of-two-arrays-ii"
+  }
+]

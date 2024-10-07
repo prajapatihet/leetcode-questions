@@ -1,0 +1,26 @@
+[
+  {
+    "ID": 155,
+    "Title": "Min Stack",
+    "Acceptance": "44.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0038394278,
+    "Leetcode Question Link": " https://leetcode.com/problems/min-stack"
+  },
+  {
+    "ID": 146,
+    "Title": "LRU Cache",
+    "Acceptance": "33.2%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0036908702,
+    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "ID": 1,
+    "Title": "Two Sum",
+    "Acceptance": "45.6%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0018454351,
+    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+  }
+]

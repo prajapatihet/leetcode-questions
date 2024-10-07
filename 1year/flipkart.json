@@ -1,0 +1,42 @@
+[
+  {
+    "ID": 741,
+    "Title": "Cherry Pickup",
+    "Acceptance": "33.9%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0245913357,
+    "Leetcode Question Link": " https://leetcode.com/problems/cherry-pickup"
+  },
+  {
+    "ID": 84,
+    "Title": "Largest Rectangle in Histogram",
+    "Acceptance": "35.2%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0186611262,
+    "Leetcode Question Link": " https://leetcode.com/problems/largest-rectangle-in-histogram"
+  },
+  {
+    "ID": 269,
+    "Title": "Alien Dictionary",
+    "Acceptance": "33.3%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0127309167,
+    "Leetcode Question Link": " https://leetcode.com/problems/alien-dictionary"
+  },
+  {
+    "ID": 994,
+    "Title": "Rotting Oranges",
+    "Acceptance": "49.2%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0076307123,
+    "Leetcode Question Link": " https://leetcode.com/problems/rotting-oranges"
+  },
+  {
+    "ID": 155,
+    "Title": "Min Stack",
+    "Acceptance": "44.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0047489107,
+    "Leetcode Question Link": " https://leetcode.com/problems/min-stack"
+  }
+]

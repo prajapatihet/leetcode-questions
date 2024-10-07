@@ -1,0 +1,74 @@
+[
+  {
+    "ID": 539,
+    "Title": "Minimum Time Difference",
+    "Acceptance": "51.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.6622032237,
+    "Leetcode Question Link": " https://leetcode.com/problems/minimum-time-difference"
+  },
+  {
+    "ID": 393,
+    "Title": "UTF-8 Validation",
+    "Acceptance": "37.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.3958185593,
+    "Leetcode Question Link": " https://leetcode.com/problems/utf-8-validation"
+  },
+  {
+    "ID": 733,
+    "Title": "Flood Fill",
+    "Acceptance": "55.3%",
+    "Difficulty": "Easy",
+    "Frequency": 0.1294338948,
+    "Leetcode Question Link": " https://leetcode.com/problems/flood-fill"
+  },
+  {
+    "ID": 277,
+    "Title": "Find the Celebrity",
+    "Acceptance": "41.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0656212054,
+    "Leetcode Question Link": " https://leetcode.com/problems/find-the-celebrity"
+  },
+  {
+    "ID": 56,
+    "Title": "Merge Intervals",
+    "Acceptance": "39.3%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0417330423,
+    "Leetcode Question Link": " https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "ID": 695,
+    "Title": "Max Area of Island",
+    "Acceptance": "62.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0126865006,
+    "Leetcode Question Link": " https://leetcode.com/problems/max-area-of-island"
+  },
+  {
+    "ID": 200,
+    "Title": "Number of Islands",
+    "Acceptance": "46.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0115092624,
+    "Leetcode Question Link": " https://leetcode.com/problems/number-of-islands"
+  },
+  {
+    "ID": 48,
+    "Title": "Rotate Image",
+    "Acceptance": "56.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0050955524,
+    "Leetcode Question Link": " https://leetcode.com/problems/rotate-image"
+  },
+  {
+    "ID": 42,
+    "Title": "Trapping Rain Water",
+    "Acceptance": "48.9%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0043506703,
+    "Leetcode Question Link": " https://leetcode.com/problems/trapping-rain-water"
+  }
+]

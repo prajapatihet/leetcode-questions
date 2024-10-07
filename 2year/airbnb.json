@@ -1,0 +1,306 @@
+[
+  {
+    "ID": 755,
+    "Title": "Pour Water",
+    "Acceptance": "43.3%",
+    "Difficulty": "Medium",
+    "Frequency": 4.6943924228,
+    "Leetcode Question Link": " https://leetcode.com/problems/pour-water"
+  },
+  {
+    "ID": 336,
+    "Title": "Palindrome Pairs",
+    "Acceptance": "33.7%",
+    "Difficulty": "Hard",
+    "Frequency": 4.0053230904,
+    "Leetcode Question Link": " https://leetcode.com/problems/palindrome-pairs"
+  },
+  {
+    "ID": 751,
+    "Title": "IP to CIDR",
+    "Acceptance": "61.7%",
+    "Difficulty": "Medium",
+    "Frequency": 3.3596034844,
+    "Leetcode Question Link": " https://leetcode.com/problems/ip-to-cidr"
+  },
+  {
+    "ID": 251,
+    "Title": "Flatten 2D Vector",
+    "Acceptance": "45.7%",
+    "Difficulty": "Medium",
+    "Frequency": 2.670534152,
+    "Leetcode Question Link": " https://leetcode.com/problems/flatten-2d-vector"
+  },
+  {
+    "ID": 773,
+    "Title": "Sliding Puzzle",
+    "Acceptance": "59.3%",
+    "Difficulty": "Hard",
+    "Frequency": 2.1436034859,
+    "Leetcode Question Link": " https://leetcode.com/problems/sliding-puzzle"
+  },
+  {
+    "ID": 269,
+    "Title": "Alien Dictionary",
+    "Acceptance": "33.3%",
+    "Difficulty": "Hard",
+    "Frequency": 2.1258341542,
+    "Leetcode Question Link": " https://leetcode.com/problems/alien-dictionary"
+  },
+  {
+    "ID": 1166,
+    "Title": "Design File System",
+    "Acceptance": "56.8%",
+    "Difficulty": "Medium",
+    "Frequency": 2.0549852457,
+    "Leetcode Question Link": " https://leetcode.com/problems/design-file-system"
+  },
+  {
+    "ID": 787,
+    "Title": "Cheapest Flights Within K Stops",
+    "Acceptance": "39.3%",
+    "Difficulty": "Medium",
+    "Frequency": 1.820249201,
+    "Leetcode Question Link": " https://leetcode.com/problems/cheapest-flights-within-k-stops"
+  },
+  {
+    "ID": 166,
+    "Title": "Fraction to Recurring Decimal",
+    "Acceptance": "21.6%",
+    "Difficulty": "Medium",
+    "Frequency": 1.1768918457,
+    "Leetcode Question Link": " https://leetcode.com/problems/fraction-to-recurring-decimal"
+  },
+  {
+    "ID": 39,
+    "Title": "Combination Sum",
+    "Acceptance": "56.1%",
+    "Difficulty": "Medium",
+    "Frequency": 0.8659171996,
+    "Leetcode Question Link": " https://leetcode.com/problems/combination-sum"
+  },
+  {
+    "ID": 875,
+    "Title": "Koko Eating Bananas",
+    "Acceptance": "52.1%",
+    "Difficulty": "Medium",
+    "Frequency": 0.840998627,
+    "Leetcode Question Link": " https://leetcode.com/problems/koko-eating-bananas"
+  },
+  {
+    "ID": 759,
+    "Title": "Employee Free Time",
+    "Acceptance": "66.2%",
+    "Difficulty": "Hard",
+    "Frequency": 0.6974963642,
+    "Leetcode Question Link": " https://leetcode.com/problems/employee-free-time"
+  },
+  {
+    "ID": 864,
+    "Title": "Shortest Path to Get All Keys",
+    "Acceptance": "40.1%",
+    "Difficulty": "Hard",
+    "Frequency": 0.6061358036,
+    "Leetcode Question Link": " https://leetcode.com/problems/shortest-path-to-get-all-keys"
+  },
+  {
+    "ID": 324,
+    "Title": "Wiggle Sort II",
+    "Acceptance": "29.9%",
+    "Difficulty": "Medium",
+    "Frequency": 0.5511769193,
+    "Leetcode Question Link": " https://leetcode.com/problems/wiggle-sort-ii"
+  },
+  {
+    "ID": 756,
+    "Title": "Pyramid Transition Matrix",
+    "Acceptance": "54.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.387765531,
+    "Leetcode Question Link": " https://leetcode.com/problems/pyramid-transition-matrix"
+  },
+  {
+    "ID": 341,
+    "Title": "Flatten Nested List Iterator",
+    "Acceptance": "52.9%",
+    "Difficulty": "Medium",
+    "Frequency": 0.342651749,
+    "Leetcode Question Link": " https://leetcode.com/problems/flatten-nested-list-iterator"
+  },
+  {
+    "ID": 68,
+    "Title": "Text Justification",
+    "Acceptance": "27.7%",
+    "Difficulty": "Hard",
+    "Frequency": 0.2951871256,
+    "Leetcode Question Link": " https://leetcode.com/problems/text-justification"
+  },
+  {
+    "ID": 1257,
+    "Title": "Smallest Common Region",
+    "Acceptance": "58.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.2561688067,
+    "Leetcode Question Link": " https://leetcode.com/problems/smallest-common-region"
+  },
+  {
+    "ID": 1235,
+    "Title": "Maximum Profit in Job Scheduling",
+    "Acceptance": "44.0%",
+    "Difficulty": "Hard",
+    "Frequency": 0.1532629745,
+    "Leetcode Question Link": " https://leetcode.com/problems/maximum-profit-in-job-scheduling"
+  },
+  {
+    "ID": 322,
+    "Title": "Coin Change",
+    "Acceptance": "35.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0626060069,
+    "Leetcode Question Link": " https://leetcode.com/problems/coin-change"
+  },
+  {
+    "ID": 588,
+    "Title": "Design In-Memory File System",
+    "Acceptance": "45.9%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0584107622,
+    "Leetcode Question Link": " https://leetcode.com/problems/design-in-memory-file-system"
+  },
+  {
+    "ID": 843,
+    "Title": "Guess the Word",
+    "Acceptance": "46.1%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0454623741,
+    "Leetcode Question Link": " https://leetcode.com/problems/guess-the-word"
+  },
+  {
+    "ID": 280,
+    "Title": "Wiggle Sort",
+    "Acceptance": "63.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0436274202,
+    "Leetcode Question Link": " https://leetcode.com/problems/wiggle-sort"
+  },
+  {
+    "ID": 42,
+    "Title": "Trapping Rain Water",
+    "Acceptance": "48.9%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0268862307,
+    "Leetcode Question Link": " https://leetcode.com/problems/trapping-rain-water"
+  },
+  {
+    "ID": 622,
+    "Title": "Design Circular Queue",
+    "Acceptance": "43.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0224602367,
+    "Leetcode Question Link": " https://leetcode.com/problems/design-circular-queue"
+  },
+  {
+    "ID": 212,
+    "Title": "Word Search II",
+    "Acceptance": "34.9%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0220165449,
+    "Leetcode Question Link": " https://leetcode.com/problems/word-search-ii"
+  },
+  {
+    "ID": 236,
+    "Title": "Lowest Common Ancestor of a Binary Tree",
+    "Acceptance": "45.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0187249473,
+    "Leetcode Question Link": " https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree"
+  },
+  {
+    "ID": 1,
+    "Title": "Two Sum",
+    "Acceptance": "45.6%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0164875806,
+    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+  },
+  {
+    "ID": 299,
+    "Title": "Bulls and Cows",
+    "Acceptance": "42.4%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0162275366,
+    "Leetcode Question Link": " https://leetcode.com/problems/bulls-and-cows"
+  },
+  {
+    "ID": 211,
+    "Title": "Add and Search Word - Data structure design",
+    "Acceptance": "38.1%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0104385081,
+    "Leetcode Question Link": " https://leetcode.com/problems/add-and-search-word-data-structure-design"
+  },
+  {
+    "ID": 5,
+    "Title": "Longest Palindromic Substring",
+    "Acceptance": "29.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0090863252,
+    "Leetcode Question Link": " https://leetcode.com/problems/longest-palindromic-substring"
+  },
+  {
+    "ID": 953,
+    "Title": "Verifying an Alien Dictionary",
+    "Acceptance": "54.1%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0078849216,
+    "Leetcode Question Link": " https://leetcode.com/problems/verifying-an-alien-dictionary"
+  },
+  {
+    "ID": 76,
+    "Title": "Minimum Window Substring",
+    "Acceptance": "34.6%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0062315204,
+    "Leetcode Question Link": " https://leetcode.com/problems/minimum-window-substring"
+  },
+  {
+    "ID": 34,
+    "Title": "Find First and Last Position of Element in Sorted Array",
+    "Acceptance": "36.2%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0042476436,
+    "Leetcode Question Link": " https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array"
+  },
+  {
+    "ID": 215,
+    "Title": "Kth Largest Element in an Array",
+    "Acceptance": "55.4%",
+    "Difficulty": "Medium",
+    "Frequency": 0.003902444,
+    "Leetcode Question Link": " https://leetcode.com/problems/kth-largest-element-in-an-array"
+  },
+  {
+    "ID": 4,
+    "Title": "Median of Two Sorted Arrays",
+    "Acceptance": "29.6%",
+    "Difficulty": "Hard",
+    "Frequency": 0.003900161,
+    "Leetcode Question Link": " https://leetcode.com/problems/median-of-two-sorted-arrays"
+  },
+  {
+    "ID": 21,
+    "Title": "Merge Two Sorted Lists",
+    "Acceptance": "53.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0022551738,
+    "Leetcode Question Link": " https://leetcode.com/problems/merge-two-sorted-lists"
+  },
+  {
+    "ID": 2,
+    "Title": "Add Two Numbers",
+    "Acceptance": "33.9%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0016886191,
+    "Leetcode Question Link": " https://leetcode.com/problems/add-two-numbers"
+  }
+]

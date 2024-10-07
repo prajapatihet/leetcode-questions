@@ -1,0 +1,90 @@
+[
+  {
+    "ID": 761,
+    "Title": "Special Binary String",
+    "Acceptance": "54.7%",
+    "Difficulty": "Hard",
+    "Frequency": 0.8553864476,
+    "Leetcode Question Link": " https://leetcode.com/problems/special-binary-string"
+  },
+  {
+    "ID": 811,
+    "Title": "Subdomain Visit Count",
+    "Acceptance": "69.9%",
+    "Difficulty": "Easy",
+    "Frequency": 0.5322391227,
+    "Leetcode Question Link": " https://leetcode.com/problems/subdomain-visit-count"
+  },
+  {
+    "ID": 741,
+    "Title": "Cherry Pickup",
+    "Acceptance": "33.9%",
+    "Difficulty": "Hard",
+    "Frequency": 0.2090917979,
+    "Leetcode Question Link": " https://leetcode.com/problems/cherry-pickup"
+  },
+  {
+    "ID": 697,
+    "Title": "Degree of an Array",
+    "Acceptance": "53.8%",
+    "Difficulty": "Easy",
+    "Frequency": 0.1232326404,
+    "Leetcode Question Link": " https://leetcode.com/problems/degree-of-an-array"
+  },
+  {
+    "ID": 829,
+    "Title": "Consecutive Numbers Sum",
+    "Acceptance": "37.5%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0534172375,
+    "Leetcode Question Link": " https://leetcode.com/problems/consecutive-numbers-sum"
+  },
+  {
+    "ID": 1010,
+    "Title": "Pairs of Songs With Total Durations Divisible by 60",
+    "Acceptance": "47.4%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0418033698,
+    "Leetcode Question Link": " https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60"
+  },
+  {
+    "ID": 273,
+    "Title": "Integer to English Words",
+    "Acceptance": "27.1%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0120810893,
+    "Leetcode Question Link": " https://leetcode.com/problems/integer-to-english-words"
+  },
+  {
+    "ID": 206,
+    "Title": "Reverse Linked List",
+    "Acceptance": "62.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0093267945,
+    "Leetcode Question Link": " https://leetcode.com/problems/reverse-linked-list"
+  },
+  {
+    "ID": 253,
+    "Title": "Meeting Rooms II",
+    "Acceptance": "45.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0080792199,
+    "Leetcode Question Link": " https://leetcode.com/problems/meeting-rooms-ii"
+  },
+  {
+    "ID": 15,
+    "Title": "3Sum",
+    "Acceptance": "26.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0049409928,
+    "Leetcode Question Link": " https://leetcode.com/problems/3sum"
+  },
+  {
+    "ID": 200,
+    "Title": "Number of Islands",
+    "Acceptance": "46.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0028897578,
+    "Leetcode Question Link": " https://leetcode.com/problems/number-of-islands"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "ID": 346,
+    "Title": "Moving Average from Data Stream",
+    "Acceptance": "70.9%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0197072379,
+    "Leetcode Question Link": " https://leetcode.com/problems/moving-average-from-data-stream"
+  },
+  {
+    "ID": 221,
+    "Title": "Maximal Square",
+    "Acceptance": "37.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.009886388,
+    "Leetcode Question Link": " https://leetcode.com/problems/maximal-square"
+  },
+  {
+    "ID": 380,
+    "Title": "Insert Delete GetRandom O(1)",
+    "Acceptance": "47.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0098208499,
+    "Leetcode Question Link": " https://leetcode.com/problems/insert-delete-getrandom-o1"
+  }
+]

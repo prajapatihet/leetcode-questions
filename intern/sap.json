@@ -1,0 +1,42 @@
+[
+  {
+    "ID": 1349,
+    "Title": "Maximum Students Taking Exam",
+    "Acceptance": "42.0%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0796624661,
+    "Leetcode Question Link": " https://leetcode.com/problems/maximum-students-taking-exam"
+  },
+  {
+    "ID": 1283,
+    "Title": "Find the Smallest Divisor Given a Threshold",
+    "Acceptance": "47.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0477988237,
+    "Leetcode Question Link": " https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold"
+  },
+  {
+    "ID": 509,
+    "Title": "Fibonacci Number",
+    "Acceptance": "67.2%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0159351814,
+    "Leetcode Question Link": " https://leetcode.com/problems/fibonacci-number"
+  },
+  {
+    "ID": 322,
+    "Title": "Coin Change",
+    "Acceptance": "35.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0040298261,
+    "Leetcode Question Link": " https://leetcode.com/problems/coin-change"
+  },
+  {
+    "ID": 1,
+    "Title": "Two Sum",
+    "Acceptance": "45.6%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0008206139,
+    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+  }
+]

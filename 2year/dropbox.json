@@ -1,0 +1,114 @@
+[
+  {
+    "ID": 609,
+    "Title": "Find Duplicate File in System",
+    "Acceptance": "59.5%",
+    "Difficulty": "Medium",
+    "Frequency": 4.3086460546,
+    "Leetcode Question Link": " https://leetcode.com/problems/find-duplicate-file-in-system"
+  },
+  {
+    "ID": 924,
+    "Title": "Minimize Malware Spread",
+    "Acceptance": "42.0%",
+    "Difficulty": "Hard",
+    "Frequency": 3.7034072588,
+    "Leetcode Question Link": " https://leetcode.com/problems/minimize-malware-spread"
+  },
+  {
+    "ID": 289,
+    "Title": "Game of Life",
+    "Acceptance": "54.5%",
+    "Difficulty": "Medium",
+    "Frequency": 3.452499697,
+    "Leetcode Question Link": " https://leetcode.com/problems/game-of-life"
+  },
+  {
+    "ID": 379,
+    "Title": "Design Phone Directory",
+    "Acceptance": "46.8%",
+    "Difficulty": "Medium",
+    "Frequency": 2.5463152779,
+    "Leetcode Question Link": " https://leetcode.com/problems/design-phone-directory"
+  },
+  {
+    "ID": 928,
+    "Title": "Minimize Malware Spread II",
+    "Acceptance": "40.5%",
+    "Difficulty": "Hard",
+    "Frequency": 1.6401308588,
+    "Leetcode Question Link": " https://leetcode.com/problems/minimize-malware-spread-ii"
+  },
+  {
+    "ID": 1242,
+    "Title": "Web Crawler Multithreaded",
+    "Acceptance": "45.9%",
+    "Difficulty": "Medium",
+    "Frequency": 0.8967461358,
+    "Leetcode Question Link": " https://leetcode.com/problems/web-crawler-multithreaded"
+  },
+  {
+    "ID": 1178,
+    "Title": "Number of Valid Words for Each Puzzle",
+    "Acceptance": "37.8%",
+    "Difficulty": "Hard",
+    "Frequency": 0.8109302162,
+    "Leetcode Question Link": " https://leetcode.com/problems/number-of-valid-words-for-each-puzzle"
+  },
+  {
+    "ID": 642,
+    "Title": "Design Search Autocomplete System",
+    "Acceptance": "44.7%",
+    "Difficulty": "Hard",
+    "Frequency": 0.4334924204,
+    "Leetcode Question Link": " https://leetcode.com/problems/design-search-autocomplete-system"
+  },
+  {
+    "ID": 146,
+    "Title": "LRU Cache",
+    "Acceptance": "33.2%",
+    "Difficulty": "Medium",
+    "Frequency": 0.1305731308,
+    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "ID": 1010,
+    "Title": "Pairs of Songs With Total Durations Divisible by 60",
+    "Acceptance": "47.4%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0917139277,
+    "Leetcode Question Link": " https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60"
+  },
+  {
+    "ID": 362,
+    "Title": "Design Hit Counter",
+    "Acceptance": "63.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0562296765,
+    "Leetcode Question Link": " https://leetcode.com/problems/design-hit-counter"
+  },
+  {
+    "ID": 17,
+    "Title": "Letter Combinations of a Phone Number",
+    "Acceptance": "46.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0174925199,
+    "Leetcode Question Link": " https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+  },
+  {
+    "ID": 64,
+    "Title": "Minimum Path Sum",
+    "Acceptance": "54.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0137343834,
+    "Leetcode Question Link": " https://leetcode.com/problems/minimum-path-sum"
+  },
+  {
+    "ID": 28,
+    "Title": "Implement strStr()",
+    "Acceptance": "34.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0039432228,
+    "Leetcode Question Link": " https://leetcode.com/problems/implement-strstr"
+  }
+]

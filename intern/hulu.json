@@ -1,0 +1,18 @@
+[
+  {
+    "ID": 326,
+    "Title": "Power of Three",
+    "Acceptance": "42.1%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0097582405,
+    "Leetcode Question Link": " https://leetcode.com/problems/power-of-three"
+  },
+  {
+    "ID": 394,
+    "Title": "Decode String",
+    "Acceptance": "50.0%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0048791202,
+    "Leetcode Question Link": " https://leetcode.com/problems/decode-string"
+  }
+]

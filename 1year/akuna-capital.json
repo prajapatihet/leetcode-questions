@@ -1,0 +1,66 @@
+[
+  {
+    "ID": 1223,
+    "Title": "Dice Roll Simulation",
+    "Acceptance": "45.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.415443742,
+    "Leetcode Question Link": " https://leetcode.com/problems/dice-roll-simulation"
+  },
+  {
+    "ID": 713,
+    "Title": "Subarray Product Less Than K",
+    "Acceptance": "39.1%",
+    "Difficulty": "Medium",
+    "Frequency": 0.3116517931,
+    "Leetcode Question Link": " https://leetcode.com/problems/subarray-product-less-than-k"
+  },
+  {
+    "ID": 1411,
+    "Title": "Number of Ways to Paint N \u00d7 3 Grid",
+    "Acceptance": "61.1%",
+    "Difficulty": "Hard",
+    "Frequency": 0.2567382245,
+    "Leetcode Question Link": " https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid"
+  },
+  {
+    "ID": 1177,
+    "Title": "Can Make Palindrome from Substring",
+    "Acceptance": "34.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.1513089151,
+    "Leetcode Question Link": " https://leetcode.com/problems/can-make-palindrome-from-substring"
+  },
+  {
+    "ID": 1319,
+    "Title": "Number of Operations to Make Network Connected",
+    "Acceptance": "53.1%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0458796058,
+    "Leetcode Question Link": " https://leetcode.com/problems/number-of-operations-to-make-network-connected"
+  },
+  {
+    "ID": 1048,
+    "Title": "Longest String Chain",
+    "Acceptance": "54.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.019361689,
+    "Leetcode Question Link": " https://leetcode.com/problems/longest-string-chain"
+  },
+  {
+    "ID": 152,
+    "Title": "Maximum Product Subarray",
+    "Acceptance": "31.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0055905107,
+    "Leetcode Question Link": " https://leetcode.com/problems/maximum-product-subarray"
+  },
+  {
+    "ID": 48,
+    "Title": "Rotate Image",
+    "Acceptance": "56.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0050955524,
+    "Leetcode Question Link": " https://leetcode.com/problems/rotate-image"
+  }
+]

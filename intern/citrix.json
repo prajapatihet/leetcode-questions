@@ -1,0 +1,26 @@
+[
+  {
+    "ID": 1010,
+    "Title": "Pairs of Songs With Total Durations Divisible by 60",
+    "Acceptance": "47.4%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0164545777,
+    "Leetcode Question Link": " https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60"
+  },
+  {
+    "ID": 206,
+    "Title": "Reverse Linked List",
+    "Acceptance": "62.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0093267945,
+    "Leetcode Question Link": " https://leetcode.com/problems/reverse-linked-list"
+  },
+  {
+    "ID": 15,
+    "Title": "3Sum",
+    "Acceptance": "26.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0021990113,
+    "Leetcode Question Link": " https://leetcode.com/problems/3sum"
+  }
+]

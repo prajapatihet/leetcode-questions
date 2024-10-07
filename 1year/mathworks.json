@@ -1,0 +1,194 @@
+[
+  {
+    "ID": 1130,
+    "Title": "Minimum Cost Tree From Leaf Values",
+    "Acceptance": "66.1%",
+    "Difficulty": "Medium",
+    "Frequency": 1.5838449152,
+    "Leetcode Question Link": " https://leetcode.com/problems/minimum-cost-tree-from-leaf-values"
+  },
+  {
+    "ID": 255,
+    "Title": "Verify Preorder Sequence in Binary Search Tree",
+    "Acceptance": "45.7%",
+    "Difficulty": "Medium",
+    "Frequency": 1.0184692952,
+    "Leetcode Question Link": " https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree"
+  },
+  {
+    "ID": 1163,
+    "Title": "Last Substring in Lexicographical Order",
+    "Acceptance": "33.9%",
+    "Difficulty": "Hard",
+    "Frequency": 0.9532793012,
+    "Leetcode Question Link": " https://leetcode.com/problems/last-substring-in-lexicographical-order"
+  },
+  {
+    "ID": 317,
+    "Title": "Shortest Distance from All Buildings",
+    "Acceptance": "41.4%",
+    "Difficulty": "Hard",
+    "Frequency": 0.3879036812,
+    "Leetcode Question Link": " https://leetcode.com/problems/shortest-distance-from-all-buildings"
+  },
+  {
+    "ID": 25,
+    "Title": "Reverse Nodes in k-Group",
+    "Acceptance": "42.1%",
+    "Difficulty": "Hard",
+    "Frequency": 0.2284157464,
+    "Leetcode Question Link": " https://leetcode.com/problems/reverse-nodes-in-k-group"
+  },
+  {
+    "ID": 500,
+    "Title": "Keyboard Row",
+    "Acceptance": "64.7%",
+    "Difficulty": "Easy",
+    "Frequency": 0.1929036661,
+    "Leetcode Question Link": " https://leetcode.com/problems/keyboard-row"
+  },
+  {
+    "ID": 526,
+    "Title": "Beautiful Arrangement",
+    "Acceptance": "57.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.1735109271,
+    "Leetcode Question Link": " https://leetcode.com/problems/beautiful-arrangement"
+  },
+  {
+    "ID": 206,
+    "Title": "Reverse Linked List",
+    "Acceptance": "62.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.123784189,
+    "Leetcode Question Link": " https://leetcode.com/problems/reverse-linked-list"
+  },
+  {
+    "ID": 741,
+    "Title": "Cherry Pickup",
+    "Acceptance": "33.9%",
+    "Difficulty": "Hard",
+    "Frequency": 0.1229376862,
+    "Leetcode Question Link": " https://leetcode.com/problems/cherry-pickup"
+  },
+  {
+    "ID": 259,
+    "Title": "3Sum Smaller",
+    "Acceptance": "47.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.1081485038,
+    "Leetcode Question Link": " https://leetcode.com/problems/3sum-smaller"
+  },
+  {
+    "ID": 697,
+    "Title": "Degree of an Array",
+    "Acceptance": "53.8%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0711762785,
+    "Leetcode Question Link": " https://leetcode.com/problems/degree-of-an-array"
+  },
+  {
+    "ID": 115,
+    "Title": "Distinct Subsequences",
+    "Acceptance": "38.3%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0614947816,
+    "Leetcode Question Link": " https://leetcode.com/problems/distinct-subsequences"
+  },
+  {
+    "ID": 1319,
+    "Title": "Number of Operations to Make Network Connected",
+    "Acceptance": "53.1%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0458796058,
+    "Leetcode Question Link": " https://leetcode.com/problems/number-of-operations-to-make-network-connected"
+  },
+  {
+    "ID": 232,
+    "Title": "Implement Queue using Stacks",
+    "Acceptance": "49.6%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0442305372,
+    "Leetcode Question Link": " https://leetcode.com/problems/implement-queue-using-stacks"
+  },
+  {
+    "ID": 63,
+    "Title": "Unique Paths II",
+    "Acceptance": "34.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0344045973,
+    "Leetcode Question Link": " https://leetcode.com/problems/unique-paths-ii"
+  },
+  {
+    "ID": 62,
+    "Title": "Unique Paths",
+    "Acceptance": "54.1%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0285374919,
+    "Leetcode Question Link": " https://leetcode.com/problems/unique-paths"
+  },
+  {
+    "ID": 338,
+    "Title": "Counting Bits",
+    "Acceptance": "69.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0243255238,
+    "Leetcode Question Link": " https://leetcode.com/problems/counting-bits"
+  },
+  {
+    "ID": 49,
+    "Title": "Group Anagrams",
+    "Acceptance": "56.9%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0235415768,
+    "Leetcode Question Link": " https://leetcode.com/problems/group-anagrams"
+  },
+  {
+    "ID": 225,
+    "Title": "Implement Stack using Queues",
+    "Acceptance": "45.1%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0164409786,
+    "Leetcode Question Link": " https://leetcode.com/problems/implement-stack-using-queues"
+  },
+  {
+    "ID": 647,
+    "Title": "Palindromic Substrings",
+    "Acceptance": "60.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0104005098,
+    "Leetcode Question Link": " https://leetcode.com/problems/palindromic-substrings"
+  },
+  {
+    "ID": 15,
+    "Title": "3Sum",
+    "Acceptance": "26.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0049409928,
+    "Leetcode Question Link": " https://leetcode.com/problems/3sum"
+  },
+  {
+    "ID": 200,
+    "Title": "Number of Islands",
+    "Acceptance": "46.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0028897578,
+    "Leetcode Question Link": " https://leetcode.com/problems/number-of-islands"
+  },
+  {
+    "ID": 20,
+    "Title": "Valid Parentheses",
+    "Acceptance": "39.0%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0023005704,
+    "Leetcode Question Link": " https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "ID": 1,
+    "Title": "Two Sum",
+    "Acceptance": "45.6%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0018454351,
+    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+  }
+]

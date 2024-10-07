@@ -1,0 +1,26 @@
+[
+  {
+    "ID": 1213,
+    "Title": "Intersection of Three Sorted Arrays",
+    "Acceptance": "78.9%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0072659653,
+    "Leetcode Question Link": " https://leetcode.com/problems/intersection-of-three-sorted-arrays"
+  },
+  {
+    "ID": 146,
+    "Title": "LRU Cache",
+    "Acceptance": "33.2%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0043706363,
+    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "ID": 70,
+    "Title": "Climbing Stairs",
+    "Acceptance": "47.8%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0014753073,
+    "Leetcode Question Link": " https://leetcode.com/problems/climbing-stairs"
+  }
+]

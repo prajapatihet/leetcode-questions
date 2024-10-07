@@ -1,0 +1,66 @@
+[
+  {
+    "ID": 166,
+    "Title": "Fraction to Recurring Decimal",
+    "Acceptance": "21.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.321458022,
+    "Leetcode Question Link": " https://leetcode.com/problems/fraction-to-recurring-decimal"
+  },
+  {
+    "ID": 945,
+    "Title": "Minimum Increment to Make Array Unique",
+    "Acceptance": "46.3%",
+    "Difficulty": "Medium",
+    "Frequency": 0.2499677674,
+    "Leetcode Question Link": " https://leetcode.com/problems/minimum-increment-to-make-array-unique"
+  },
+  {
+    "ID": 691,
+    "Title": "Stickers to Spell Word",
+    "Acceptance": "42.9%",
+    "Difficulty": "Hard",
+    "Frequency": 0.2131528906,
+    "Leetcode Question Link": " https://leetcode.com/problems/stickers-to-spell-word"
+  },
+  {
+    "ID": 592,
+    "Title": "Fraction Addition and Subtraction",
+    "Acceptance": "49.0%",
+    "Difficulty": "Medium",
+    "Frequency": 0.139412543,
+    "Leetcode Question Link": " https://leetcode.com/problems/fraction-addition-and-subtraction"
+  },
+  {
+    "ID": 598,
+    "Title": "Range Addition II",
+    "Acceptance": "49.6%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0863907377,
+    "Leetcode Question Link": " https://leetcode.com/problems/range-addition-ii"
+  },
+  {
+    "ID": 14,
+    "Title": "Longest Common Prefix",
+    "Acceptance": "35.4%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0126503901,
+    "Leetcode Question Link": " https://leetcode.com/problems/longest-common-prefix"
+  },
+  {
+    "ID": 234,
+    "Title": "Palindrome Linked List",
+    "Acceptance": "39.3%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0097161511,
+    "Leetcode Question Link": " https://leetcode.com/problems/palindrome-linked-list"
+  },
+  {
+    "ID": 23,
+    "Title": "Merge k Sorted Lists",
+    "Acceptance": "40.2%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0086999099,
+    "Leetcode Question Link": " https://leetcode.com/problems/merge-k-sorted-lists"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "ID": 1188,
+    "Title": "Design Bounded Blocking Queue",
+    "Acceptance": "70.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0762908367,
+    "Leetcode Question Link": " https://leetcode.com/problems/design-bounded-blocking-queue"
+  },
+  {
+    "ID": 622,
+    "Title": "Design Circular Queue",
+    "Acceptance": "43.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0529503489,
+    "Leetcode Question Link": " https://leetcode.com/problems/design-circular-queue"
+  },
+  {
+    "ID": 339,
+    "Title": "Nested List Weight Sum",
+    "Acceptance": "74.0%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0296098612,
+    "Leetcode Question Link": " https://leetcode.com/problems/nested-list-weight-sum"
+  },
+  {
+    "ID": 146,
+    "Title": "LRU Cache",
+    "Acceptance": "33.2%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0103211925,
+    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "ID": 1,
+    "Title": "Two Sum",
+    "Acceptance": "45.6%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0008206139,
+    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+  }
+]

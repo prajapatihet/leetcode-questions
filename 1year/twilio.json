@@ -1,0 +1,58 @@
+[
+  {
+    "ID": 974,
+    "Title": "Subarray Sums Divisible by K",
+    "Acceptance": "48.9%",
+    "Difficulty": "Medium",
+    "Frequency": 0.2967998324,
+    "Leetcode Question Link": " https://leetcode.com/problems/subarray-sums-divisible-by-k"
+  },
+  {
+    "ID": 146,
+    "Title": "LRU Cache",
+    "Acceptance": "33.2%",
+    "Difficulty": "Medium",
+    "Frequency": 0.2037051228,
+    "Leetcode Question Link": " https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "ID": 68,
+    "Title": "Text Justification",
+    "Acceptance": "27.7%",
+    "Difficulty": "Hard",
+    "Frequency": 0.1614321443,
+    "Leetcode Question Link": " https://leetcode.com/problems/text-justification"
+  },
+  {
+    "ID": 332,
+    "Title": "Reconstruct Itinerary",
+    "Acceptance": "36.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.1174752013,
+    "Leetcode Question Link": " https://leetcode.com/problems/reconstruct-itinerary"
+  },
+  {
+    "ID": 935,
+    "Title": "Knight Dialer",
+    "Acceptance": "45.2%",
+    "Difficulty": "Medium",
+    "Frequency": 0.097374164,
+    "Leetcode Question Link": " https://leetcode.com/problems/knight-dialer"
+  },
+  {
+    "ID": 560,
+    "Title": "Subarray Sum Equals K",
+    "Acceptance": "43.9%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0042794545,
+    "Leetcode Question Link": " https://leetcode.com/problems/subarray-sum-equals-k"
+  },
+  {
+    "ID": 14,
+    "Title": "Longest Common Prefix",
+    "Acceptance": "35.4%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0033203318,
+    "Leetcode Question Link": " https://leetcode.com/problems/longest-common-prefix"
+  }
+]

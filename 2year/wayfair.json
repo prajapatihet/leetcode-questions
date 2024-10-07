@@ -1,0 +1,146 @@
+[
+  {
+    "ID": 840,
+    "Title": "Magic Squares In Grid",
+    "Acceptance": "37.3%",
+    "Difficulty": "Easy",
+    "Frequency": 0.4449565941,
+    "Leetcode Question Link": " https://leetcode.com/problems/magic-squares-in-grid"
+  },
+  {
+    "ID": 811,
+    "Title": "Subdomain Visit Count",
+    "Acceptance": "69.9%",
+    "Difficulty": "Easy",
+    "Frequency": 0.2818511521,
+    "Leetcode Question Link": " https://leetcode.com/problems/subdomain-visit-count"
+  },
+  {
+    "ID": 1189,
+    "Title": "Maximum Number of Balloons",
+    "Acceptance": "61.2%",
+    "Difficulty": "Easy",
+    "Frequency": 0.1187457102,
+    "Leetcode Question Link": " https://leetcode.com/problems/maximum-number-of-balloons"
+  },
+  {
+    "ID": 759,
+    "Title": "Employee Free Time",
+    "Acceptance": "66.3%",
+    "Difficulty": "Hard",
+    "Frequency": 0.1014382428,
+    "Leetcode Question Link": " https://leetcode.com/problems/employee-free-time"
+  },
+  {
+    "ID": 1204,
+    "Title": "Last Person to Fit in the Elevator",
+    "Acceptance": "69.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0851578083,
+    "Leetcode Question Link": " https://leetcode.com/problems/last-person-to-fit-in-the-elevator"
+  },
+  {
+    "ID": 1212,
+    "Title": "Team Scores in Football Tournament",
+    "Acceptance": "55.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0786259424,
+    "Leetcode Question Link": " https://leetcode.com/problems/team-scores-in-football-tournament"
+  },
+  {
+    "ID": 443,
+    "Title": "String Compression",
+    "Acceptance": "41.3%",
+    "Difficulty": "Easy",
+    "Frequency": 0.05233372,
+    "Leetcode Question Link": " https://leetcode.com/problems/string-compression"
+  },
+  {
+    "ID": 85,
+    "Title": "Maximal Rectangle",
+    "Acceptance": "37.7%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0501358124,
+    "Leetcode Question Link": " https://leetcode.com/problems/maximal-rectangle"
+  },
+  {
+    "ID": 412,
+    "Title": "Fizz Buzz",
+    "Acceptance": "62.3%",
+    "Difficulty": "Easy",
+    "Frequency": 0.027152525,
+    "Leetcode Question Link": " https://leetcode.com/problems/fizz-buzz"
+  },
+  {
+    "ID": 718,
+    "Title": "Maximum Length of Repeated Subarray",
+    "Acceptance": "49.4%",
+    "Difficulty": "Medium",
+    "Frequency": 0.026992192,
+    "Leetcode Question Link": " https://leetcode.com/problems/maximum-length-of-repeated-subarray"
+  },
+  {
+    "ID": 5,
+    "Title": "Longest Palindromic Substring",
+    "Acceptance": "29.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0194254206,
+    "Leetcode Question Link": " https://leetcode.com/problems/longest-palindromic-substring"
+  },
+  {
+    "ID": 184,
+    "Title": "Department Highest Salary",
+    "Acceptance": "36.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0180185055,
+    "Leetcode Question Link": " https://leetcode.com/problems/department-highest-salary"
+  },
+  {
+    "ID": 125,
+    "Title": "Valid Palindrome",
+    "Acceptance": "36.7%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0151060274,
+    "Leetcode Question Link": " https://leetcode.com/problems/valid-palindrome"
+  },
+  {
+    "ID": 69,
+    "Title": "Sqrt(x)",
+    "Acceptance": "33.9%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0109490145,
+    "Leetcode Question Link": " https://leetcode.com/problems/sqrtx"
+  },
+  {
+    "ID": 56,
+    "Title": "Merge Intervals",
+    "Acceptance": "39.3%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0074386656,
+    "Leetcode Question Link": " https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "ID": 41,
+    "Title": "First Missing Positive",
+    "Acceptance": "32.0%",
+    "Difficulty": "Hard",
+    "Frequency": 0.0061633477,
+    "Leetcode Question Link": " https://leetcode.com/problems/first-missing-positive"
+  },
+  {
+    "ID": 53,
+    "Title": "Maximum Subarray",
+    "Acceptance": "46.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0020745819,
+    "Leetcode Question Link": " https://leetcode.com/problems/maximum-subarray"
+  },
+  {
+    "ID": 210,
+    "Title": "Course Schedule II",
+    "Acceptance": "40.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0018850147,
+    "Leetcode Question Link": " https://leetcode.com/problems/course-schedule-ii"
+  }
+]

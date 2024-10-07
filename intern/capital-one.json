@@ -1,0 +1,66 @@
+[
+  {
+    "ID": 228,
+    "Title": "Summary Ranges",
+    "Acceptance": "39.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.162901551,
+    "Leetcode Question Link": " https://leetcode.com/problems/summary-ranges"
+  },
+  {
+    "ID": 1071,
+    "Title": "Greatest Common Divisor of Strings",
+    "Acceptance": "52.9%",
+    "Difficulty": "Easy",
+    "Frequency": 0.1218234452,
+    "Leetcode Question Link": " https://leetcode.com/problems/greatest-common-divisor-of-strings"
+  },
+  {
+    "ID": 290,
+    "Title": "Word Pattern",
+    "Acceptance": "37.0%",
+    "Difficulty": "Easy",
+    "Frequency": 0.1098074379,
+    "Leetcode Question Link": " https://leetcode.com/problems/word-pattern"
+  },
+  {
+    "ID": 814,
+    "Title": "Binary Tree Pruning",
+    "Acceptance": "74.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0687293322,
+    "Leetcode Question Link": " https://leetcode.com/problems/binary-tree-pruning"
+  },
+  {
+    "ID": 328,
+    "Title": "Odd Even Linked List",
+    "Acceptance": "55.7%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0468425836,
+    "Leetcode Question Link": " https://leetcode.com/problems/odd-even-linked-list"
+  },
+  {
+    "ID": 204,
+    "Title": "Count Primes",
+    "Acceptance": "31.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0279934304,
+    "Leetcode Question Link": " https://leetcode.com/problems/count-primes"
+  },
+  {
+    "ID": 138,
+    "Title": "Copy List with Random Pointer",
+    "Acceptance": "36.4%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0245373451,
+    "Leetcode Question Link": " https://leetcode.com/problems/copy-list-with-random-pointer"
+  },
+  {
+    "ID": 66,
+    "Title": "Plus One",
+    "Acceptance": "43.0%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0032621135,
+    "Leetcode Question Link": " https://leetcode.com/problems/plus-one"
+  }
+]

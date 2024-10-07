@@ -1,0 +1,18 @@
+[
+  {
+    "ID": 1411,
+    "Title": "Number of Ways to Paint N \u00d7 3 Grid",
+    "Acceptance": "61.1%",
+    "Difficulty": "Hard",
+    "Frequency": 0.2042589902,
+    "Leetcode Question Link": " https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid"
+  },
+  {
+    "ID": 1223,
+    "Title": "Dice Roll Simulation",
+    "Acceptance": "45.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.1021294951,
+    "Leetcode Question Link": " https://leetcode.com/problems/dice-roll-simulation"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "ID": 134,
+    "Title": "Gas Station",
+    "Acceptance": "38.5%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0296476811,
+    "Leetcode Question Link": " https://leetcode.com/problems/gas-station"
+  },
+  {
+    "ID": 259,
+    "Title": "3Sum Smaller",
+    "Acceptance": "47.6%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0261174968,
+    "Leetcode Question Link": " https://leetcode.com/problems/3sum-smaller"
+  },
+  {
+    "ID": 700,
+    "Title": "Search in a Binary Search Tree",
+    "Acceptance": "73.1%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0190522274,
+    "Leetcode Question Link": " https://leetcode.com/problems/search-in-a-binary-search-tree"
+  },
+  {
+    "ID": 88,
+    "Title": "Merge Sorted Array",
+    "Acceptance": "39.4%",
+    "Difficulty": "Easy",
+    "Frequency": 0.011986958,
+    "Leetcode Question Link": " https://leetcode.com/problems/merge-sorted-array"
+  },
+  {
+    "ID": 20,
+    "Title": "Valid Parentheses",
+    "Acceptance": "39.0%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0091706953,
+    "Leetcode Question Link": " https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "ID": 15,
+    "Title": "3Sum",
+    "Acceptance": "26.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0049409928,
+    "Leetcode Question Link": " https://leetcode.com/problems/3sum"
+  },
+  {
+    "ID": 268,
+    "Title": "Missing Number",
+    "Acceptance": "51.7%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0048804392,
+    "Leetcode Question Link": " https://leetcode.com/problems/missing-number"
+  },
+  {
+    "ID": 2,
+    "Title": "Add Two Numbers",
+    "Acceptance": "33.9%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0037953911,
+    "Leetcode Question Link": " https://leetcode.com/problems/add-two-numbers"
+  },
+  {
+    "ID": 14,
+    "Title": "Longest Common Prefix",
+    "Acceptance": "35.4%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0033203318,
+    "Leetcode Question Link": " https://leetcode.com/problems/longest-common-prefix"
+  },
+  {
+    "ID": 1,
+    "Title": "Two Sum",
+    "Acceptance": "45.6%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0032784227,
+    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+  },
+  {
+    "ID": 53,
+    "Title": "Maximum Subarray",
+    "Acceptance": "46.5%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0021670829,
+    "Leetcode Question Link": " https://leetcode.com/problems/maximum-subarray"
+  }
+]

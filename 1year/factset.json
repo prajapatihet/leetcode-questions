@@ -1,0 +1,34 @@
+[
+  {
+    "ID": 168,
+    "Title": "Excel Sheet Column Title",
+    "Acceptance": "31.1%",
+    "Difficulty": "Easy",
+    "Frequency": 0.1146683963,
+    "Leetcode Question Link": " https://leetcode.com/problems/excel-sheet-column-title"
+  },
+  {
+    "ID": 881,
+    "Title": "Boats to Save People",
+    "Acceptance": "46.8%",
+    "Difficulty": "Medium",
+    "Frequency": 0.0629317937,
+    "Leetcode Question Link": " https://leetcode.com/problems/boats-to-save-people"
+  },
+  {
+    "ID": 171,
+    "Title": "Excel Sheet Column Number",
+    "Acceptance": "55.9%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0111951911,
+    "Leetcode Question Link": " https://leetcode.com/problems/excel-sheet-column-number"
+  },
+  {
+    "ID": 1,
+    "Title": "Two Sum",
+    "Acceptance": "45.6%",
+    "Difficulty": "Easy",
+    "Frequency": 0.0018454351,
+    "Leetcode Question Link": " https://leetcode.com/problems/two-sum"
+  }
+]
